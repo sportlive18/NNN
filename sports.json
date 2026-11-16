@@ -1,5 +1,5 @@
 {
-  "last_updated": "16/11/2026, 07:46:40 PM",
+  "last_updated": "16/11/2026, 07:51:22 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 48,
   "matches": [
@@ -123,6 +123,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://6iptv.s3.us-east-1.amazonaws.com/bein1/720p/manifest.m3u8|user-agent=Mozilla/5.0 (Linux; Android 16; A001 Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/157.0.8103.38 Mobile Safari/537.36"
+        },
+        {
+          "name": "beIN ARABIC FHD",
+          "url": "https://live-cdn.ryazanslah3.space/hls/beinn1.m3u8?|Referer=https://www.arena-koora.online/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live-cdn.ryazanslah3.space/hls/beinn1.m3u8?|Referer=https://www.arena-koora.online/"
         },
         {
           "name": "HD STREAM ",
