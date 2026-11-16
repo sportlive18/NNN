@@ -1,0 +1,45 @@
+name: Run script and push output
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  run-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout public repo (NNN)
+        uses: actions/checkout@v4
+
+      - name: Clone private repo
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git clone https://x-access-token:${GH_PAT}@github.com/sportlive18/my-data-collection.git private-code
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install playwright requests
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Run script
+        run: |
+          cd private-code
+          python script.py
+          cp sports.json ../sports.json
+
+      - name: Commit and push sports.json
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add sports.json
+          git commit -m "Update sports.json - $(date '+%Y-%m-%d %H:%M')"
+          git push
