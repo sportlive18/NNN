@@ -1,5 +1,5 @@
 {
-  "last_updated": "16/11/2026, 01:03:28 PM",
+  "last_updated": "16/11/2026, 01:06:54 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 68,
   "matches": [
@@ -317,6 +317,13 @@
           "type": "MPD",
           "key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live.vivo155.com/live/sd-1-4642756.m3u8?txSecret=6f2c96c763cfae8803e1c997e01da3aa&txTime=6AFB0F04|Referer=https://player.on8on8.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.vivo155.com/live/sd-1-4642756.m3u8?txSecret=6f2c96c763cfae8803e1c997e01da3aa&txTime=6AFB0F04|Referer=https://player.on8on8.com/"
         }
       ]
     },
