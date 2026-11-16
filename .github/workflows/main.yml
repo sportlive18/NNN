@@ -17,6 +17,7 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
+          echo "Token length: ${#GH_PAT}"
           git clone https://x-access-token:${GH_PAT}@github.com/sportlive18/my-data-collection.git private-code
 
       - name: Setup Python
