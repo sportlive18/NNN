@@ -1,5 +1,5 @@
 {
-  "last_updated": "16/11/2026, 02:42:31 PM",
+  "last_updated": "16/11/2026, 02:47:07 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 68,
   "matches": [
@@ -491,7 +491,15 @@
       "title": "Faroe Islands vs Moldova",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60250\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60250\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
