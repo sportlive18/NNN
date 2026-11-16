@@ -1,5 +1,5 @@
 {
-  "last_updated": "16/11/2026, 04:37:10 PM",
+  "last_updated": "16/11/2026, 04:41:45 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 65,
   "matches": [
@@ -306,6 +306,20 @@
       "is_today": true,
       "streams": [
         {
+          "name": "FOX SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "name": "PlayZ TV TV+ HD",
+          "url": "https://live.vivo155.com/live/hd-en-1-4518116.m3u8?txSecret=4d81ec34260bff6b8ec4dff3ce28abce&txTime=6AFB2C1A|Referer=https://player.on8on8.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.vivo155.com/live/hd-en-1-4518116.m3u8?txSecret=4d81ec34260bff6b8ec4dff3ce28abce&txTime=6AFB2C1A|Referer=https://player.on8on8.com/"
+        },
+        {
           "name": "PlayZTV Live",
           "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60251\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
           "type": "DIRECT",
@@ -390,6 +404,27 @@
           "type": "MPD",
           "key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live.vivo155.com/live/sd-1-4642746.m3u8?txSecret=b44a03b3dc4b60222914155c2c81a864&txTime=6AFB3BAD|Referer=https://player.on8on8.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.vivo155.com/live/sd-1-4642746.m3u8?txSecret=b44a03b3dc4b60222914155c2c81a864&txTime=6AFB3BAD|Referer=https://player.on8on8.com/"
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://www.rtmpcdn.com/live/260fda44-c0a8-4e78-9bc0-4fb4dfc6e5c7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/260fda44-c0a8-4e78-9bc0-4fb4dfc6e5c7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        },
+        {
+          "name": "LOW QUALITY",
+          "url": "http://193.47.62.50/hls/BTBTBTA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/BTBTBTA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -405,6 +440,27 @@
           "type": "MPD",
           "key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live.vivo155.com/live/sd-1-4642752.m3u8?txSecret=4a9341cde982e15de4ad9d6133433927&txTime=6AFB3B8A|Referer=https://player.on8on8.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.vivo155.com/live/sd-1-4642752.m3u8?txSecret=4a9341cde982e15de4ad9d6133433927&txTime=6AFB3B8A|Referer=https://player.on8on8.com/"
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://www.rtmpcdn.com/live/e1730e93-10ba-4cd5-a2ef-df10b2c8d746.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/e1730e93-10ba-4cd5-a2ef-df10b2c8d746.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        },
+        {
+          "name": "LOW QUALITY",
+          "url": "http://193.47.62.50/hls/BTBTBT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/BTBTBT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
