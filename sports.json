@@ -1,7 +1,7 @@
 {
-  "last_updated": "16/11/2026, 05:51:59 PM",
+  "last_updated": "16/11/2026, 05:56:51 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 66,
+  "total": 65,
   "matches": [
     {
       "category": "Football",
@@ -245,28 +245,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live.msnetworks.net/a-sports/master.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Hockey",
-      "title": "Sweden vs Finland",
-      "time": "🔴 TODAY · 07:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "TSN SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "type": "MPD",
-          "key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "name": "TSN SPORTS2 - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "type": "MPD",
-          "key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
         }
       ]
     },
@@ -641,6 +619,20 @@
           "type": "MPD",
           "key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
           "formatted_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
+        },
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893984~acl=/*~id=73697317520307698475832351779780~hmac=34c065c3fdcc4e3ec1138825f1592fc270f1f6fd320964e8d1daddd0bfc52327",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893984~acl=/*~id=73697317520307698475832351779780~hmac=34c065c3fdcc4e3ec1138825f1592fc270f1f6fd320964e8d1daddd0bfc52327"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/UOOOAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/UOOOAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
