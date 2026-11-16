@@ -1,5 +1,5 @@
 {
-  "last_updated": "16/11/2026, 02:31:50 PM",
+  "last_updated": "16/11/2026, 02:36:57 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 68,
   "matches": [
@@ -123,49 +123,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Afghanistan vs Zimbabwe",
-      "time": "🔴 TODAY · 11:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "WILLOW - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
-          "type": "MPD",
-          "key": "b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd?|drmScheme=clearkey&drmLicense=b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4"
-        },
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8|referer=https://tapmad.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8|referer=https://tapmad.com/"
-        },
-        {
-          "name": "TAMASHA AQ",
-          "url": "https://cdn09khi-n.tamashaweb.com:8087/appcast/zim-vs-afg-t20-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn09khi-n.tamashaweb.com:8087/appcast/zim-vs-afg-t20-abr/playlist.m3u8"
-        },
-        {
-          "name": "ATN SPORTS AQ",
-          "url": "https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8|referer=https://liveland.af/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8|referer=https://liveland.af/"
-        },
-        {
-          "name": "A SPORTS HD",
-          "url": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://playztv-apps.pages.dev/a-sports/index.m3u8"
         }
       ]
     },
@@ -964,6 +921,49 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.50/hls/VFFFA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "category": "Cricket",
+      "title": "Afghanistan vs Zimbabwe",
+      "time": "17/11/2026 · 11:30 AM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "WILLOW - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+          "type": "MPD",
+          "key": "b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd?|drmScheme=clearkey&drmLicense=b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4"
+        },
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8|referer=https://tapmad.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8|referer=https://tapmad.com/"
+        },
+        {
+          "name": "TAMASHA AQ",
+          "url": "https://cdn09khi-n.tamashaweb.com:8087/appcast/zim-vs-afg-t20-abr/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn09khi-n.tamashaweb.com:8087/appcast/zim-vs-afg-t20-abr/playlist.m3u8"
+        },
+        {
+          "name": "ATN SPORTS AQ",
+          "url": "https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8|referer=https://liveland.af/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8|referer=https://liveland.af/"
+        },
+        {
+          "name": "A SPORTS HD",
+          "url": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://playztv-apps.pages.dev/a-sports/index.m3u8"
         }
       ]
     },
