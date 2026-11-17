@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 09:57:01 AM",
+  "last_updated": "17/11/2026, 10:02:28 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 78,
   "matches": [
@@ -309,6 +309,20 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8"
+        },
+        {
+          "name": "HD FAST",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794913063-0-0-1f2ddbcaf2a382ca58e3c7b484f37b77",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794913063-0-0-1f2ddbcaf2a382ca58e3c7b484f37b77"
+        },
+        {
+          "name": "SD STREAM ",
+          "url": "http://193.47.62.59/hls/RARARA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.59/hls/RARARA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
