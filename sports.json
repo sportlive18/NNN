@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 07:27:18 PM",
+  "last_updated": "17/11/2026, 07:31:48 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 70,
   "matches": [
@@ -169,6 +169,20 @@
           "type": "MPD",
           "key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d"
+        },
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60318\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60318\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -198,6 +212,20 @@
           "type": "MPD",
           "key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
           "formatted_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d"
+        },
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60317\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60317\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -206,21 +234,66 @@
       "title": "Poland vs Sweden",
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60312\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60312\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Ireland vs Kosovo",
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60315\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60315\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Bosnia & Herzegovina vs Romania",
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60314\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60314\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -241,6 +314,20 @@
           "type": "MPD",
           "key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
+        },
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60313\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60313\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d"
         }
       ]
     },
@@ -270,6 +357,20 @@
           "type": "MPD",
           "key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
           "formatted_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60311\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60311\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d"
         }
       ]
     },
