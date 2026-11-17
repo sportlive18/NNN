@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 08:11:54 PM",
+  "last_updated": "17/11/2026, 08:17:21 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 71,
   "matches": [
@@ -37,7 +37,29 @@
       "title": "Botswana vs Uganda",
       "time": "🔴 TODAY · 12:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD Stream ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/"
+        },
+        {
+          "name": "PlayZ Tv live ",
+          "url": "https://www.rtmpcdn.com/live/0489b6ea-3126-4f40-8e32-925de4f01da9.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/0489b6ea-3126-4f40-8e32-925de4f01da9.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "LOW QUALITY",
+          "url": "http://193.47.62.59/hls/ZZZZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.59/hls/ZZZZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -59,7 +81,15 @@
       "title": "Liberia vs Cabo Verde",
       "time": "🔴 TODAY · 12:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://www.rtmpcdn.com/live/37203718-1081-4248-9944-b20441ff36b7.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/37203718-1081-4248-9944-b20441ff36b7.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -513,6 +543,13 @@
           "type": "MPD",
           "key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "name": "HD STREAM",
+          "url": "https://www.rtmpcdn.com/live/066ac51b-41c5-4d77-884f-5d599c538536.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/066ac51b-41c5-4d77-884f-5d599c538536.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         },
         {
           "name": "HD STREAM",
