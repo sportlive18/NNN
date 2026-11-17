@@ -1,7 +1,7 @@
 {
-  "last_updated": "17/11/2026, 04:32:16 AM",
+  "last_updated": "17/11/2026, 04:36:57 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 73,
+  "total": 79,
   "matches": [
     {
       "category": "Football",
@@ -560,6 +560,35 @@
     },
     {
       "category": "Cricket",
+      "title": "NPL vs NPL",
+      "time": "🔴 TODAY · 12:15 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "FANCODE - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "type": "MPD",
+          "key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "name": "NPL LIVE FHD",
+          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "formatted_url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "name": "SS SPORTS FHD",
+          "url": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8"
+        }
+      ]
+    },
+    {
+      "category": "Cricket",
       "title": "South Africa vs Bangladesh",
       "time": "🔴 TODAY · 01:30 PM",
       "is_today": true,
@@ -607,6 +636,13 @@
           "formatted_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
         }
       ]
+    },
+    {
+      "category": "Cricket",
+      "title": "Adelaide Strikers Women vs Sydney Sixers Women",
+      "time": "🔴 TODAY · 01:40 PM",
+      "is_today": true,
+      "streams": []
     },
     {
       "category": "Football",
@@ -689,6 +725,13 @@
     },
     {
       "category": "Football",
+      "title": "Saudi Arabia vs Uzbekistan",
+      "time": "🔴 TODAY · 09:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Gambia vs Côte d'Ivoire",
       "time": "🔴 TODAY · 09:30 PM",
       "is_today": true,
@@ -725,6 +768,20 @@
     {
       "category": "Football",
       "title": "Kenya vs South Africa",
+      "time": "🔴 TODAY · 09:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Jordan vs Australia",
+      "time": "🔴 TODAY · 09:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Kuwait vs Honduras",
       "time": "🔴 TODAY · 09:30 PM",
       "is_today": true,
       "streams": []
@@ -831,6 +888,13 @@
       "category": "Football",
       "title": "Niger vs Morocco",
       "time": "18/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Argentina vs Costa Rica",
+      "time": "18/11/2026 · 02:30 AM",
       "is_today": false,
       "streams": []
     },
