@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 02:17:50 PM",
+  "last_updated": "17/11/2026, 02:22:25 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 95,
   "matches": [
@@ -450,6 +450,13 @@
           "formatted_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
         },
         {
+          "name": "PlayZ TV Live",
+          "url": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/"
+        },
+        {
           "name": "BTV BD - AQ",
           "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
           "type": "M3U8",
@@ -668,7 +675,15 @@
       "title": "Saint Kitts and Nevis vs Bonaire",
       "time": "18/11/2026 · 12:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel10.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel10.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
