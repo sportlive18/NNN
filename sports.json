@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 03:37:11 PM",
+  "last_updated": "17/11/2026, 03:42:14 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 95,
   "matches": [
@@ -407,6 +407,13 @@
           "formatted_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
         },
         {
+          "name": "T SPORTS HD",
+          "url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8"
+        },
+        {
           "name": "PlayZ TV Live",
           "url": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/",
           "type": "M3U8",
@@ -419,13 +426,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/"
-        },
-        {
-          "name": "T SPORTS HD",
-          "url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8"
         },
         {
           "name": "LOW STREAM",
@@ -801,7 +801,7 @@
     },
     {
       "category": "Football",
-      "title": "Israel vs Austria",
+      "title": "F**k U Israel vs Austria",
       "time": "18/11/2026 · 01:15 AM",
       "is_today": false,
       "streams": [
@@ -965,7 +965,15 @@
       "title": "Florida Panthers vs Edmonton Oilers",
       "time": "18/11/2026 · 05:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "PREMIER SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "type": "MPD",
+          "key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        }
+      ]
     },
     {
       "category": "Hockey",
@@ -1007,7 +1015,15 @@
       "title": "Tampa Bay Lightning vs Washington Capitals",
       "time": "18/11/2026 · 06:00 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "PREMIER SPORTS - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "type": "MPD",
+          "key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ]
     },
     {
       "category": "Hockey",
@@ -1085,7 +1101,15 @@
       "title": "Vegas Golden Knights vs Dallas Stars",
       "time": "18/11/2026 · 08:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "PREMIER SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "type": "MPD",
+          "key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        }
+      ]
     },
     {
       "category": "Basketball",
@@ -1505,64 +1529,7 @@
       "title": "SmackDown vs SmackDown",
       "time": "21/11/2026 · 05:30 AM",
       "is_today": false,
-      "streams": [
-        {
-          "name": "WWE LIVE FHD",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "name": "PlayZTV WWE",
-          "url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "NETFLIX FHD",
-          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
-        },
-        {
-          "name": "SMACKDOWN HD",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "name": "NETFLIX HD",
-          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/2.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/2.m3u8"
-        },
-        {
-          "name": "SMACKDOWN SD",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
-        },
-        {
-          "name": "NETFLIX SD",
-          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/3.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/3.m3u8"
-        },
-        {
-          "name": "PLAYZ TV HD",
-          "url": "https://pz.ekkktb.workers.dev/?q=WWE vs wwe",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https://pz.ekkktb.workers.dev/?q=WWE vs wwe"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Mixed Martial Arts",
