@@ -1,44 +1,8 @@
 {
-  "last_updated": "17/11/2026, 01:07:07 PM",
+  "last_updated": "17/11/2026, 01:11:48 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 77,
   "matches": [
-    {
-      "category": "Wwe",
-      "title": "WWE RAW vs WWE RAW",
-      "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PLAYZ TV",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
-        },
-        {
-          "name": "SD STREAM ",
-          "url": "okOkja ",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "okOkja "
-        },
-        {
-          "name": "HD SERVER ",
-          "url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-        },
-        {
-          "name": "SD STREAM BK",
-          "url": "okOkja ",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "okOkja "
-        }
-      ]
-    },
     {
       "category": "Cricket",
       "title": "Afghanistan vs Zimbabwe",
@@ -112,10 +76,10 @@
         },
         {
           "name": "NPL LIVE FHD",
-          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd",
           "type": "MPD",
-          "key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "formatted_url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+          "key": "b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936",
+          "formatted_url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd?|drmScheme=clearkey&drmLicense=b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936"
         },
         {
           "name": "SS SPORTS FHD",
@@ -378,7 +342,7 @@
       "is_today": true,
       "streams": [
         {
-          "name": "HD QUALITY",
+          "name": "PlayZ Live ",
           "url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8?|Referer=https://xlz.domainkqt.cc/",
           "type": "M3U8",
           "key": null,
@@ -499,6 +463,49 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.41/hls/DGGGAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "category": "Cricket",
+      "title": "Abu Dhabi T10 vs Abu Dhabi T10",
+      "time": "🔴 TODAY · 07:00 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "WILLOW - AQ",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "type": "MPD",
+          "key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
+          "formatted_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd?|drmScheme=clearkey&drmLicense=eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531"
+        },
+        {
+          "name": "PREMIERE SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "type": "MPD",
+          "key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "name": "TAMASHA PRO AQ ",
+          "url": "https://cdn04khi-n.tamashaweb.com:8087/appcast/abudhabi-t10-adfree-2026-abr/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn04khi-n.tamashaweb.com:8087/appcast/abudhabi-t10-adfree-2026-abr/playlist.m3u8"
+        },
+        {
+          "name": "MYCO AQ ",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/"
+        },
+        {
+          "name": "A SPORTS HD",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.msnetworks.net/a-sports/master.m3u8"
         }
       ]
     },
@@ -935,49 +942,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Abu Dhabi T10 vs Abu Dhabi T10",
-      "time": "18/11/2026 · 07:15 PM",
-      "is_today": false,
-      "streams": [
-        {
-          "name": "WILLOW - AQ",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
-          "type": "MPD",
-          "key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
-          "formatted_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd?|drmScheme=clearkey&drmLicense=eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531"
-        },
-        {
-          "name": "PREMIERE SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "type": "MPD",
-          "key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "name": "TAMASHA PRO AQ ",
-          "url": "https://cdn04khi-n.tamashaweb.com:8087/appcast/abudhabi-t10-adfree-2026-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn04khi-n.tamashaweb.com:8087/appcast/abudhabi-t10-adfree-2026-abr/playlist.m3u8"
-        },
-        {
-          "name": "MYCO AQ ",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/"
-        },
-        {
-          "name": "A SPORTS HD",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.msnetworks.net/a-sports/master.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
       "title": "New Zealand vs India",
       "time": "19/11/2026 · 03:30 AM",
       "is_today": false,
@@ -1280,6 +1244,42 @@
           "type": "MPD",
           "key": "117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
           "formatted_url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13"
+        }
+      ]
+    },
+    {
+      "category": "Wwe",
+      "title": "WWE RAW vs WWE RAW",
+      "time": "24/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "PLAYZ TV",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
+        },
+        {
+          "name": "SD STREAM ",
+          "url": "okOkja ",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "okOkja "
+        },
+        {
+          "name": "HD SERVER ",
+          "url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+        },
+        {
+          "name": "SD STREAM BK",
+          "url": "okOkja ",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "okOkja "
         }
       ]
     },
