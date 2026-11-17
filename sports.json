@@ -1,7 +1,7 @@
 {
-  "last_updated": "17/11/2026, 04:41:29 AM",
+  "last_updated": "17/11/2026, 04:46:30 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 58,
+  "total": 64,
   "matches": [
     {
       "category": "Wwe",
@@ -112,6 +112,13 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "Tahiti vs Cook Islands",
+      "time": "🔴 TODAY · 11:00 AM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Cricket",
       "title": "Afghanistan vs Zimbabwe",
       "time": "🔴 TODAY · 11:30 AM",
@@ -153,6 +160,13 @@
           "formatted_url": "https://playztv-apps.pages.dev/a-sports/index.m3u8"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Yemen vs Malaysia",
+      "time": "🔴 TODAY · 11:30 AM",
+      "is_today": true,
+      "streams": []
     },
     {
       "category": "Cricket",
@@ -286,6 +300,13 @@
     },
     {
       "category": "Football",
+      "title": "Kyrgyzstan vs Vietnam",
+      "time": "🔴 TODAY · 05:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Tanzania vs Nigeria",
       "time": "🔴 TODAY · 06:30 PM",
       "is_today": true,
@@ -350,6 +371,20 @@
     },
     {
       "category": "Football",
+      "title": "Qatar vs South Korea",
+      "time": "🔴 TODAY · 07:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "United Arab Emirates vs Syria",
+      "time": "🔴 TODAY · 07:40 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Saudi Arabia vs Uzbekistan",
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
@@ -407,7 +442,7 @@
     {
       "category": "Football",
       "title": "Kuwait vs Honduras",
-      "time": "🔴 TODAY · 09:30 PM",
+      "time": "🔴 TODAY · 10:00 PM",
       "is_today": true,
       "streams": []
     },
@@ -533,6 +568,13 @@
     {
       "category": "Football",
       "title": "Uruguay vs Dominican Republic",
+      "time": "18/11/2026 · 05:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Ecuador vs Bolivia",
       "time": "18/11/2026 · 05:00 AM",
       "is_today": false,
       "streams": []
