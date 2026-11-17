@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 03:42:14 PM",
+  "last_updated": "17/11/2026, 03:47:35 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 95,
   "matches": [
@@ -400,18 +400,18 @@
           "formatted_url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=5f8ff92e6e3080384ee999020096f6d2&txTime=6afcb2c0"
         },
         {
-          "name": "VETO TV - AQ [IND]",
-          "url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
-        },
-        {
           "name": "T SPORTS HD",
           "url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8"
+        },
+        {
+          "name": "VETO TV - AQ [IND]",
+          "url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
         },
         {
           "name": "PlayZ TV Live",
@@ -1529,7 +1529,64 @@
       "title": "SmackDown vs SmackDown",
       "time": "21/11/2026 · 05:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "WWE LIVE FHD",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        },
+        {
+          "name": "PlayZTV WWE",
+          "url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+          "name": "NETFLIX FHD",
+          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
+        },
+        {
+          "name": "SMACKDOWN HD",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "name": "NETFLIX HD",
+          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/2.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/2.m3u8"
+        },
+        {
+          "name": "SMACKDOWN SD",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
+        },
+        {
+          "name": "NETFLIX SD",
+          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/3.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/3.m3u8"
+        },
+        {
+          "name": "PLAYZ TV HD",
+          "url": "https://pz.ekkktb.workers.dev/?q=WWE vs wwe",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://pz.ekkktb.workers.dev/?q=WWE vs wwe"
+        }
+      ]
     },
     {
       "category": "Mixed Martial Arts",
