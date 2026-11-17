@@ -1,7 +1,7 @@
 {
-  "last_updated": "17/11/2026, 08:31:52 PM",
+  "last_updated": "17/11/2026, 08:37:09 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 70,
+  "total": 89,
   "matches": [
     {
       "category": "Darts",
@@ -1128,9 +1128,128 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "Real Madrid vs Inter",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "BK Häcken FF vs Manchester City",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Flamengo vs Fluminense",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Botafogo vs Vasco da Gama",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Utebo FC vs CE Sabadell",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Club Portugalete vs Real Unión Club",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Utebo FC vs CE Sabadell",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Flamengo vs Botafogo",
+      "time": "19/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "CD Alcoyano vs Mallorca",
+      "time": "19/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Deportiva Minera vs FC Cartagena",
+      "time": "19/11/2026 · 01:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Reus FC Reddis vs Barakaldo CF",
+      "time": "19/11/2026 · 01:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Juventus vs Oud-Heverlee Leuven",
+      "time": "19/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Chelsea FC vs Paris Saint-Germain",
+      "time": "19/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Cricket",
       "title": "New Zealand vs India",
       "time": "19/11/2026 · 03:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Coritiba vs Santos",
+      "time": "19/11/2026 · 04:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Remo vs Chapecoense",
+      "time": "19/11/2026 · 04:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Flamengo vs Athletico",
+      "time": "19/11/2026 · 05:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Cruzeiro vs Palmeiras",
+      "time": "19/11/2026 · 05:00 AM",
       "is_today": false,
       "streams": []
     },
@@ -1176,6 +1295,20 @@
           "formatted_url": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?|Referer=https://gooz.aapmains.net"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Corinthians vs Botafogo",
+      "time": "19/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Grêmio vs Bahia",
+      "time": "19/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Motorsport",
