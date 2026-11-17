@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 08:03:21 PM",
+  "last_updated": "17/11/2026, 08:07:19 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 71,
   "matches": [
@@ -44,15 +44,7 @@
       "title": "Rwanda vs Mali",
       "time": "🔴 TODAY · 12:30 AM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "beIN ESPNAOL FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
