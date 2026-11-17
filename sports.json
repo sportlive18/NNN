@@ -1,7 +1,7 @@
 {
-  "last_updated": "17/11/2026, 04:46:30 AM",
+  "last_updated": "17/11/2026, 04:51:51 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 64,
+  "total": 78,
   "matches": [
     {
       "category": "Wwe",
@@ -307,6 +307,13 @@
     },
     {
       "category": "Football",
+      "title": "China vs Bahrain",
+      "time": "🔴 TODAY · 05:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Tanzania vs Nigeria",
       "time": "🔴 TODAY · 06:30 PM",
       "is_today": true,
@@ -490,6 +497,34 @@
     },
     {
       "category": "Football",
+      "title": "Saint Lucia vs Barbados",
+      "time": "18/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Saint Kitts and Nevis vs Bonaire",
+      "time": "18/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Dominica vs Cayman Islands",
+      "time": "18/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Belize vs Sint Maarten",
+      "time": "18/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Hungary vs Northern Ireland",
       "time": "18/11/2026 · 01:15 AM",
       "is_today": false,
@@ -614,6 +649,69 @@
           "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "USA vs Haiti",
+      "time": "18/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "French Guiana vs Saint Vincent and the Grenadines",
+      "time": "18/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "El Salvador vs Saint Martin",
+      "time": "18/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Mexico vs Jamaica",
+      "time": "18/11/2026 · 08:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Nicaragua vs Montserrat",
+      "time": "18/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Cricket",
+      "title": "Papua New Guinea Women vs United Arab Emirates Women",
+      "time": "18/11/2026 · 10:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Cricket",
+      "title": "Ireland Women vs Scotland Women",
+      "time": "18/11/2026 · 10:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh Women vs Thailand Women",
+      "time": "18/11/2026 · 02:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Cricket",
+      "title": "Netherlands Women vs Zimbabwe Women",
+      "time": "18/11/2026 · 02:45 PM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Cricket",
