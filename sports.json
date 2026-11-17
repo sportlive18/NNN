@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 03:02:25 PM",
+  "last_updated": "17/11/2026, 03:07:34 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 95,
   "matches": [
@@ -400,6 +400,13 @@
           "formatted_url": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/"
         },
         {
+          "name": "HD FAST",
+          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=5f8ff92e6e3080384ee999020096f6d2&txTime=6afcb2c0",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=5f8ff92e6e3080384ee999020096f6d2&txTime=6afcb2c0"
+        },
+        {
           "name": "VETO TV - AQ [IND]",
           "url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
           "type": "M3U8",
@@ -412,13 +419,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/"
-        },
-        {
-          "name": "HD FAST",
-          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=5f8ff92e6e3080384ee999020096f6d2&txTime=6afcb2c0",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=5f8ff92e6e3080384ee999020096f6d2&txTime=6afcb2c0"
         },
         {
           "name": "T SPORTS HD",
