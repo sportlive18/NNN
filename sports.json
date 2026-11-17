@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 02:22:25 PM",
+  "last_updated": "17/11/2026, 02:27:17 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 95,
   "matches": [
@@ -450,18 +450,18 @@
           "formatted_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
         },
         {
-          "name": "PlayZ TV Live",
-          "url": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/"
-        },
-        {
           "name": "BTV BD - AQ",
           "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8"
+        },
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/"
         },
         {
           "name": "MYCO - AQ [PK]",
@@ -563,7 +563,15 @@
       "title": "Saudi Arabia vs Uzbekistan",
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel23.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel23.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -612,7 +620,15 @@
       "title": "Jordan vs Australia",
       "time": "🔴 TODAY · 09:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -626,7 +642,15 @@
       "title": "Russia vs Venezuela",
       "time": "🔴 TODAY · 10:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
