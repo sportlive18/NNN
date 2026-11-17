@@ -1,7 +1,7 @@
 {
-  "last_updated": "17/11/2026, 01:42:03 PM",
+  "last_updated": "17/11/2026, 01:47:05 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 81,
+  "total": 95,
   "matches": [
     {
       "category": "Cricket",
@@ -201,50 +201,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=setanta1.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Kyrgyzstan vs Vietnam",
-      "time": "🔴 TODAY · 05:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "HD ",
-          "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.41/hls/DGGGA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/DGGGA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "China vs Bahrain",
-      "time": "🔴 TODAY · 05:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "HD",
-          "url": "https://live2.jorvakstreamcache.com/live/channel10.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel10.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.41/hls/DGGG.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/DGGG.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -487,11 +443,11 @@
       "is_today": true,
       "streams": [
         {
-          "name": "BONGO HD",
-          "url": "https://live-sg-aws.bongobd.com/hls/v2.TfNwct-D964tAEFJSzA0Ug/1794674071/bongoiptv/SAFFmatch08_mid/chunks.m3u8|User-Agent=iPhone",
+          "name": "VETO TV - AQ [IND]",
+          "url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://live-sg-aws.bongobd.com/hls/v2.TfNwct-D964tAEFJSzA0Ug/1794674071/bongoiptv/SAFFmatch08_mid/chunks.m3u8|User-Agent=iPhone"
+          "formatted_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
         },
         {
           "name": "BTV BD - AQ",
@@ -506,13 +462,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live2.jorvakstreamcache.com/live/channel19.m3u8?|Referer=https://xlz.domainkqt.cc/"
-        },
-        {
-          "name": "BTV BD SD",
-          "url": "https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8"
         },
         {
           "name": "HD FAST",
@@ -555,13 +504,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/"
-        },
-        {
-          "name": "VETO TV - AQ [IND]",
-          "url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
         },
         {
           "name": "T SPORTS BK",
@@ -908,8 +850,92 @@
       "streams": []
     },
     {
+      "category": "Hockey",
+      "title": "Florida Panthers vs Edmonton Oilers",
+      "time": "18/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Philadelphia Flyers vs Buffalo Sabres",
+      "time": "18/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "New York Islanders vs Columbus Blue Jackets",
+      "time": "18/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Winnipeg Jets vs Ottawa Senators",
+      "time": "18/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Boston Bruins vs Los Angeles Kings",
+      "time": "18/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Toronto Raptors vs New York Knicks",
+      "time": "18/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Tampa Bay Lightning vs Washington Capitals",
+      "time": "18/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Chicago Blackhawks vs Toronto Maple Leafs",
+      "time": "18/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "El Salvador vs Saint Martin",
+      "time": "18/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Minnesota Timberwolves vs Portland Trail Blazers",
+      "time": "18/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "San Antonio Spurs vs Detroit Pistons",
+      "time": "18/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "St. Louis Blues vs Anaheim Ducks",
+      "time": "18/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Minnesota Wild vs Nashville Predators",
       "time": "18/11/2026 · 06:30 AM",
       "is_today": false,
       "streams": []
@@ -933,6 +959,34 @@
       "category": "Football",
       "title": "Nicaragua vs Montserrat",
       "time": "18/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "San Jose Sharks vs Calgary Flames",
+      "time": "18/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Vegas Golden Knights vs Dallas Stars",
+      "time": "18/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Los Angeles Clippers vs Utah Jazz",
+      "time": "18/11/2026 · 09:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Los Angeles Lakers vs Charlotte Hornets",
+      "time": "18/11/2026 · 09:30 AM",
       "is_today": false,
       "streams": []
     },
