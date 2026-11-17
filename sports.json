@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 04:56:57 AM",
+  "last_updated": "17/11/2026, 05:02:00 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 78,
   "matches": [
@@ -366,15 +366,7 @@
       "title": "India vs Pakistan",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "HD STREAM",
-          "url": "https://playztv.pages.dev/sss/index.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://playztv.pages.dev/sss/index.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
