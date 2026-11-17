@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 01:37:00 PM",
+  "last_updated": "17/11/2026, 01:42:03 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 81,
   "matches": [
@@ -58,35 +58,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8?|Referer=https://xlz.domainkqt.cc/"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "NPL vs NPL",
-      "time": "🔴 TODAY · 12:15 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "FANCODE - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "type": "MPD",
-          "key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "name": "NPL LIVE FHD",
-          "url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd",
-          "type": "MPD",
-          "key": "b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936",
-          "formatted_url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd?|drmScheme=clearkey&drmLicense=b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936"
-        },
-        {
-          "name": "SS SPORTS FHD",
-          "url": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8"
         }
       ]
     },
@@ -831,21 +802,45 @@
       "title": "Argentina vs Costa Rica",
       "time": "18/11/2026 · 02:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Chile vs Colombia",
       "time": "18/11/2026 · 04:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD stream  ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Uruguay vs Dominican Republic",
       "time": "18/11/2026 · 05:00 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -895,7 +890,15 @@
       "title": "USA vs Haiti",
       "time": "18/11/2026 · 05:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel17.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel17.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -916,7 +919,15 @@
       "title": "Mexico vs Jamaica",
       "time": "18/11/2026 · 08:00 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -1002,6 +1013,35 @@
       "time": "18/11/2026 · 10:30 AM",
       "is_today": false,
       "streams": []
+    },
+    {
+      "category": "Cricket",
+      "title": "NPL vs NPL",
+      "time": "18/11/2026 · 12:15 PM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "FANCODE - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "type": "MPD",
+          "key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "name": "NPL LIVE FHD",
+          "url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd",
+          "type": "MPD",
+          "key": "b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936",
+          "formatted_url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd?|drmScheme=clearkey&drmLicense=b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936"
+        },
+        {
+          "name": "SS SPORTS FHD",
+          "url": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8"
+        }
+      ]
     },
     {
       "category": "Cricket",
