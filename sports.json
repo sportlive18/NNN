@@ -1,7 +1,7 @@
 {
-  "last_updated": "17/11/2026, 04:32:48 PM",
+  "last_updated": "17/11/2026, 04:37:56 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 95,
+  "total": 94,
   "matches": [
     {
       "category": "Cricket",
@@ -381,84 +381,6 @@
     },
     {
       "category": "Football",
-      "title": "India vs Pakistan",
-      "time": "🔴 TODAY · 07:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "BTV BD - AQ",
-          "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8"
-        },
-        {
-          "name": "HD FAST",
-          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=5f8ff92e6e3080384ee999020096f6d2&txTime=6afcb2c0",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=5f8ff92e6e3080384ee999020096f6d2&txTime=6afcb2c0"
-        },
-        {
-          "name": "VETO TV - AQ [IND]",
-          "url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
-        },
-        {
-          "name": "T SPORTS HD",
-          "url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8"
-        },
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/"
-        },
-        {
-          "name": "MYCO - AQ [PK]",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/"
-        },
-        {
-          "name": "LOW STREAM",
-          "url": "http://193.47.62.41/hls/DGGGAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/DGGGAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "BTV LOW",
-          "url": "https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8"
-        },
-        {
-          "name": "T SPORTS S2",
-          "url": "http://103.209.196.22:84/feed1001/index.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://103.209.196.22:84/feed1001/index.m3u8"
-        },
-        {
-          "name": "T SPORTS FHD",
-          "url": "http://116.204.149.16/T_SportsFHD/index.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://116.204.149.16/T_SportsFHD/index.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Football",
       "title": "Qatar vs South Korea",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
@@ -703,7 +625,15 @@
       "title": "Kuwait vs Honduras",
       "time": "🔴 TODAY · 10:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "LOW QUALITY",
+          "url": "http://193.47.62.41/hls/JJJJGAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/JJJJGAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
