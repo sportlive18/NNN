@@ -1,7 +1,7 @@
 {
-  "last_updated": "17/11/2026, 04:26:20 AM",
+  "last_updated": "17/11/2026, 04:32:16 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 47,
+  "total": 73,
   "matches": [
     {
       "category": "Football",
@@ -426,7 +426,22 @@
       "title": "Denver Nuggets vs Phoenix Suns",
       "time": "🔴 TODAY · 07:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60309\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60309\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "https://www.rtmpcdn.com/live/ed5a7c66-c352-4222-803b-126e2688f7af.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/ed5a7c66-c352-4222-803b-126e2688f7af.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Hockey",
@@ -610,6 +625,48 @@
     },
     {
       "category": "Football",
+      "title": "Tanzania vs Nigeria",
+      "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Ethiopia vs Mozambique",
+      "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "South Sudan vs Angola",
+      "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Malawi vs Egypt",
+      "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Lesotho vs Gabon",
+      "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Burundi vs Zambia",
+      "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Japan vs Paraguay",
       "time": "🔴 TODAY · 06:40 PM",
       "is_today": true,
@@ -632,9 +689,149 @@
     },
     {
       "category": "Football",
+      "title": "Gambia vs Côte d'Ivoire",
+      "time": "🔴 TODAY · 09:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Togo vs Algeria",
+      "time": "🔴 TODAY · 09:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Libya vs Tunisia",
+      "time": "🔴 TODAY · 09:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Guinea-Bissau vs Madagascar",
+      "time": "🔴 TODAY · 09:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Sierra Leone vs DR Congo",
+      "time": "🔴 TODAY · 09:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Kenya vs South Africa",
+      "time": "🔴 TODAY · 09:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Russia vs Venezuela",
       "time": "🔴 TODAY · 10:30 PM",
       "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Botswana vs Uganda",
+      "time": "18/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Rwanda vs Mali",
+      "time": "18/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Liberia vs Cabo Verde",
+      "time": "18/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Mauritania vs Burkina Faso",
+      "time": "18/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Congo Republic vs Comoros",
+      "time": "18/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Hungary vs Northern Ireland",
+      "time": "18/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Wales vs Portugal",
+      "time": "18/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Poland vs Sweden",
+      "time": "18/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Ireland vs Kosovo",
+      "time": "18/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Bosnia & Herzegovina vs Romania",
+      "time": "18/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Ukraine vs Georgia",
+      "time": "18/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Israel vs Austria",
+      "time": "18/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Denmark vs Norway",
+      "time": "18/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Niger vs Morocco",
+      "time": "18/11/2026 · 01:30 AM",
+      "is_today": false,
       "streams": []
     },
     {
