@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 04:02:11 PM",
+  "last_updated": "17/11/2026, 04:07:26 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 95,
   "matches": [
@@ -581,6 +581,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8"
+        },
+        {
           "name": "LOW QUALITY",
           "url": "http://193.47.62.41/hls/tbbbAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
           "type": "M3U8",
@@ -595,6 +602,13 @@
       "time": "🔴 TODAY · 09:30 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel16.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel16.m3u8"
+        },
         {
           "name": "LOW QUALITY",
           "url": "http://193.47.62.41/hls/tbbbAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
@@ -616,6 +630,13 @@
           "type": "MPD",
           "key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8"
         },
         {
           "name": "LOW QUALITY",
@@ -645,6 +666,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.50/hls/tbbb.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        },
+        {
+          "name": "HD STREAM",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8"
         }
       ]
     },
