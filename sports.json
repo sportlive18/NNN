@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 07:56:51 PM",
+  "last_updated": "17/11/2026, 08:03:21 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 71,
   "matches": [
@@ -249,6 +249,13 @@
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60317\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
         },
         {
+          "name": "BeIN ARABIA HD",
+          "url": "https://bplive2.akbarnews.store/cdn/native/live1/index-single.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://bplive2.akbarnews.store/cdn/native/live1/index-single.m3u8"
+        },
+        {
           "name": "HD STREAM ",
           "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
           "type": "M3U8",
@@ -469,23 +476,38 @@
     },
     {
       "category": "Football",
-      "title": "Argentina vs Costa Rica",
-      "time": "🔴 TODAY · 02:30 AM",
+      "title": "Chile vs Colombia",
+      "time": "🔴 TODAY · 04:30 AM",
       "is_today": true,
       "streams": [
         {
-          "name": "HD STREAM ",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
+          "name": "HD stream  ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/"
-        },
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8"
+        }
+      ]
+    },
+    {
+      "category": "Football",
+      "title": "Argentina vs Costa Rica",
+      "time": "🔴 TODAY · 04:30 AM",
+      "is_today": true,
+      "streams": [
         {
           "name": "SporTV BR FHD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "type": "MPD",
           "key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/"
         },
         {
           "name": "D Sports FHD",
@@ -500,21 +522,6 @@
           "type": "MPD",
           "key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
           "formatted_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Chile vs Colombia",
-      "time": "🔴 TODAY · 04:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "HD stream  ",
-          "url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8"
         }
       ]
     },
