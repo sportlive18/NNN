@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 04:22:24 PM",
+  "last_updated": "17/11/2026, 04:27:18 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 95,
   "matches": [
@@ -344,10 +344,10 @@
       "streams": [
         {
           "name": "WILLOW - AQ",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/obji2ejym5/out/v1/aca15f10dc1b4fe6a4d25c04438b5bd2/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/fehi3mxtqo/out/v1/c7ace340dfab4a1fa798cc693914ddbe/cenc.mpd",
           "type": "MPD",
-          "key": "b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044",
-          "formatted_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/obji2ejym5/out/v1/aca15f10dc1b4fe6a4d25c04438b5bd2/cenc.mpd?|drmScheme=clearkey&drmLicense=b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044"
+          "key": "d57defa12fc43c991a7f82fc57f8212f:915269b352069f2dfa826a64a0905681",
+          "formatted_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/fehi3mxtqo/out/v1/c7ace340dfab4a1fa798cc693914ddbe/cenc.mpd?|drmScheme=clearkey&drmLicense=d57defa12fc43c991a7f82fc57f8212f:915269b352069f2dfa826a64a0905681"
         },
         {
           "name": "PREMIERE SPORTS - AQ",
@@ -400,18 +400,18 @@
           "formatted_url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=5f8ff92e6e3080384ee999020096f6d2&txTime=6afcb2c0"
         },
         {
-          "name": "T SPORTS HD",
-          "url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8"
-        },
-        {
           "name": "VETO TV - AQ [IND]",
           "url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
+        },
+        {
+          "name": "T SPORTS HD",
+          "url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8"
         },
         {
           "name": "PlayZ TV Live",
