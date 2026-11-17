@@ -1,7 +1,7 @@
 {
-  "last_updated": "17/11/2026, 06:57:53 PM",
+  "last_updated": "17/11/2026, 07:01:46 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 71,
+  "total": 70,
   "matches": [
     {
       "category": "Darts",
@@ -59,6 +59,13 @@
           "type": "MPD",
           "key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "name": "HD STREAM",
+          "url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/"
         }
       ]
     },
@@ -67,14 +74,15 @@
       "title": "Congo Republic vs Comoros",
       "time": "🔴 TODAY · 12:30 AM",
       "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Saint Lucia vs Barbados",
-      "time": "🔴 TODAY · 12:30 AM",
-      "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live2.jorvakstreamcache.com/live/channel14.m3u8?|Referer=https://xlz.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel14.m3u8?|Referer=https://xlz.domainkqt.cc/"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -96,14 +104,44 @@
       "title": "Dominica vs Cayman Islands",
       "time": "🔴 TODAY · 12:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZ TV TV",
+          "url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/EIIIAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/EIIIAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Belize vs Sint Maarten",
       "time": "🔴 TODAY · 12:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZ TV TV",
+          "url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/EIII.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/EIII.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
