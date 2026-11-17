@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 07:16:49 AM",
+  "last_updated": "17/11/2026, 07:22:50 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 77,
   "matches": [
@@ -79,6 +79,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8|referer=https://tapmad.com/"
+        },
+        {
+          "name": "VITO AQ (IND) ",
+          "url": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8"
         },
         {
           "name": "PTV SPORTS HD",
