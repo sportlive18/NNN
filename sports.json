@@ -1,7 +1,7 @@
 {
-  "last_updated": "17/11/2026, 01:17:36 PM",
+  "last_updated": "17/11/2026, 01:22:01 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 77,
+  "total": 79,
   "matches": [
     {
       "category": "Cricket",
@@ -1162,6 +1162,70 @@
       ]
     },
     {
+      "category": "Wwe",
+      "title": "SmackDown vs SmackDown",
+      "time": "21/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "WWE LIVE FHD",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        },
+        {
+          "name": "PlayZTV WWE",
+          "url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+          "name": "NETFLIX FHD",
+          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
+        },
+        {
+          "name": "SMACKDOWN HD",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "name": "NETFLIX HD",
+          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/2.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/2.m3u8"
+        },
+        {
+          "name": "SMACKDOWN SD",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
+        },
+        {
+          "name": "NETFLIX SD",
+          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/3.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/3.m3u8"
+        },
+        {
+          "name": "PLAYZ TV HD",
+          "url": "https://pz.ekkktb.workers.dev/?q=WWE vs wwe",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://pz.ekkktb.workers.dev/?q=WWE vs wwe"
+        }
+      ]
+    },
+    {
       "category": "Mixed Martial Arts",
       "title": "BKFC vs BKFC",
       "time": "21/11/2026 · 07:30 AM",
@@ -1331,6 +1395,35 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.41/hls/HLLLAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "category": "Mixed Martial Arts",
+      "title": "Henry Cejudo  vs Song Yadong",
+      "time": "29/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "STARZPLAY SPORTS AQ",
+          "url": "https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd",
+          "type": "MPD",
+          "key": "ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0",
+          "formatted_url": "https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd?|drmScheme=clearkey&drmLicense=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0"
+        },
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60043\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60043\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.55/hls/EJJJAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.55/hls/EJJJAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
