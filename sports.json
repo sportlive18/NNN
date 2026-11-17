@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/11/2026, 01:32:23 PM",
+  "last_updated": "17/11/2026, 01:37:00 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 81,
   "matches": [
@@ -516,11 +516,88 @@
       "is_today": true,
       "streams": [
         {
-          "name": "HD STREAM",
-          "url": "https://playztv.pages.dev/sss/index.m3u8",
+          "name": "BONGO HD",
+          "url": "https://live-sg-aws.bongobd.com/hls/v2.TfNwct-D964tAEFJSzA0Ug/1794674071/bongoiptv/SAFFmatch08_mid/chunks.m3u8|User-Agent=iPhone",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://playztv.pages.dev/sss/index.m3u8"
+          "formatted_url": "https://live-sg-aws.bongobd.com/hls/v2.TfNwct-D964tAEFJSzA0Ug/1794674071/bongoiptv/SAFFmatch08_mid/chunks.m3u8|User-Agent=iPhone"
+        },
+        {
+          "name": "BTV BD - AQ",
+          "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8"
+        },
+        {
+          "name": "HD STREAM",
+          "url": "https://live2.jorvakstreamcache.com/live/channel19.m3u8?|Referer=https://xlz.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel19.m3u8?|Referer=https://xlz.domainkqt.cc/"
+        },
+        {
+          "name": "BTV BD SD",
+          "url": "https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8"
+        },
+        {
+          "name": "HD FAST",
+          "url": "https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794669987-0-0-74b37e5093ff66f289c6368cbfc38a5d",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794669987-0-0-74b37e5093ff66f289c6368cbfc38a5d"
+        },
+        {
+          "name": "T SPORTS  ",
+          "url": "http://103.209.196.22:84/feed1001/index.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://103.209.196.22:84/feed1001/index.m3u8"
+        },
+        {
+          "name": "T SPORTS FHD",
+          "url": "http://116.204.149.16/T_SportsFHD/index.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://116.204.149.16/T_SportsFHD/index.m3u8"
+        },
+        {
+          "name": "T SPORTS HD",
+          "url": "http://103.238.115.159:8080/T-SPORRTS-HD/index.m3u8?token=AKASH",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://103.238.115.159:8080/T-SPORRTS-HD/index.m3u8?token=AKASH"
+        },
+        {
+          "name": "BACKUPS HD",
+          "url": "https://live05.yefpwmc.app/live/18812304.m3u8?_t=1794666280950",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live05.yefpwmc.app/live/18812304.m3u8?_t=1794666280950"
+        },
+        {
+          "name": "MYCO - AQ [PK]",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/"
+        },
+        {
+          "name": "VETO TV - AQ [IND]",
+          "url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
+        },
+        {
+          "name": "T SPORTS BK",
+          "url": "https://bdtop1.tvhunter.top/T-SPORTS-HD/tracks-v1a1/mono.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://bdtop1.tvhunter.top/T-SPORTS-HD/tracks-v1a1/mono.m3u8"
         }
       ]
     },
