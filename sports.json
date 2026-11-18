@@ -1,65 +1,8 @@
 {
-  "last_updated": "18/11/2026, 12:26:31 PM",
+  "last_updated": "18/11/2026, 12:31:46 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 61,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Pakistan vs Sri Lanka",
-      "time": "🔴 TODAY · 10:00 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd",
-          "type": "MPD",
-          "key": "a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd?|drmScheme=clearkey&drmLicense=a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3"
-        },
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/"
-        },
-        {
-          "name": "TAMASHA PRO AQ ",
-          "url": "https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8"
-        },
-        {
-          "name": "TAPMAD HD",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8|referer=https://tapmad.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8|referer=https://tapmad.com/"
-        },
-        {
-          "name": "VITO AQ (IND) ",
-          "url": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8"
-        },
-        {
-          "name": "PTV SPORTS HD",
-          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.msnetworks.net/ptv-sports/master.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.41/hls/RREGEGE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/RREGEGE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
     {
       "category": "Cricket",
       "title": "South Africa vs Bangladesh",
@@ -161,10 +104,10 @@
         },
         {
           "name": "MYCO - AQ [PK]",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Feed2/hls/index.m3u8|referer=https://myco.io/",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/Feed2/hls/index.m3u8|referer=https://myco.io/"
+          "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/"
         },
         {
           "name": "TAMASHA - AQ [PK]",
@@ -395,7 +338,15 @@
       "title": "Chelsea FC vs Paris Saint-Germain",
       "time": "19/11/2026 · 01:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "CBS SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+          "type": "MPD",
+          "key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        }
+      ]
     },
     {
       "category": "Cricket",
@@ -784,6 +735,63 @@
           "type": "MPD",
           "key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        }
+      ]
+    },
+    {
+      "category": "Cricket",
+      "title": "Pakistan vs Sri Lanka",
+      "time": "19/11/2026 · 10:00 AM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "WILLOW - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd",
+          "type": "MPD",
+          "key": "a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd?|drmScheme=clearkey&drmLicense=a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3"
+        },
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/"
+        },
+        {
+          "name": "TAMASHA PRO AQ ",
+          "url": "https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8"
+        },
+        {
+          "name": "TAPMAD HD",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8|referer=https://tapmad.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8|referer=https://tapmad.com/"
+        },
+        {
+          "name": "VITO AQ (IND) ",
+          "url": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8"
+        },
+        {
+          "name": "PTV SPORTS HD",
+          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.msnetworks.net/ptv-sports/master.m3u8"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/RREGEGE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/RREGEGE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
