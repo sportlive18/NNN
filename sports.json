@@ -1,7 +1,7 @@
 {
-  "last_updated": "18/11/2026, 11:56:32 AM",
+  "last_updated": "18/11/2026, 12:02:01 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 60,
+  "total": 61,
   "matches": [
     {
       "category": "Cricket",
@@ -244,6 +244,28 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8"
+        }
+      ]
+    },
+    {
+      "category": "Boxing",
+      "title": "TEREMOANA vs HEMI AHIO",
+      "time": "🔴 TODAY · 07:00 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60107\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60107\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/NGGG.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/NGGG.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
