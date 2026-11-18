@@ -1,7 +1,7 @@
 {
-  "last_updated": "18/11/2026, 09:20:24 AM",
+  "last_updated": "18/11/2026, 09:26:15 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 44,
+  "total": 43,
   "matches": [
     {
       "category": "Darts",
@@ -179,21 +179,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.41/hls/RREGEGE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Papua New Guinea Women vs United Arab Emirates Women",
-      "time": "🔴 TODAY · 10:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "ICC TV FHD",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795007101~acl=*%2Fchannel(vcg-01-ch-hd-06)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=07d42f192cbbd28389764b0a0c06d73fdb85be19dff53148af65f1979844c691/manifest.mpd?vcfilter=268c69c2-f531-4ad0-8022-ae44ad8a66ef&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "formatted_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795007101~acl=*%2Fchannel(vcg-01-ch-hd-06)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=07d42f192cbbd28389764b0a0c06d73fdb85be19dff53148af65f1979844c691/manifest.mpd?vcfilter=268c69c2-f531-4ad0-8022-ae44ad8a66ef&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
         }
       ]
     },
