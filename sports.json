@@ -1,80 +1,8 @@
 {
-  "last_updated": "18/11/2026, 11:51:39 AM",
+  "last_updated": "18/11/2026, 11:56:32 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 61,
+  "total": 60,
   "matches": [
-    {
-      "category": "Darts",
-      "title": "Darts vs Darts",
-      "time": "🔴 TODAY · 12:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "SPORT 1 DE - AQ ",
-          "url": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
-          "type": "MPD",
-          "key": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0",
-          "formatted_url": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?|drmScheme=clearkey&drmLicense=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0"
-        },
-        {
-          "name": "NOVA SPORTS CZ AQ ",
-          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "formatted_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "name": "LOW SERVER",
-          "url": "http://193.47.62.59/hls/BEEEAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.59/hls/BEEEAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "category": "Wwe",
-      "title": "WWE NXT vs WWE NXT",
-      "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "HD STREAM ",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "name": "HD STREAM ",
-          "url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-        },
-        {
-          "name": "NXT HD",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "name": "NXT SD",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Basketball",
-      "title": "Los Angeles Lakers vs Charlotte Hornets",
-      "time": "🔴 TODAY · 09:30 AM",
-      "is_today": true,
-      "streams": []
-    },
     {
       "category": "Cricket",
       "title": "Pakistan vs Sri Lanka",
@@ -389,6 +317,28 @@
       "time": "🔴 TODAY · 11:30 PM",
       "is_today": true,
       "streams": []
+    },
+    {
+      "category": "Darts",
+      "title": "Darts vs Darts",
+      "time": "19/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "SPORT 1 DE - AQ ",
+          "url": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
+          "type": "MPD",
+          "key": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0",
+          "formatted_url": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?|drmScheme=clearkey&drmLicense=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0"
+        },
+        {
+          "name": "NOVA SPORTS CZ AQ ",
+          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "formatted_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -1298,6 +1248,42 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "okOkja "
+        }
+      ]
+    },
+    {
+      "category": "Wwe",
+      "title": "WWE NXT vs WWE NXT",
+      "time": "25/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        },
+        {
+          "name": "HD STREAM ",
+          "url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+        },
+        {
+          "name": "NXT HD",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "name": "NXT SD",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
         }
       ]
     },
