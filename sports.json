@@ -1,5 +1,5 @@
 {
-  "last_updated": "18/11/2026, 09:51:31 PM",
+  "last_updated": "18/11/2026, 09:56:26 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 49,
   "matches": [
@@ -91,10 +91,10 @@
       "streams": [
         {
           "name": "PRIME VIDEO - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gsa8ep1ayl/out/v1/1691db997c074c45bfee48d70b3e8c12/cenc.mpd",
           "type": "MPD",
-          "key": "d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd?|drmScheme=clearkey&drmLicense=d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae"
+          "key": "35183f892d12a791690417225bc42eb1:5126e0c580888655dbf96a95560489f6",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gsa8ep1ayl/out/v1/1691db997c074c45bfee48d70b3e8c12/cenc.mpd?|drmScheme=clearkey&drmLicense=35183f892d12a791690417225bc42eb1:5126e0c580888655dbf96a95560489f6"
         },
         {
           "name": "PRIME HINDI - AQ",
