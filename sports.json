@@ -1,5 +1,5 @@
 {
-  "last_updated": "18/11/2026, 04:16:47 PM",
+  "last_updated": "18/11/2026, 04:21:45 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 61,
   "matches": [
@@ -220,10 +220,10 @@
       "streams": [
         {
           "name": "WILLOW - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o5raaf1w01/out/v1/5327ed7dbb71426fb7d1ab8f15df4abc/cenc.mpd",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0l2pj0gnuu/out/v1/5cdb31bc933d4e81aeb2c2f1e7c88fcb/cenc.mpd",
           "type": "MPD",
-          "key": "4d847b9651a3ac01b953fbfc68752074:c989999872b1859ca9609d9ee6552ec5",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o5raaf1w01/out/v1/5327ed7dbb71426fb7d1ab8f15df4abc/cenc.mpd?|drmScheme=clearkey&drmLicense=4d847b9651a3ac01b953fbfc68752074:c989999872b1859ca9609d9ee6552ec5"
+          "key": "f57608d741bd9eeb53fee59e054a318d:9ff99be42923aa8fbe6dcadbc399f3a1",
+          "formatted_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0l2pj0gnuu/out/v1/5cdb31bc933d4e81aeb2c2f1e7c88fcb/cenc.mpd?|drmScheme=clearkey&drmLicense=f57608d741bd9eeb53fee59e054a318d:9ff99be42923aa8fbe6dcadbc399f3a1"
         },
         {
           "name": "PREMIERE SPORTS - AQ",
