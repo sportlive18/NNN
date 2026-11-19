@@ -1,5 +1,5 @@
 {
-  "last_updated": "19/11/2026, 05:41:25 AM",
+  "last_updated": "19/11/2026, 05:46:37 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 43,
   "matches": [
@@ -1229,43 +1229,7 @@
       "title": "ZOUAD vs DIANI",
       "time": "12/12/2026 · 03:30 AM",
       "is_today": false,
-      "streams": [
-        {
-          "name": "AD SPORTS EN/AR - AQ ",
-          "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
-          "type": "MPD",
-          "key": "117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
-          "formatted_url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13"
-        },
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/59992\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/59992\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "TAPMAD - AQ ",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8|referer=https://tapmad.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8|referer=https://tapmad.com/"
-        },
-        {
-          "name": "EUROSPORT - AQ ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "type": "MPD",
-          "key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-          "formatted_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd?|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.55/hls/JJJJ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.55/hls/JJJJ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Boxing",
