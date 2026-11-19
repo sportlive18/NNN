@@ -1,7 +1,7 @@
 {
-  "last_updated": "19/11/2026, 07:56:10 AM",
+  "last_updated": "19/11/2026, 08:01:22 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 28,
+  "total": 45,
   "matches": [
     {
       "category": "Darts",
@@ -234,10 +234,10 @@
       "streams": [
         {
           "name": "WILLOW - AQ",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vpayuuzjup/out/v1/bc0a550c2e694ee1ae017a247ab05e49/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
           "type": "MPD",
-          "key": "82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf",
-          "formatted_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vpayuuzjup/out/v1/bc0a550c2e694ee1ae017a247ab05e49/cenc.mpd?|drmScheme=clearkey&drmLicense=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf"
+          "key": "6f87f49f1a51b9c8d7d11a23c3f207ef:0fdd85e00b98637bb97e1b6b319d2be9",
+          "formatted_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd?|drmScheme=clearkey&drmLicense=6f87f49f1a51b9c8d7d11a23c3f207ef:0fdd85e00b98637bb97e1b6b319d2be9"
         },
         {
           "name": "SKY CRICKET - AQ",
@@ -255,10 +255,10 @@
         },
         {
           "name": "TAPMAD - AQ",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
         }
       ]
     },
@@ -524,6 +524,125 @@
           "formatted_url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd?|drmScheme=clearkey&drmLicense=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59"
         }
       ]
+    },
+    {
+      "category": "Hockey",
+      "title": "Carolina Hurricanes vs Montréal Canadiens",
+      "time": "20/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Toronto Maple Leafs vs Los Angeles Kings",
+      "time": "20/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Pittsburgh Penguins vs St. Louis Blues",
+      "time": "20/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Ottawa Senators vs Philadelphia Flyers",
+      "time": "20/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Washington Capitals vs Buffalo Sabres",
+      "time": "20/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Winnipeg Jets vs New York Islanders",
+      "time": "20/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Tampa Bay Lightning vs Edmonton Oilers",
+      "time": "20/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Minnesota Timberwolves vs New York Knicks",
+      "time": "20/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Memphis Grizzlies vs Golden State Warriors",
+      "time": "20/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Milwaukee Bucks vs Portland Trail Blazers",
+      "time": "20/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "San Antonio Spurs vs Los Angeles Clippers",
+      "time": "20/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Chicago Blackhawks vs Columbus Blue Jackets",
+      "time": "20/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Calgary Flames vs Minnesota Wild",
+      "time": "20/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Houston Texans vs Indianapolis Colts",
+      "time": "20/11/2026 · 06:45 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Colorado Avalanche vs Anaheim Ducks",
+      "time": "20/11/2026 · 07:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Seattle Kraken vs Vancouver Canucks",
+      "time": "20/11/2026 · 08:10 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Vegas Golden Knights vs Dallas Stars",
+      "time": "20/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Motorsport",
