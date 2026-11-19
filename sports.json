@@ -1,7 +1,7 @@
 {
-  "last_updated": "19/11/2026, 11:57:25 AM",
+  "last_updated": "19/11/2026, 12:02:07 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 91,
+  "total": 71,
   "matches": [
     {
       "category": "Darts",
@@ -1112,118 +1112,6 @@
       "streams": []
     },
     {
-      "category": "Football",
-      "title": "Millwall vs Queens Park Rangers",
-      "time": "21/11/2026 · 06:00 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Southampton vs Derby County",
-      "time": "21/11/2026 · 06:00 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Blackpool vs Wigan Athletic",
-      "time": "21/11/2026 · 06:00 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Norwich City vs Cardiff City",
-      "time": "21/11/2026 · 06:00 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Reading vs Bromley",
-      "time": "21/11/2026 · 06:00 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Liverpool FC vs Chelsea FC",
-      "time": "21/11/2026 · 06:15 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Amedspor vs Çaykur Rizespor",
-      "time": "21/11/2026 · 06:30 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Deportivo Alavés vs Deportivo de A Coruña",
-      "time": "21/11/2026 · 06:30 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "CE Sabadell vs Granada",
-      "time": "21/11/2026 · 06:30 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Galatasaray vs Samsunspor",
-      "time": "21/11/2026 · 06:30 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Falkirk FC vs St. Johnstone",
-      "time": "21/11/2026 · 08:30 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Falkirk FC vs St. Johnstone",
-      "time": "21/11/2026 · 08:30 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Cambridge United vs Stockport County",
-      "time": "21/11/2026 · 08:30 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Sheffield United vs Watford",
-      "time": "21/11/2026 · 08:30 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Lincoln City vs Wrexham",
-      "time": "21/11/2026 · 08:30 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Real Sociedad B vs Cádiz",
-      "time": "21/11/2026 · 08:45 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
       "category": "Mixed Martial Arts",
       "title": "Mateusz Legierski vs Ivan Buchinger",
       "time": "21/11/2026 · 10:00 PM",
@@ -1272,34 +1160,6 @@
           "formatted_url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13"
         }
       ]
-    },
-    {
-      "category": "Football",
-      "title": "Parma vs AS Roma",
-      "time": "21/11/2026 · 10:30 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Parma vs AS Roma",
-      "time": "21/11/2026 · 10:30 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "1. FC Kaiserslautern vs SG Dynamo Dresden",
-      "time": "22/11/2026 · 06:00 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "1. FC Kaiserslautern vs SG Dynamo Dresden",
-      "time": "22/11/2026 · 06:00 PM",
-      "is_today": false,
-      "streams": []
     },
     {
       "category": "Cricket",
