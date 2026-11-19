@@ -1,5 +1,5 @@
 {
-  "last_updated": "19/11/2026, 05:32:37 PM",
+  "last_updated": "19/11/2026, 05:37:37 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 110,
   "matches": [
@@ -324,14 +324,37 @@
       "title": "Maccabi Tel Aviv vs BC Dubai",
       "time": "🔴 TODAY · 10:45 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PLAYZ TV live ",
+          "url": "https://www.rtmpcdn.com/live/66d426e5-db2c-4d1f-9fda-cbcae9128f96.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/66d426e5-db2c-4d1f-9fda-cbcae9128f96.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/RARARAD.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/RARARAD.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Paris FC vs HB Køge",
       "time": "🔴 TODAY · 11:15 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel16.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel16.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -352,7 +375,15 @@
       "title": "Arsenal vs OL Lyonnes",
       "time": "20/11/2026 · 01:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
