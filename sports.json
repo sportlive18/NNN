@@ -1,7 +1,7 @@
 {
-  "last_updated": "19/11/2026, 06:41:43 AM",
+  "last_updated": "19/11/2026, 06:46:18 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 43,
+  "total": 42,
   "matches": [
     {
       "category": "Darts",
@@ -22,112 +22,6 @@
           "type": "MPD",
           "key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
           "formatted_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "New Zealand vs India",
-      "time": "🔴 TODAY · 03:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PRIME VIDEO - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gsa8ep1ayl/out/v1/1691db997c074c45bfee48d70b3e8c12/cenc.mpd",
-          "type": "MPD",
-          "key": "35183f892d12a791690417225bc42eb1:5126e0c580888655dbf96a95560489f6",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gsa8ep1ayl/out/v1/1691db997c074c45bfee48d70b3e8c12/cenc.mpd?|drmScheme=clearkey&drmLicense=35183f892d12a791690417225bc42eb1:5126e0c580888655dbf96a95560489f6"
-        },
-        {
-          "name": "WILLOW - AQ [Ad Free]",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd",
-          "type": "MPD",
-          "key": "52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09",
-          "formatted_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd?|drmScheme=clearkey&drmLicense=52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09"
-        },
-        {
-          "name": "TNT SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "type": "MPD",
-          "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/"
-        },
-        {
-          "name": "WILLOW S2 - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd",
-          "type": "MPD",
-          "key": "52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd?|drmScheme=clearkey&drmLicense=52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09"
-        },
-        {
-          "name": "SONYLIV ENG - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
-        },
-        {
-          "name": "SONYLIV HIN - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
-        },
-        {
-          "name": "SONYLIV TAM - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
-        },
-        {
-          "name": "SONYLIV TEL - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
-        },
-        {
-          "name": "SONYLIV KAN - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
-        },
-        {
-          "name": "SONY GLOBAL ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
-        },
-        {
-          "name": "SONYLIV BD - AQ",
-          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
-        },
-        {
-          "name": "SONY SKY FEED",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794745802~acl=/*~id=1443a48b700567b196bdce17d26eea74-1794702602236~hmac=c27cfa6b505fbd7a90ee2777f4ad98b99fe36c75e684d09ac59bacd3942898a1",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794745802~acl=/*~id=1443a48b700567b196bdce17d26eea74-1794702602236~hmac=c27cfa6b505fbd7a90ee2777f4ad98b99fe36c75e684d09ac59bacd3942898a1"
-        },
-        {
-          "name": "TAPMAD S2 - AQ",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8|referer=https://tapmad.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8|referer=https://tapmad.com/"
         }
       ]
     },
@@ -414,21 +308,6 @@
       ]
     },
     {
-      "category": "Hockey",
-      "title": "Utah Mammoth vs Colorado Avalanche",
-      "time": "🔴 TODAY · 08:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PREMIER SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "type": "MPD",
-          "key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        }
-      ]
-    },
-    {
       "category": "Cricket",
       "title": "Pakistan vs Sri Lanka",
       "time": "🔴 TODAY · 10:00 AM",
@@ -647,6 +526,112 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live.msnetworks.net/a-sports/master.m3u8"
+        }
+      ]
+    },
+    {
+      "category": "Cricket",
+      "title": "New Zealand vs India",
+      "time": "20/11/2026 · 03:30 AM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "PRIME VIDEO - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gsa8ep1ayl/out/v1/1691db997c074c45bfee48d70b3e8c12/cenc.mpd",
+          "type": "MPD",
+          "key": "35183f892d12a791690417225bc42eb1:5126e0c580888655dbf96a95560489f6",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gsa8ep1ayl/out/v1/1691db997c074c45bfee48d70b3e8c12/cenc.mpd?|drmScheme=clearkey&drmLicense=35183f892d12a791690417225bc42eb1:5126e0c580888655dbf96a95560489f6"
+        },
+        {
+          "name": "WILLOW - AQ [Ad Free]",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd",
+          "type": "MPD",
+          "key": "52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09",
+          "formatted_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd?|drmScheme=clearkey&drmLicense=52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09"
+        },
+        {
+          "name": "TNT SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "type": "MPD",
+          "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/"
+        },
+        {
+          "name": "WILLOW S2 - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd",
+          "type": "MPD",
+          "key": "52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd?|drmScheme=clearkey&drmLicense=52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09"
+        },
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
+        },
+        {
+          "name": "SONYLIV HIN - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
+        },
+        {
+          "name": "SONYLIV TAM - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
+        },
+        {
+          "name": "SONYLIV TEL - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
+        },
+        {
+          "name": "SONYLIV KAN - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
+        },
+        {
+          "name": "SONY GLOBAL ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
+        },
+        {
+          "name": "SONYLIV BD - AQ",
+          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83"
+        },
+        {
+          "name": "SONY SKY FEED",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794745802~acl=/*~id=1443a48b700567b196bdce17d26eea74-1794702602236~hmac=c27cfa6b505fbd7a90ee2777f4ad98b99fe36c75e684d09ac59bacd3942898a1",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794745802~acl=/*~id=1443a48b700567b196bdce17d26eea74-1794702602236~hmac=c27cfa6b505fbd7a90ee2777f4ad98b99fe36c75e684d09ac59bacd3942898a1"
+        },
+        {
+          "name": "TAPMAD S2 - AQ",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8|referer=https://tapmad.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8|referer=https://tapmad.com/"
         }
       ]
     },
