@@ -1,7 +1,7 @@
 {
-  "last_updated": "19/11/2026, 07:08:34 AM",
+  "last_updated": "19/11/2026, 07:11:14 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 27,
+  "total": 28,
   "matches": [
     {
       "category": "Darts",
@@ -259,6 +259,21 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
+        }
+      ]
+    },
+    {
+      "category": "Cricket",
+      "title": "Afghanistan A vs Sri Lanka A",
+      "time": "🔴 TODAY · 03:30 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "PlayZ TV",
+          "url": "no",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "no"
         }
       ]
     },
