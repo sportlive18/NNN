@@ -1,5 +1,5 @@
 {
-  "last_updated": "19/11/2026, 08:37:25 PM",
+  "last_updated": "19/11/2026, 08:42:36 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 101,
   "matches": [
@@ -119,6 +119,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "TNT SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "type": "MPD",
+          "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
           "name": "PRIME VIDEO - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gsa8ep1ayl/out/v1/1691db997c074c45bfee48d70b3e8c12/cenc.mpd",
           "type": "MPD",
@@ -131,13 +138,6 @@
           "type": "MPD",
           "key": "52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09",
           "formatted_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd?|drmScheme=clearkey&drmLicense=52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09"
-        },
-        {
-          "name": "TNT SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "type": "MPD",
-          "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
         },
         {
           "name": "TAPMAD - AQ",
@@ -1597,15 +1597,7 @@
       "title": "Jose Aldo vs Lazy Boy",
       "time": "20/12/2026 · 09:30 PM",
       "is_today": false,
-      "streams": [
-        {
-          "name": "DAZN AQ ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s8whotxtvx/out/v1/2edfd49aaf71440e86eb73d7df83c980/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "4339adc036fc1a1270d41aa1bef4b16a:640ce635e7ca20a820c51717d85db278",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s8whotxtvx/out/v1/2edfd49aaf71440e86eb73d7df83c980/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=4339adc036fc1a1270d41aa1bef4b16a:640ce635e7ca20a820c51717d85db278"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Boxing",
