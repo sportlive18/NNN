@@ -1,7 +1,7 @@
 {
-  "last_updated": "19/11/2026, 11:52:58 AM",
+  "last_updated": "19/11/2026, 11:57:25 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 56,
+  "total": 91,
   "matches": [
     {
       "category": "Darts",
@@ -65,56 +65,6 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?|Referer=https://gooz.aapmains.net"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Pakistan vs Sri Lanka",
-      "time": "🔴 TODAY · 10:00 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
-          "type": "MPD",
-          "key": "15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2",
-          "formatted_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd?|drmScheme=clearkey&drmLicense=15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2"
-        },
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com"
-        },
-        {
-          "name": "TAMASHA PRO AQ ",
-          "url": "https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8"
-        },
-        {
-          "name": "VITO AQ (IND) ",
-          "url": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8"
-        },
-        {
-          "name": "PTV SPORTS HD",
-          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.msnetworks.net/ptv-sports/master.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.41/hls/RREGEGE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/RREGEGE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -778,6 +728,56 @@
       "streams": []
     },
     {
+      "category": "Cricket",
+      "title": "Pakistan vs Sri Lanka",
+      "time": "20/11/2026 · 10:00 AM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
+          "type": "MPD",
+          "key": "15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2",
+          "formatted_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd?|drmScheme=clearkey&drmLicense=15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2"
+        },
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com"
+        },
+        {
+          "name": "TAMASHA PRO AQ ",
+          "url": "https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8"
+        },
+        {
+          "name": "VITO AQ (IND) ",
+          "url": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8"
+        },
+        {
+          "name": "PTV SPORTS HD",
+          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.msnetworks.net/ptv-sports/master.m3u8"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/RREGEGE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/RREGEGE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
       "category": "Motorsport",
       "title": "MotoGP vs MotoGP",
       "time": "20/11/2026 · 04:15 PM",
@@ -828,6 +828,13 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "East Bengal FC vs Sporting Delhi",
+      "time": "20/11/2026 · 05:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Mixed Martial Arts",
       "title": "ONE  vs ONE",
       "time": "20/11/2026 · 07:00 PM",
@@ -848,6 +855,69 @@
           "formatted_url": "https://fastly.live.brightcove.com/1870589077269940904/ap-northeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoidTBzYTJxLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NzA1ODkwNzcyNjk5NDA5MDQifQ.lXj1GmSg6qP5Vr089nM3lEvwAspkJUicfhIX0htOsRk/playlist-hls.m3u8"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Bengaluru FC vs Mumbai City FC",
+      "time": "20/11/2026 · 07:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Darmstadt 98 vs 1. FC Heidenheim",
+      "time": "20/11/2026 · 11:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al-Ahli vs Al-Nassr",
+      "time": "20/11/2026 · 11:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Arminia Bielefeld vs 1. FC Magdeburg",
+      "time": "20/11/2026 · 11:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FC Andorra vs Leganés",
+      "time": "21/11/2026 · 01:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FC Bayern München vs 1. FC Köln",
+      "time": "21/11/2026 · 01:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Troyes vs Le Havre",
+      "time": "21/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Barnsley vs Sheffield Wednesday",
+      "time": "21/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Athletic Club vs Espanyol",
+      "time": "21/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Wwe",
@@ -1007,6 +1077,153 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "Chennaiyin FC vs Punjab FC",
+      "time": "21/11/2026 · 05:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "VfL Wolfsburg vs Holstein Kiel",
+      "time": "21/11/2026 · 05:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "1. FC Nürnberg vs Eintracht Braunschweig",
+      "time": "21/11/2026 · 05:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Hannover 96 vs SpVgg Greuther Fürth",
+      "time": "21/11/2026 · 05:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Manchester City vs Fulham",
+      "time": "21/11/2026 · 06:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Millwall vs Queens Park Rangers",
+      "time": "21/11/2026 · 06:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Southampton vs Derby County",
+      "time": "21/11/2026 · 06:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Blackpool vs Wigan Athletic",
+      "time": "21/11/2026 · 06:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Norwich City vs Cardiff City",
+      "time": "21/11/2026 · 06:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Reading vs Bromley",
+      "time": "21/11/2026 · 06:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Liverpool FC vs Chelsea FC",
+      "time": "21/11/2026 · 06:15 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Amedspor vs Çaykur Rizespor",
+      "time": "21/11/2026 · 06:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Deportivo Alavés vs Deportivo de A Coruña",
+      "time": "21/11/2026 · 06:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "CE Sabadell vs Granada",
+      "time": "21/11/2026 · 06:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Galatasaray vs Samsunspor",
+      "time": "21/11/2026 · 06:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Falkirk FC vs St. Johnstone",
+      "time": "21/11/2026 · 08:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Falkirk FC vs St. Johnstone",
+      "time": "21/11/2026 · 08:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Cambridge United vs Stockport County",
+      "time": "21/11/2026 · 08:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Sheffield United vs Watford",
+      "time": "21/11/2026 · 08:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Lincoln City vs Wrexham",
+      "time": "21/11/2026 · 08:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Real Sociedad B vs Cádiz",
+      "time": "21/11/2026 · 08:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Mixed Martial Arts",
       "title": "Mateusz Legierski vs Ivan Buchinger",
       "time": "21/11/2026 · 10:00 PM",
@@ -1055,6 +1272,34 @@
           "formatted_url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Parma vs AS Roma",
+      "time": "21/11/2026 · 10:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Parma vs AS Roma",
+      "time": "21/11/2026 · 10:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "1. FC Kaiserslautern vs SG Dynamo Dresden",
+      "time": "22/11/2026 · 06:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "1. FC Kaiserslautern vs SG Dynamo Dresden",
+      "time": "22/11/2026 · 06:00 PM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Cricket",
