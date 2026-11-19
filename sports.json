@@ -1,7 +1,7 @@
 {
-  "last_updated": "19/11/2026, 02:27:19 PM",
+  "last_updated": "19/11/2026, 02:33:00 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 105,
+  "total": 106,
   "matches": [
     {
       "category": "Darts",
@@ -101,21 +101,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh A vs hong Kong",
-      "time": "🔴 TODAY · 11:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "TAMASHA AQ",
-          "url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8"
         }
       ]
     },
@@ -777,6 +762,28 @@
           "formatted_url": "http://193.47.62.41/hls/RREGEGE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
+    },
+    {
+      "category": "Cricket",
+      "title": "Pakistan A vs UAE",
+      "time": "20/11/2026 · 11:30 AM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "TAMASHA AQ",
+          "url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "category": "Cricket",
+      "title": "India A vs Nepal",
+      "time": "20/11/2026 · 03:30 PM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Motorsport",
