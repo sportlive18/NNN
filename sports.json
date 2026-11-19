@@ -1,5 +1,5 @@
 {
-  "last_updated": "19/11/2026, 12:22:44 PM",
+  "last_updated": "19/11/2026, 12:27:49 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 105,
   "matches": [
@@ -287,6 +287,35 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=setanta1.m3u8"
+        }
+      ]
+    },
+    {
+      "category": "Cricket",
+      "title": "NPL vs NPL",
+      "time": "🔴 TODAY · 04:45 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "NPL LIVE FHD",
+          "url": "https://ott-edge-mtdc.nettv.com.np/npl/live_match3/index.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936",
+          "formatted_url": "https://ott-edge-mtdc.nettv.com.np/npl/live_match3/index.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936"
+        },
+        {
+          "name": "FANCODE - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "type": "MPD",
+          "key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "name": "SS SPORTS FHD",
+          "url": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8"
         }
       ]
     },
@@ -1094,13 +1123,6 @@
       "category": "Football",
       "title": "Chennaiyin FC vs Punjab FC",
       "time": "21/11/2026 · 05:00 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "VfL Wolfsburg vs Holstein Kiel",
-      "time": "21/11/2026 · 05:30 PM",
       "is_today": false,
       "streams": []
     },
