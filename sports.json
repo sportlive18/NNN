@@ -1,5 +1,5 @@
 {
-  "last_updated": "19/11/2026, 10:22:43 PM",
+  "last_updated": "19/11/2026, 10:27:20 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 98,
   "matches": [
@@ -136,6 +136,13 @@
           "type": "MPD",
           "key": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8"
+        },
+        {
+          "name": "RT SPORTS ",
+          "url": "https://cdn.hdm1.net/SkySportCalcioIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRDYWxjaW9JVHxub19jaGVja19pcHwxNzk1MTI3MDY4.2e0905c3e8db94a2798b5019471c7d6f6eb4c0ee6acf71ac615ff2a109475798|referer=https://wideiptv.top/&origin=https://wideiptv.top",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn.hdm1.net/SkySportCalcioIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRDYWxjaW9JVHxub19jaGVja19pcHwxNzk1MTI3MDY4.2e0905c3e8db94a2798b5019471c7d6f6eb4c0ee6acf71ac615ff2a109475798|referer=https://wideiptv.top/&origin=https://wideiptv.top"
         }
       ]
     },
