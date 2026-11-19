@@ -1,7 +1,7 @@
 {
-  "last_updated": "19/11/2026, 12:02:07 PM",
+  "last_updated": "19/11/2026, 12:07:39 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 71,
+  "total": 96,
   "matches": [
     {
       "category": "Darts",
@@ -907,6 +907,13 @@
     },
     {
       "category": "Football",
+      "title": "Troyes vs Le Havre",
+      "time": "21/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Barnsley vs Sheffield Wednesday",
       "time": "21/11/2026 · 01:30 AM",
       "is_today": false,
@@ -1112,6 +1119,76 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "Como vs Cagliari",
+      "time": "21/11/2026 · 07:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Lazio vs Lecce",
+      "time": "21/11/2026 · 07:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Coventry City vs Crystal Palace",
+      "time": "21/11/2026 · 08:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Aston Villa vs Sunderland",
+      "time": "21/11/2026 · 08:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Chelsea vs Leeds United",
+      "time": "21/11/2026 · 08:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Bournemouth vs Nottingham Forest",
+      "time": "21/11/2026 · 08:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Tottenham Hotspur vs Ipswich Town",
+      "time": "21/11/2026 · 08:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Real Sociedad B vs Cádiz",
+      "time": "21/11/2026 · 08:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Rayo Vallecano vs Valencia",
+      "time": "21/11/2026 · 08:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "OGC Nice vs Paris Saint-Germain",
+      "time": "21/11/2026 · 09:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Mixed Martial Arts",
       "title": "Mateusz Legierski vs Ivan Buchinger",
       "time": "21/11/2026 · 10:00 PM",
@@ -1160,6 +1237,104 @@
           "formatted_url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Parma vs AS Roma",
+      "time": "21/11/2026 · 10:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "CD Castellón vs CD Eldense",
+      "time": "21/11/2026 · 11:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Sevilla vs Real Betis",
+      "time": "21/11/2026 · 11:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Newcastle United vs Arsenal",
+      "time": "21/11/2026 · 11:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "SSC Napoli vs Torino",
+      "time": "22/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "RC Lens vs Toulouse",
+      "time": "22/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "RC Strasbourg vs Stade Brestois",
+      "time": "22/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "AS Monaco vs AJ Auxerre",
+      "time": "22/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "LOSC Lille vs Olympique Lyonnais",
+      "time": "22/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "CD Tenerife vs Mallorca",
+      "time": "22/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Real Madrid vs Celta Vigo",
+      "time": "22/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Juventus vs Venezia",
+      "time": "22/11/2026 · 05:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Córdoba vs Real Oviedo",
+      "time": "22/11/2026 · 06:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FC Barcelona vs Villarreal",
+      "time": "22/11/2026 · 06:30 PM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Cricket",
