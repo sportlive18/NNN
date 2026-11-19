@@ -1,5 +1,5 @@
 {
-  "last_updated": "19/11/2026, 01:06:47 AM",
+  "last_updated": "19/11/2026, 01:15:28 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 47,
   "matches": [
@@ -1011,7 +1011,43 @@
       "title": "Jiří Procházka vs Navajo Stirling",
       "time": "21/11/2026 · 10:30 PM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "TNT SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "type": "MPD",
+          "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "name": "PlayZ TV Live FHD",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8"
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7rqp7fjnbn/out/v1/c1a42868874346a1a47130ed7f648d4f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "cf66de6be6a50608700ceaa54a63fd00:d06489a2cb71f95d2dd3398e841bcc7b",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7rqp7fjnbn/out/v1/c1a42868874346a1a47130ed7f648d4f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=cf66de6be6a50608700ceaa54a63fd00:d06489a2cb71f95d2dd3398e841bcc7b"
+        },
+        {
+          "name": "SportsNet FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b"
+        },
+        {
+          "name": "STARZPLAY EN/AR - AQ ",
+          "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
+          "type": "MPD",
+          "key": "117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
+          "formatted_url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13"
+        }
+      ]
     },
     {
       "category": "Wwe",
