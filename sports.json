@@ -1,7 +1,7 @@
 {
-  "last_updated": "19/11/2026, 02:47:13 PM",
+  "last_updated": "19/11/2026, 02:52:38 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 106,
+  "total": 110,
   "matches": [
     {
       "category": "Darts",
@@ -320,6 +320,13 @@
       ]
     },
     {
+      "category": "Basketball",
+      "title": "Maccabi Tel Aviv vs BC Dubai",
+      "time": "🔴 TODAY · 10:45 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "Paris FC vs HB Køge",
       "time": "🔴 TODAY · 11:15 PM",
@@ -616,6 +623,20 @@
       "streams": []
     },
     {
+      "category": "American Football",
+      "title": "Stephen F. Austin Lumberjacks vs Northwestern State Demons",
+      "time": "20/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Nicholls State Colonels vs Southeastern Louisiana Lions",
+      "time": "20/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Hockey",
       "title": "Tampa Bay Lightning vs Edmonton Oilers",
       "time": "20/11/2026 · 06:00 AM",
@@ -632,6 +653,13 @@
     {
       "category": "Football",
       "title": "Orlando City SC vs FC Cincinnati",
+      "time": "20/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Temple Owls vs Rice Owls",
       "time": "20/11/2026 · 06:00 AM",
       "is_today": false,
       "streams": []
