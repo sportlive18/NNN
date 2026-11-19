@@ -1,7 +1,7 @@
 {
-  "last_updated": "19/11/2026, 12:07:39 PM",
+  "last_updated": "19/11/2026, 12:22:44 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 96,
+  "total": 105,
   "matches": [
     {
       "category": "Darts",
@@ -900,6 +900,13 @@
     },
     {
       "category": "Football",
+      "title": "FC Bayern München vs 1. FC Köln",
+      "time": "21/11/2026 · 01:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Troyes vs Le Havre",
       "time": "21/11/2026 · 01:15 AM",
       "is_today": false,
@@ -1113,6 +1120,13 @@
     },
     {
       "category": "Football",
+      "title": "VfL Wolfsburg vs Holstein Kiel",
+      "time": "21/11/2026 · 05:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Manchester City vs Fulham",
       "time": "21/11/2026 · 06:00 PM",
       "is_today": false,
@@ -1129,6 +1143,20 @@
       "category": "Football",
       "title": "Lazio vs Lecce",
       "time": "21/11/2026 · 07:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "SV 07 Elversberg vs SC Freiburg",
+      "time": "21/11/2026 · 08:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Bayer 04 Leverkusen vs SC Paderborn 07",
+      "time": "21/11/2026 · 08:00 PM",
       "is_today": false,
       "streams": []
     },
@@ -1268,6 +1296,20 @@
     },
     {
       "category": "Football",
+      "title": "New England Revolution vs Philadelphia Union",
+      "time": "22/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FC St. Pauli vs VfL Bochum 1848",
+      "time": "22/11/2026 · 01:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "SSC Napoli vs Torino",
       "time": "22/11/2026 · 01:15 AM",
       "is_today": false,
@@ -1317,8 +1359,29 @@
     },
     {
       "category": "Football",
+      "title": "FC Dallas vs Portland Timbers",
+      "time": "22/11/2026 · 02:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Inter Vice City vs Columbus Crew",
+      "time": "22/11/2026 · 04:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Juventus vs Venezia",
       "time": "22/11/2026 · 05:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "1. FC Kaiserslautern vs SG Dynamo Dresden",
+      "time": "22/11/2026 · 06:00 PM",
       "is_today": false,
       "streams": []
     },
