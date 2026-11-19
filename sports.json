@@ -1,7 +1,7 @@
 {
-  "last_updated": "19/11/2026, 08:01:22 AM",
+  "last_updated": "19/11/2026, 08:08:06 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 45,
+  "total": 55,
   "matches": [
     {
       "category": "Darts",
@@ -321,6 +321,41 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "Paris FC vs HB Køge",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FK Austria Wien vs FC Bayern München",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Benfica vs AS Roma",
+      "time": "20/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Arsenal vs OL Lyonnes",
+      "time": "20/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Fútbol Club Barcelona vs Servette FC Chênois Féminin",
+      "time": "20/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Cricket",
       "title": "New Zealand vs India",
       "time": "20/11/2026 · 03:30 AM",
@@ -425,6 +460,20 @@
           "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8|referer=https://tapmad.com/"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Vitória vs Red Bull Bragantino",
+      "time": "20/11/2026 · 04:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Vasco da Gama vs Internacional",
+      "time": "20/11/2026 · 04:00 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Motorsport",
@@ -575,6 +624,20 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "São Paulo vs Fluminense",
+      "time": "20/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Orlando City SC vs FC Cincinnati",
+      "time": "20/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Basketball",
       "title": "Minnesota Timberwolves vs New York Knicks",
       "time": "20/11/2026 · 06:30 AM",
@@ -640,6 +703,13 @@
     {
       "category": "Hockey",
       "title": "Vegas Golden Knights vs Dallas Stars",
+      "time": "20/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Seattle Sounders FC vs Real Salt Lake",
       "time": "20/11/2026 · 08:30 AM",
       "is_today": false,
       "streams": []
