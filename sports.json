@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/11/2026, 08:52:36 AM",
+  "last_updated": "20/11/2026, 08:57:15 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 102,
   "matches": [
@@ -785,6 +785,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live.msnetworks.net/ten-sports/master.m3u8"
+        },
+        {
+          "name": "TNT SPORTS - LOL",
+          "url": "v",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "v"
         }
       ]
     },
