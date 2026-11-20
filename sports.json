@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/11/2026, 05:43:13 PM",
+  "last_updated": "20/11/2026, 05:47:55 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 95,
   "matches": [
@@ -601,7 +601,15 @@
       "title": "Troyes vs Le Havre",
       "time": "21/11/2026 · 01:15 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "beIN FHD",
+          "url": "https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https|user-agent=Mozilla",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https|user-agent=Mozilla"
+        }
+      ]
     },
     {
       "category": "Football",
