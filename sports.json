@@ -1,7 +1,7 @@
 {
-  "last_updated": "20/11/2026, 08:02:32 AM",
+  "last_updated": "20/11/2026, 08:07:29 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 115,
+  "total": 116,
   "matches": [
     {
       "category": "Football",
@@ -1331,6 +1331,13 @@
     {
       "category": "Football",
       "title": "Bayer 04 Leverkusen vs SC Paderborn 07",
+      "time": "21/11/2026 · 08:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Cricket",
+      "title": "ILT T20 vs ILT T20",
       "time": "21/11/2026 · 08:00 PM",
       "is_today": false,
       "streams": []
