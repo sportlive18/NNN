@@ -1,7 +1,7 @@
 {
-  "last_updated": "20/11/2026, 07:21:54 AM",
+  "last_updated": "20/11/2026, 07:27:08 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 93,
+  "total": 92,
   "matches": [
     {
       "category": "Football",
@@ -738,13 +738,6 @@
       "category": "Football",
       "title": "FC Bayern München vs 1. FC Köln",
       "time": "21/11/2026 · 01:00 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Troyes vs Le Havre",
-      "time": "21/11/2026 · 01:15 AM",
       "is_today": false,
       "streams": []
     },
