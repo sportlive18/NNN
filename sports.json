@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/11/2026, 09:32:17 PM",
+  "last_updated": "20/11/2026, 09:37:14 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 83,
   "matches": [
@@ -81,7 +81,15 @@
       "title": "Troyes vs Le Havre",
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "beIN FHD",
+          "url": "https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https|user-agent=Mozilla",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https|user-agent=Mozilla"
+        }
+      ]
     },
     {
       "category": "Rugby",
@@ -227,11 +235,46 @@
           "formatted_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd?|drmScheme=clearkey&drmLicense=766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0"
         },
         {
-          "name": "SONYLIV BD - AQ",
-          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795166753~acl=/*~id=50462297768724841353182942139935~hmac=12f635daf8cf9a5ab0a3727e9e8765a326d38006fdc3c109375afef08afac2fc",
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795166753~acl=/*~id=50462297768724841353182942139935~hmac=12f635daf8cf9a5ab0a3727e9e8765a326d38006fdc3c109375afef08afac2fc"
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f"
+        },
+        {
+          "name": "SONYLIV HIN - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f"
+        },
+        {
+          "name": "SONYLIV TAM - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f"
+        },
+        {
+          "name": "SONYLIV TEL - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f"
+        },
+        {
+          "name": "SONYLIV KAN - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f"
+        },
+        {
+          "name": "SONYLIV BD - AQ",
+          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f"
         }
       ]
     },
