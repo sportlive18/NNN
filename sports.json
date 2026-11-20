@@ -1,210 +1,8 @@
 {
-  "last_updated": "20/11/2026, 10:08:06 AM",
+  "last_updated": "20/11/2026, 10:16:55 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 103,
+  "total": 100,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Vitória vs Red Bull Bragantino",
-      "time": "🔴 TODAY · 04:00 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PREMIERER BR",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8"
-        },
-        {
-          "name": "RT SPORTS ",
-          "url": "https://cdn.hdm1.net/SkySportCalcioIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRDYWxjaW9JVHxub19jaGVja19pcHwxNzk1MTI3MDY4.2e0905c3e8db94a2798b5019471c7d6f6eb4c0ee6acf71ac615ff2a109475798|referer=https://wideiptv.top/&origin=https://wideiptv.top",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn.hdm1.net/SkySportCalcioIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRDYWxjaW9JVHxub19jaGVja19pcHwxNzk1MTI3MDY4.2e0905c3e8db94a2798b5019471c7d6f6eb4c0ee6acf71ac615ff2a109475798|referer=https://wideiptv.top/&origin=https://wideiptv.top"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Vasco da Gama vs Internacional",
-      "time": "🔴 TODAY · 04:00 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PREMIERER BR",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
-        },
-        {
-          "name": "SporTV BR FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        },
-        {
-          "name": "SportDigital Fussball",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ]
-    },
-    {
-      "category": "American Football",
-      "title": "Stephen F. Austin Lumberjacks vs Northwestern State Demons",
-      "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "American Football",
-      "title": "Nicholls State Colonels vs Southeastern Louisiana Lions",
-      "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "São Paulo vs Fluminense",
-      "time": "🔴 TODAY · 06:00 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PREMIERER BR",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7"
-        },
-        {
-          "name": "PlayZ TV LIVE",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Orlando City SC vs FC Cincinnati",
-      "time": "🔴 TODAY · 06:00 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "HD STREAM ",
-          "url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "American Football",
-      "title": "Temple Owls vs Rice Owls",
-      "time": "🔴 TODAY · 06:00 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Basketball",
-      "title": "Minnesota Timberwolves vs New York Knicks",
-      "time": "🔴 TODAY · 06:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Basketball",
-      "title": "Memphis Grizzlies vs Golden State Warriors",
-      "time": "🔴 TODAY · 06:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Basketball",
-      "title": "Milwaukee Bucks vs Portland Trail Blazers",
-      "time": "🔴 TODAY · 06:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Basketball",
-      "title": "San Antonio Spurs vs Los Angeles Clippers",
-      "time": "🔴 TODAY · 06:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "American Football",
-      "title": "Houston Texans vs Indianapolis Colts",
-      "time": "🔴 TODAY · 06:45 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "TSN SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "name": "TSN4 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "name": "SKY TOP EVENT",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        },
-        {
-          "name": "SporTV BR FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Seattle Sounders FC vs Real Salt Lake",
-      "time": "🔴 TODAY · 08:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60515\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60515\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "HD STREAM",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel19.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.41/hls/R333AAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/R333AAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
     {
       "category": "Cricket",
       "title": "Pakistan vs Sri Lanka",
@@ -600,6 +398,49 @@
       ]
     },
     {
+      "category": "Cricket",
+      "title": "Abu Dhabi T10 vs Abu Dhabi T10",
+      "time": "🔴 TODAY · 07:00 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/31bn2pivmp/out/v1/08c3aa15efe64750912c5fd5f87392aa/cenc.mpd",
+          "type": "MPD",
+          "key": "1e1eb151be522900a4bcbce463f764d4:49b4c6df12c9459d6d7641341270d890",
+          "formatted_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/31bn2pivmp/out/v1/08c3aa15efe64750912c5fd5f87392aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1e1eb151be522900a4bcbce463f764d4:49b4c6df12c9459d6d7641341270d890"
+        },
+        {
+          "name": "PREMIERE SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "type": "MPD",
+          "key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "name": "TAMASHA PRO AQ ",
+          "url": "https://cdn04khi-n.tamashaweb.com:8087/appcast/abudhabi-t10-adfree-2026-abr/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn04khi-n.tamashaweb.com:8087/appcast/abudhabi-t10-adfree-2026-abr/playlist.m3u8"
+        },
+        {
+          "name": "MYCO AQ ",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/"
+        },
+        {
+          "name": "A SPORTS HD",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.msnetworks.net/a-sports/master.m3u8"
+        }
+      ]
+    },
+    {
       "category": "Football",
       "title": "Mali U17 vs New Zealand U17",
       "time": "🔴 TODAY · 07:00 PM",
@@ -890,6 +731,13 @@
       ]
     },
     {
+      "category": "Basketball",
+      "title": "Atlanta Hawks vs Charlotte Hornets",
+      "time": "21/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Motorsport",
       "title": "Formula 1 vs Formula 1",
       "time": "21/11/2026 · 06:00 AM",
@@ -996,8 +844,50 @@
       ]
     },
     {
+      "category": "Basketball",
+      "title": "Cleveland Cavaliers vs Indiana Pacers",
+      "time": "21/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Brooklyn Nets vs Orlando Magic",
+      "time": "21/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Detroit Pistons vs Toronto Raptors",
+      "time": "21/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Duke Blue Devils vs Clemson Tigers",
+      "time": "21/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Cricket",
       "title": "Hobart Hurricanes Women vs Sydney Thunder Women",
+      "time": "21/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Oklahoma City Thunder vs New Orleans Pelicans",
+      "time": "21/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Chicago Bulls vs Washington Wizards",
       "time": "21/11/2026 · 06:30 AM",
       "is_today": false,
       "streams": []
@@ -1037,6 +927,27 @@
           "formatted_url": "http://193.47.62.41/hls/loooo.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
+    },
+    {
+      "category": "Basketball",
+      "title": "Utah Jazz vs Phoenix Suns",
+      "time": "21/11/2026 · 08:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Los Angeles Lakers vs Sacramento Kings",
+      "time": "21/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Denver Nuggets vs Houston Rockets",
+      "time": "21/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Cricket",
@@ -1172,49 +1083,6 @@
       "time": "21/11/2026 · 06:00 PM",
       "is_today": false,
       "streams": []
-    },
-    {
-      "category": "Cricket",
-      "title": "Abu Dhabi T10 vs Abu Dhabi T10",
-      "time": "21/11/2026 · 07:00 PM",
-      "is_today": false,
-      "streams": [
-        {
-          "name": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/31bn2pivmp/out/v1/08c3aa15efe64750912c5fd5f87392aa/cenc.mpd",
-          "type": "MPD",
-          "key": "1e1eb151be522900a4bcbce463f764d4:49b4c6df12c9459d6d7641341270d890",
-          "formatted_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/31bn2pivmp/out/v1/08c3aa15efe64750912c5fd5f87392aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1e1eb151be522900a4bcbce463f764d4:49b4c6df12c9459d6d7641341270d890"
-        },
-        {
-          "name": "PREMIERE SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "type": "MPD",
-          "key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "name": "TAMASHA PRO AQ ",
-          "url": "https://cdn04khi-n.tamashaweb.com:8087/appcast/abudhabi-t10-adfree-2026-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn04khi-n.tamashaweb.com:8087/appcast/abudhabi-t10-adfree-2026-abr/playlist.m3u8"
-        },
-        {
-          "name": "MYCO AQ ",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/"
-        },
-        {
-          "name": "A SPORTS HD",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.msnetworks.net/a-sports/master.m3u8"
-        }
-      ]
     },
     {
       "category": "Football",
