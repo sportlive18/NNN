@@ -1,7 +1,7 @@
 {
-  "last_updated": "20/11/2026, 06:02:24 PM",
+  "last_updated": "20/11/2026, 06:07:28 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 95,
+  "total": 98,
   "matches": [
     {
       "category": "Cricket",
@@ -612,6 +612,13 @@
       ]
     },
     {
+      "category": "Rugby",
+      "title": "Bristol Bears vs Bath Rugby",
+      "time": "21/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "Barnsley vs Sheffield Wednesday",
       "time": "21/11/2026 · 01:30 AM",
@@ -1174,6 +1181,13 @@
       "streams": []
     },
     {
+      "category": "Rugby",
+      "title": "Hong Kong vs Tonga",
+      "time": "21/11/2026 · 02:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Cricket",
       "title": "Bangladesh A vs Afghanistan A",
       "time": "21/11/2026 · 03:30 PM",
@@ -1290,6 +1304,13 @@
     {
       "category": "Football",
       "title": "VfL Wolfsburg vs Holstein Kiel",
+      "time": "21/11/2026 · 05:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Rugby",
+      "title": "Saracens vs Harlequin FC",
       "time": "21/11/2026 · 05:30 PM",
       "is_today": false,
       "streams": []
