@@ -1,7 +1,7 @@
 {
-  "last_updated": "20/11/2026, 06:32:21 AM",
+  "last_updated": "20/11/2026, 06:37:29 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 89,
+  "total": 88,
   "matches": [
     {
       "category": "Cricket",
@@ -378,21 +378,6 @@
           "type": "MPD",
           "key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
-        }
-      ]
-    },
-    {
-      "category": "Hockey",
-      "title": "Vegas Golden Knights vs Dallas Stars",
-      "time": "🔴 TODAY · 08:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PREMIER SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "type": "MPD",
-          "key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
         }
       ]
     },
