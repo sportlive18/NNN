@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/11/2026, 12:57:15 AM",
+  "last_updated": "20/11/2026, 01:04:43 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 98,
   "matches": [
@@ -1369,36 +1369,7 @@
       "title": "WWE RAW vs WWE RAW",
       "time": "24/11/2026 · 05:30 AM",
       "is_today": false,
-      "streams": [
-        {
-          "name": "PLAYZ TV",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
-        },
-        {
-          "name": "SD STREAM ",
-          "url": "okOkja ",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "okOkja "
-        },
-        {
-          "name": "HD SERVER ",
-          "url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-        },
-        {
-          "name": "SD STREAM BK",
-          "url": "okOkja ",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "okOkja "
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Wwe",
