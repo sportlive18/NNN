@@ -1,7 +1,7 @@
 {
-  "last_updated": "20/11/2026, 10:16:55 AM",
+  "last_updated": "20/11/2026, 10:27:24 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 100,
+  "total": 99,
   "matches": [
     {
       "category": "Cricket",
@@ -239,6 +239,13 @@
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd?|drmScheme=clearkey&drmLicense=91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7"
         },
         {
+          "name": "PRIME MULTI AUDIO ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xpbyju7ycf/out/v1/01a540649ada43b5a8830cfe656316b6/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
+          "type": "MPD",
+          "key": "5b78f639f1bd17fe9859bf92ade8a9d0:00694c720f2afdb0160302bdb1ff209e",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xpbyju7ycf/out/v1/01a540649ada43b5a8830cfe656316b6/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com?|drmScheme=clearkey&drmLicense=5b78f639f1bd17fe9859bf92ade8a9d0:00694c720f2afdb0160302bdb1ff209e"
+        },
+        {
           "name": "SONYLIV ENG - AQ",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795211773~acl=/*~id=76948268902062468843895461111021~hmac=d949091fecf4c22fd2ca351f4d9da867d84b54d858155007fa953d08dddf3b2f",
           "type": "M3U8",
@@ -279,13 +286,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8"
-        },
-        {
-          "name": "TEN SPORTS HD",
-          "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.msnetworks.net/ten-sports/master.m3u8"
         }
       ]
     },
@@ -860,13 +860,6 @@
     {
       "category": "Basketball",
       "title": "Detroit Pistons vs Toronto Raptors",
-      "time": "21/11/2026 · 06:00 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "American Football",
-      "title": "Duke Blue Devils vs Clemson Tigers",
       "time": "21/11/2026 · 06:00 AM",
       "is_today": false,
       "streams": []
