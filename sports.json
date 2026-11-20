@@ -1,7 +1,7 @@
 {
-  "last_updated": "20/11/2026, 04:47:36 AM",
+  "last_updated": "20/11/2026, 04:52:15 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 98,
+  "total": 87,
   "matches": [
     {
       "category": "Darts",
@@ -275,56 +275,6 @@
       ]
     },
     {
-      "category": "Hockey",
-      "title": "Carolina Hurricanes vs Montréal Canadiens",
-      "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Toronto Maple Leafs vs Los Angeles Kings",
-      "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Pittsburgh Penguins vs St. Louis Blues",
-      "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Ottawa Senators vs Philadelphia Flyers",
-      "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PREMIER SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "type": "MPD",
-          "key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        }
-      ]
-    },
-    {
-      "category": "Hockey",
-      "title": "Washington Capitals vs Buffalo Sabres",
-      "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Winnipeg Jets vs New York Islanders",
-      "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
       "category": "American Football",
       "title": "Stephen F. Austin Lumberjacks vs Northwestern State Demons",
       "time": "🔴 TODAY · 05:30 AM",
@@ -335,13 +285,6 @@
       "category": "American Football",
       "title": "Nicholls State Colonels vs Southeastern Louisiana Lions",
       "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Tampa Bay Lightning vs Edmonton Oilers",
-      "time": "🔴 TODAY · 06:00 AM",
       "is_today": true,
       "streams": []
     },
@@ -418,28 +361,6 @@
       "streams": []
     },
     {
-      "category": "Hockey",
-      "title": "Chicago Blackhawks vs Columbus Blue Jackets",
-      "time": "🔴 TODAY · 06:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PREMIER SPORTS - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "type": "MPD",
-          "key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ]
-    },
-    {
-      "category": "Hockey",
-      "title": "Calgary Flames vs Minnesota Wild",
-      "time": "🔴 TODAY · 06:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
       "category": "American Football",
       "title": "Houston Texans vs Indianapolis Colts",
       "time": "🔴 TODAY · 06:45 AM",
@@ -477,20 +398,6 @@
     },
     {
       "category": "Hockey",
-      "title": "Colorado Avalanche vs Anaheim Ducks",
-      "time": "🔴 TODAY · 07:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Seattle Kraken vs Vancouver Canucks",
-      "time": "🔴 TODAY · 08:10 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
       "title": "Vegas Golden Knights vs Dallas Stars",
       "time": "🔴 TODAY · 08:30 AM",
       "is_today": true,
@@ -511,11 +418,25 @@
       "is_today": true,
       "streams": [
         {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60515\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60515\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
           "name": "HD STREAM",
           "url": "https://live2.jorvakstreamcache.com/live/channel19.m3u8",
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live2.jorvakstreamcache.com/live/channel19.m3u8"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/R333AAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/R333AAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -527,17 +448,17 @@
       "streams": [
         {
           "name": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pd55oxz1mc/out/v1/c546a7bbf34a4a5d8f10c9718ef5ea15/cenc.mpd",
           "type": "MPD",
-          "key": "15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2",
-          "formatted_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd?|drmScheme=clearkey&drmLicense=15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2"
+          "key": "d129d1272d5a71f72a74839d021c46a6:b357d476f2f374c66dff8fa650df717b",
+          "formatted_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pd55oxz1mc/out/v1/c546a7bbf34a4a5d8f10c9718ef5ea15/cenc.mpd?|drmScheme=clearkey&drmLicense=d129d1272d5a71f72a74839d021c46a6:b357d476f2f374c66dff8fa650df717b"
         },
         {
           "name": "TAPMAD - AQ",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com"
+          "formatted_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
         },
         {
           "name": "TAMASHA PRO AQ ",
@@ -559,13 +480,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live.msnetworks.net/ptv-sports/master.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.41/hls/RREGEGE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/RREGEGE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
