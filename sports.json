@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/11/2026, 05:28:09 PM",
+  "last_updated": "20/11/2026, 05:33:11 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 97,
   "matches": [
@@ -534,6 +534,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://ec.koooracity.press/sune1.m3u8"
+        },
+        {
+          "name": "ARABIC SD",
+          "url": "https://a16.kora-plus.li/live/alwan1.m3u8?token=PpDqSvzqQXvQ89tS7OcdUBlsS0o&exp=1795199164|referer=https://multi.kora-api.space/&origin=https://multi.kora-api.space",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://a16.kora-plus.li/live/alwan1.m3u8?token=PpDqSvzqQXvQ89tS7OcdUBlsS0o&exp=1795199164|referer=https://multi.kora-api.space/&origin=https://multi.kora-api.space"
         }
       ]
     },
