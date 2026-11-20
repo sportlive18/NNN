@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/11/2026, 01:57:21 PM",
+  "last_updated": "20/11/2026, 02:02:48 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 103,
   "matches": [
@@ -476,14 +476,37 @@
       "title": "Bengaluru FC vs Mumbai City FC",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9"
+        },
+        {
+          "name": "SONYLIV HIN - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Spain U17 vs China U17",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/"
+        }
+      ]
     },
     {
       "category": "Football",
