@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/11/2026, 10:02:26 PM",
+  "last_updated": "20/11/2026, 10:07:26 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 77,
   "matches": [
@@ -1325,7 +1325,15 @@
       "title": "GROMDA vs GROMDA",
       "time": "04/12/2026 · 12:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "PLAYZTV FHD ",
+          "url": "https://messi.damitv.st/live-hls/channel/gromda-26/playlist.m3u8?tk=Qs7Wg_MbnM2lVs-dzOAlvQ&e=1788586257|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://messi.damitv.st/live-hls/channel/gromda-26/playlist.m3u8?tk=Qs7Wg_MbnM2lVs-dzOAlvQ&e=1788586257|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+        }
+      ]
     },
     {
       "category": "Boxing",
