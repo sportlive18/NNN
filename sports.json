@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/11/2026, 05:23:08 PM",
+  "last_updated": "20/11/2026, 05:28:09 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 97,
   "matches": [
@@ -382,7 +382,22 @@
       "title": "Spain U17 vs China U17",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/"
+        },
+        {
+          "name": "LOW QUALITY",
+          "url": "http://193.47.62.41/hls/tiiiA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/tiiiA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -512,6 +527,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.59/hls/VAVAVAEAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "ARABIC HD ",
+          "url": "https://ec.koooracity.press/sune1.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ec.koooracity.press/sune1.m3u8"
         }
       ]
     },
