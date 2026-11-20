@@ -1,7 +1,7 @@
 {
-  "last_updated": "20/11/2026, 03:29:37 PM",
+  "last_updated": "20/11/2026, 03:32:50 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 97,
+  "total": 98,
   "matches": [
     {
       "category": "Cricket",
@@ -43,70 +43,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live.msnetworks.net/ptv-sports/master.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Pakistan A vs UAE",
-      "time": "🔴 TODAY · 11:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd",
-          "type": "MPD",
-          "key": "c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd?|drmScheme=clearkey&drmLicense=c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a"
-        },
-        {
-          "name": "PRIME VIDEO FHD",
-          "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w38waynbjz/out/v1/c8d5a418fc14440eb143b6add6b0af66/cenc.mpd",
-          "type": "MPD",
-          "key": "2ca5224cf3b5604c216670133f47b34c:9c0cf6c1c33edbcb63508c4b237b7e79",
-          "formatted_url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w38waynbjz/out/v1/c8d5a418fc14440eb143b6add6b0af66/cenc.mpd?|drmScheme=clearkey&drmLicense=2ca5224cf3b5604c216670133f47b34c:9c0cf6c1c33edbcb63508c4b237b7e79"
-        },
-        {
-          "name": "STARZPLAY FHD",
-          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
-          "type": "MPD",
-          "key": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
-          "formatted_url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?|drmScheme=clearkey&drmLicense=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9"
-        },
-        {
-          "name": "WILLOW ALT",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/abgihi0eu1/out/v1/aecf943a889740d190b355d7bc80b51a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a",
-          "formatted_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/abgihi0eu1/out/v1/aecf943a889740d190b355d7bc80b51a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a"
-        },
-        {
-          "name": "TAMASHA AQ",
-          "url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8"
-        },
-        {
-          "name": "SONYLIV (Asia)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36"
-        },
-        {
-          "name": "TEN SPORTS HD",
-          "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.msnetworks.net/ten-sports/master.m3u8"
-        },
-        {
-          "name": "SONY TEN HD",
-          "url": "https://toffee.aliflaila.live/channel/3.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://toffee.aliflaila.live/channel/3.m3u8"
         }
       ]
     },
@@ -1051,6 +987,63 @@
       "streams": []
     },
     {
+      "category": "Cricket",
+      "title": "hong Kong vs Sri Lanka A",
+      "time": "21/11/2026 · 11:30 AM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cix65j0fhp/out/v1/40e83e3831354f46aa6c4f7f33b22606/cenc.mpd",
+          "type": "MPD",
+          "key": "964c4b09d34aec26004af58468df3f63:33241077e9b7604e876d6b23c1fcf8ac",
+          "formatted_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cix65j0fhp/out/v1/40e83e3831354f46aa6c4f7f33b22606/cenc.mpd?|drmScheme=clearkey&drmLicense=964c4b09d34aec26004af58468df3f63:33241077e9b7604e876d6b23c1fcf8ac"
+        },
+        {
+          "name": "PRIME VIDEO FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0igehpu1l/out/v1/a22fcedcc6fd47e19b5ae642a935c1d0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "a483403980e885c7c448950500139b07:181c08c0de1ef25e8f893a81909304c1",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0igehpu1l/out/v1/a22fcedcc6fd47e19b5ae642a935c1d0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=a483403980e885c7c448950500139b07:181c08c0de1ef25e8f893a81909304c1"
+        },
+        {
+          "name": "STARZPLAY FHD",
+          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+          "type": "MPD",
+          "key": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
+          "formatted_url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?|drmScheme=clearkey&drmLicense=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9"
+        },
+        {
+          "name": "TAMASHA AQ ",
+          "url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8"
+        },
+        {
+          "name": "WILLOW ALT",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q8kzxra130/out/v1/f2f42de8b095422eb0f84d301d0b69a5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "964c4b09d34aec26004af58468df3f63:33241077e9b7604e876d6b23c1fcf8ac",
+          "formatted_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q8kzxra130/out/v1/f2f42de8b095422eb0f84d301d0b69a5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=964c4b09d34aec26004af58468df3f63:33241077e9b7604e876d6b23c1fcf8ac"
+        },
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795124926~acl=/*~id=84117785468934185076631080120857~hmac=5c6ce4f7b8eb18e33439171995937341f4af30e5b366d33d7268e4bb95e34ed8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795124926~acl=/*~id=84117785468934185076631080120857~hmac=5c6ce4f7b8eb18e33439171995937341f4af30e5b366d33d7268e4bb95e34ed8"
+        },
+        {
+          "name": "TEN SPORTS HD",
+          "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.msnetworks.net/ten-sports/master.m3u8"
+        }
+      ]
+    },
+    {
       "category": "Basketball",
       "title": "Tasmania Jackjumpers vs Illawarra Hawks",
       "time": "21/11/2026 · 12:00 PM",
@@ -1120,6 +1113,70 @@
       "time": "21/11/2026 · 02:00 PM",
       "is_today": false,
       "streams": []
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh A vs Afghanistan A",
+      "time": "21/11/2026 · 03:30 PM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "WILLOW - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd",
+          "type": "MPD",
+          "key": "c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd?|drmScheme=clearkey&drmLicense=c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a"
+        },
+        {
+          "name": "PRIME VIDEO FHD",
+          "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w38waynbjz/out/v1/c8d5a418fc14440eb143b6add6b0af66/cenc.mpd",
+          "type": "MPD",
+          "key": "2ca5224cf3b5604c216670133f47b34c:9c0cf6c1c33edbcb63508c4b237b7e79",
+          "formatted_url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w38waynbjz/out/v1/c8d5a418fc14440eb143b6add6b0af66/cenc.mpd?|drmScheme=clearkey&drmLicense=2ca5224cf3b5604c216670133f47b34c:9c0cf6c1c33edbcb63508c4b237b7e79"
+        },
+        {
+          "name": "STARZPLAY FHD",
+          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+          "type": "MPD",
+          "key": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
+          "formatted_url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?|drmScheme=clearkey&drmLicense=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9"
+        },
+        {
+          "name": "WILLOW ALT",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/abgihi0eu1/out/v1/aecf943a889740d190b355d7bc80b51a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a",
+          "formatted_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/abgihi0eu1/out/v1/aecf943a889740d190b355d7bc80b51a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a"
+        },
+        {
+          "name": "TAMASHA AQ",
+          "url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8"
+        },
+        {
+          "name": "SONYLIV (Asia)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36"
+        },
+        {
+          "name": "TEN SPORTS HD",
+          "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.msnetworks.net/ten-sports/master.m3u8"
+        },
+        {
+          "name": "SONY TEN HD",
+          "url": "https://toffee.aliflaila.live/channel/3.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://toffee.aliflaila.live/channel/3.m3u8"
+        }
+      ]
     },
     {
       "category": "Cricket",
