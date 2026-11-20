@@ -1,7 +1,7 @@
 {
-  "last_updated": "20/11/2026, 08:42:24 AM",
+  "last_updated": "20/11/2026, 08:47:18 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 116,
+  "total": 102,
   "matches": [
     {
       "category": "Football",
@@ -245,50 +245,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live.msnetworks.net/ptv-sports/master.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Sri Lanka Women vs Zimbabwe Women",
-      "time": "🔴 TODAY · 10:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1795179669~acl=*%2Fchannel(vcg-01-ch-hd-07)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=ba9520c664f7cd76491a88e5d3b6b845716602a0e0cdb36b85de94ec05e58ff3/manifest.mpd?vcfilter=67846ab5-0df3-4b71-8f09-9c2f89b9ae12&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "formatted_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1795179669~acl=*%2Fchannel(vcg-01-ch-hd-07)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=ba9520c664f7cd76491a88e5d3b6b845716602a0e0cdb36b85de94ec05e58ff3/manifest.mpd?vcfilter=67846ab5-0df3-4b71-8f09-9c2f89b9ae12&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Scotland Women vs Netherlands Women",
-      "time": "🔴 TODAY · 10:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795179747~acl=*%2Fchannel(vcg-01-ch-hd-06)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=d3115607dc1eefa9e2b3d749eb0abe6d1b41c3a4dabb8005fcc3b25801ed829c/manifest.mpd?vcfilter=3e8be581-7b72-4ef9-9dae-3a66cbe009b0&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "formatted_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795179747~acl=*%2Fchannel(vcg-01-ch-hd-06)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=d3115607dc1eefa9e2b3d749eb0abe6d1b41c3a4dabb8005fcc3b25801ed829c/manifest.mpd?vcfilter=3e8be581-7b72-4ef9-9dae-3a66cbe009b0&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
-        },
-        {
-          "name": "MYCO AQ PK ",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/"
-        },
-        {
-          "name": "TAMASHA PRO AQ ",
-          "url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8"
         }
       ]
     },
@@ -565,13 +521,6 @@
     },
     {
       "category": "Football",
-      "title": "Cuba U17 vs Tajikistan U17",
-      "time": "🔴 TODAY · 06:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
       "title": "Belgium U17 vs Vietnam U17",
       "time": "🔴 TODAY · 06:30 PM",
       "is_today": true,
@@ -580,13 +529,6 @@
     {
       "category": "Football",
       "title": "Cuba U17 vs Tajikistan U17",
-      "time": "🔴 TODAY · 06:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Belgium U17 vs Vietnam U17",
       "time": "🔴 TODAY · 06:30 PM",
       "is_today": true,
       "streams": []
@@ -622,13 +564,6 @@
     },
     {
       "category": "Football",
-      "title": "Mali U17 vs New Zealand U17",
-      "time": "🔴 TODAY · 07:00 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
       "title": "Bengaluru FC vs Mumbai City FC",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
@@ -643,34 +578,6 @@
     },
     {
       "category": "Football",
-      "title": "Spain U17 vs China U17",
-      "time": "🔴 TODAY · 07:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Spain U17 vs China U17",
-      "time": "🔴 TODAY · 07:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Italy U17 vs Jamaica U17",
-      "time": "🔴 TODAY · 08:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Italy U17 vs Jamaica U17",
-      "time": "🔴 TODAY · 08:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
       "title": "Italy U17 vs Jamaica U17",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
@@ -685,20 +592,6 @@
     },
     {
       "category": "Football",
-      "title": "Senegal U17 vs Croatia U17",
-      "time": "🔴 TODAY · 09:00 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Fiji U17 vs Morocco U17",
-      "time": "🔴 TODAY · 09:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
       "title": "Côte d'Ivoire U17 vs Uzbekistan U17",
       "time": "🔴 TODAY · 09:30 PM",
       "is_today": true,
@@ -707,27 +600,6 @@
     {
       "category": "Football",
       "title": "Fiji U17 vs Morocco U17",
-      "time": "🔴 TODAY · 09:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Côte d'Ivoire U17 vs Uzbekistan U17",
-      "time": "🔴 TODAY · 09:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Fiji U17 vs Morocco U17",
-      "time": "🔴 TODAY · 09:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Côte d'Ivoire U17 vs Uzbekistan U17",
       "time": "🔴 TODAY · 09:30 PM",
       "is_today": true,
       "streams": []
