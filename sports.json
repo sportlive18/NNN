@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/11/2026, 05:07:15 PM",
+  "last_updated": "20/11/2026, 05:12:54 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 97,
   "matches": [
@@ -8,43 +8,7 @@
       "title": "Pakistan vs Sri Lanka",
       "time": "🔴 TODAY · 10:00 AM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "WILLOW - AQ",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pd55oxz1mc/out/v1/c546a7bbf34a4a5d8f10c9718ef5ea15/cenc.mpd",
-          "type": "MPD",
-          "key": "d129d1272d5a71f72a74839d021c46a6:b357d476f2f374c66dff8fa650df717b",
-          "formatted_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pd55oxz1mc/out/v1/c546a7bbf34a4a5d8f10c9718ef5ea15/cenc.mpd?|drmScheme=clearkey&drmLicense=d129d1272d5a71f72a74839d021c46a6:b357d476f2f374c66dff8fa650df717b"
-        },
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
-        },
-        {
-          "name": "TAMASHA PRO AQ ",
-          "url": "https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8"
-        },
-        {
-          "name": "VITO AQ (IND) ",
-          "url": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8"
-        },
-        {
-          "name": "PTV SPORTS HD",
-          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.msnetworks.net/ptv-sports/master.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Cricket",
