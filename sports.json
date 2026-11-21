@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 05:42:35 PM",
+  "last_updated": "21/11/2026, 05:47:13 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 91,
   "matches": [
@@ -1075,7 +1075,15 @@
       "title": "Philadelphia 76ers vs Milwaukee Bucks",
       "time": "🔴 TODAY · 11:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60634\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60634\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Hockey",
