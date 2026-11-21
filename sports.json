@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 08:07:39 PM",
+  "last_updated": "21/11/2026, 08:12:09 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 94,
+  "total": 105,
   "matches": [
     {
       "category": "Darts",
@@ -689,6 +689,20 @@
       ]
     },
     {
+      "category": "Hockey",
+      "title": "Nashville Predators vs Pittsburgh Penguins",
+      "time": "🔴 TODAY · 04:30 AM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Florida Panthers vs Buffalo Sabres",
+      "time": "🔴 TODAY · 04:30 AM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "Chapecoense vs Cruzeiro",
       "time": "🔴 TODAY · 05:30 AM",
@@ -720,6 +734,41 @@
     {
       "category": "Hockey",
       "title": "Montréal Canadiens vs Philadelphia Flyers",
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Toronto Maple Leafs vs Columbus Blue Jackets",
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Boston Bruins vs Washington Capitals",
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "St. Louis Blues vs New Jersey Devils",
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Detroit Red Wings vs New York Islanders",
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Winnipeg Jets vs Vegas Golden Knights",
       "time": "🔴 TODAY · 05:30 AM",
       "is_today": true,
       "streams": []
@@ -760,8 +809,29 @@
       "streams": []
     },
     {
+      "category": "Hockey",
+      "title": "Utah Mammoth vs Anaheim Ducks",
+      "time": "🔴 TODAY · 07:30 AM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Basketball",
       "title": "Sacramento Kings vs Boston Celtics",
+      "time": "🔴 TODAY · 08:30 AM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Vancouver Canucks vs Minnesota Wild",
+      "time": "🔴 TODAY · 08:30 AM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "San Jose Sharks vs Seattle Kraken",
       "time": "🔴 TODAY · 08:30 AM",
       "is_today": true,
       "streams": []
@@ -1309,6 +1379,13 @@
       "category": "Football",
       "title": "Burgos Club de Fútbol vs Albacete Balompié",
       "time": "23/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "St. Louis Blues vs Edmonton Oilers",
+      "time": "23/11/2026 · 05:30 AM",
       "is_today": false,
       "streams": []
     },
