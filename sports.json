@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 06:02:39 PM",
+  "last_updated": "21/11/2026, 06:07:33 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 99,
   "matches": [
@@ -1052,6 +1052,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live.vivo155.com/live/sd-1-4552263.m3u8?txSecret=8777ae2f1af178919b0e05051a3d95f0&txTime=6B01EC45|Referer=https://player.on8on8.com/"
+        },
+        {
+          "name": "HD ",
+          "url": "http://193.47.62.50/hls/VFVFVFA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/VFVFVFA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -1148,7 +1155,15 @@
       "title": "New England Revolution vs Philadelphia Union",
       "time": "22/11/2026 · 12:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel28.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel28.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -2300,15 +2315,7 @@
       "title": "Jack Paul vs Cedric Doumbe",
       "time": "24/12/2026 · 07:30 PM",
       "is_today": false,
-      "streams": [
-        {
-          "name": "SKY SPORTS NZ - AQ ",
-          "url": "https://skygo-playz-links.vercel.app/skynz7.mpd",
-          "type": "MPD",
-          "key": "df2d9b6fca9b4f3697bda9614398b991:d10a74b6649741bf8e2687c03f955c90",
-          "formatted_url": "https://skygo-playz-links.vercel.app/skynz7.mpd?|drmScheme=clearkey&drmLicense=df2d9b6fca9b4f3697bda9614398b991:d10a74b6649741bf8e2687c03f955c90"
-        }
-      ]
+      "streams": []
     }
   ]
 }
