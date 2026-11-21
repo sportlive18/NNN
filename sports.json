@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 05:11:58 AM",
+  "last_updated": "21/11/2026, 05:17:35 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 77,
+  "total": 69,
   "matches": [
     {
       "category": "Darts",
@@ -22,28 +22,6 @@
           "type": "MPD",
           "key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
           "formatted_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "FC Porto vs USC Paredes",
-      "time": "🔴 TODAY · 02:15 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "beIN SPORTS FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
-        },
-        {
-          "name": "beIN ESPNAOL FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
         }
       ]
     },
@@ -161,28 +139,6 @@
       ]
     },
     {
-      "category": "Basketball",
-      "title": "Atlanta Hawks vs Charlotte Hornets",
-      "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://chatgpt.hereisman.net/playlist/60545/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60545/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "NBA PASS FHD",
-          "url": "https://fernfiber.s3.ca-central-1.amazonaws.com/hornets.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://fernfiber.s3.ca-central-1.amazonaws.com/hornets.m3u8"
-        }
-      ]
-    },
-    {
       "category": "Motorsport",
       "title": "Formula 1 vs Formula 1",
       "time": "🔴 TODAY · 06:00 AM",
@@ -282,107 +238,6 @@
       ]
     },
     {
-      "category": "Basketball",
-      "title": "Cleveland Cavaliers vs Indiana Pacers",
-      "time": "🔴 TODAY · 06:00 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60547\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60547\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "NBA PASS FHD",
-          "url": "https://justpasstheball.online/live/indiana-pacers-vs-cleveland-cavaliers.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://justpasstheball.online/live/indiana-pacers-vs-cleveland-cavaliers.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.55/hls/UPPP.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.55/hls/UPPP.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Basketball",
-      "title": "Brooklyn Nets vs Orlando Magic",
-      "time": "🔴 TODAY · 06:00 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "TSN SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60557\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60557\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "YES TV HD",
-          "url": "https://chatgpt.hereisman.net/playlist/60558/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60558/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "NBA LIVE HD",
-          "url": "https://chatgpt.hereisman.net/playlist/60551/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60551/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.50/hls/UKKK.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.50/hls/UKKK.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Basketball",
-      "title": "Detroit Pistons vs Toronto Raptors",
-      "time": "🔴 TODAY · 06:00 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60559\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60559\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "PRIME VIDEO HD",
-          "url": "https://chatgpt.hereisman.net/playlist/60548/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60548/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.59/hls/FHHHA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.59/hls/FHHHA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
       "category": "Wwe",
       "title": "SmackDown vs SmackDown",
       "time": "🔴 TODAY · 06:30 AM",
@@ -457,121 +312,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.41/hls/A555AAAAQQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Hobart Hurricanes Women vs Sydney Thunder Women",
-      "time": "🔴 TODAY · 06:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "WILLOW AQ",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/suaftkmidi/out/v1/f2b9479cc026404b986f0362efa396f3/cenc.mpd",
-          "type": "MPD",
-          "key": "8510078edc672022eb6d665d1e524890:ab17b294c875ba2eda6ec8e5a8545c5b",
-          "formatted_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/suaftkmidi/out/v1/f2b9479cc026404b986f0362efa396f3/cenc.mpd?|drmScheme=clearkey&drmLicense=8510078edc672022eb6d665d1e524890:ab17b294c875ba2eda6ec8e5a8545c5b"
-        },
-        {
-          "name": "SKY CRICKET FHD",
-          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla"
-        },
-        {
-          "name": "TAPMAD FHD",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
-        },
-        {
-          "name": "WILLOW HD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "name": "TAPMAD HD",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Basketball",
-      "title": "Oklahoma City Thunder vs New Orleans Pelicans",
-      "time": "🔴 TODAY · 06:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60556\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60556\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "NBA PASS FHD",
-          "url": "https://fernfiber.s3.ca-central-1.amazonaws.com/thunder.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://fernfiber.s3.ca-central-1.amazonaws.com/thunder.m3u8"
-        },
-        {
-          "name": "NBA LEAGUEPASS FHD",
-          "url": "https://justpasstheball.online/live/new-orleans-pelicans-vs-oklahoma-city-thunder.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://justpasstheball.online/live/new-orleans-pelicans-vs-oklahoma-city-thunder.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.55/hls/UPPPA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.55/hls/UPPPA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Basketball",
-      "title": "Chicago Bulls vs Washington Wizards",
-      "time": "🔴 TODAY · 06:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://chatgpt.hereisman.net/playlist/60569/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60569/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "NBA LIVE HD",
-          "url": "https://chatgpt.hereisman.net/playlist/60555/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60555/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "NBA LEAGUEPASS FHD",
-          "url": "https://justpasstheball.online/live/washington-wizards-vs-chicago-bulls.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://justpasstheball.online/live/washington-wizards-vs-chicago-bulls.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.50/hls/UKKKA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.50/hls/UKKKA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
