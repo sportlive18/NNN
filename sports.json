@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 08:22:24 PM",
+  "last_updated": "21/11/2026, 08:27:34 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 104,
   "matches": [
@@ -736,7 +736,15 @@
       "title": "Chapecoense vs Cruzeiro",
       "time": "🔴 TODAY · 05:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PREMIERER BR",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8"
+        }
+      ]
     },
     {
       "category": "Hockey",
