@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 05:26:54 AM",
+  "last_updated": "21/11/2026, 05:32:11 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 78,
+  "total": 85,
   "matches": [
     {
       "category": "Darts",
@@ -348,28 +348,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.41/hls/loooo.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Basketball",
-      "title": "Utah Jazz vs Phoenix Suns",
-      "time": "🔴 TODAY · 08:00 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60582\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60582\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "HD STREAM",
-          "url": "https://www.rtmpcdn.com/live/a54689ef-0f98-44f8-9c43-359a04d6d3c8.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://www.rtmpcdn.com/live/a54689ef-0f98-44f8-9c43-359a04d6d3c8.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -803,6 +781,27 @@
     },
     {
       "category": "Football",
+      "title": "Eintracht Frankfurt vs TSG Hoffenheim",
+      "time": "🔴 TODAY · 08:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "1. FC Union Berlin vs RB Leipzig",
+      "time": "🔴 TODAY · 08:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Borussia M'gladbach vs Borussia Dortmund",
+      "time": "🔴 TODAY · 08:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Coventry City vs Crystal Palace",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
@@ -936,8 +935,22 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "FC Schalke 04 vs VfB Stuttgart",
+      "time": "🔴 TODAY · 11:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Basketball",
       "title": "Philadelphia 76ers vs Milwaukee Bucks",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Carolina Hurricanes vs Edmonton Oilers",
       "time": "🔴 TODAY · 11:30 PM",
       "is_today": true,
       "streams": []
@@ -1020,6 +1033,13 @@
       "streams": []
     },
     {
+      "category": "Hockey",
+      "title": "Calgary Flames vs Chicago Blackhawks",
+      "time": "22/11/2026 · 02:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "FC Dallas vs Portland Timbers",
       "time": "22/11/2026 · 02:30 AM",
@@ -1036,6 +1056,20 @@
     {
       "category": "Football",
       "title": "Chapecoense vs Cruzeiro",
+      "time": "22/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Ottawa Senators vs Los Angeles Kings",
+      "time": "22/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Montréal Canadiens vs Philadelphia Flyers",
       "time": "22/11/2026 · 05:30 AM",
       "is_today": false,
       "streams": []
