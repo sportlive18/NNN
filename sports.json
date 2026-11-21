@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 04:23:09 PM",
+  "last_updated": "21/11/2026, 04:27:59 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 120,
   "matches": [
@@ -1686,7 +1686,15 @@
       "title": "RC Lens vs Toulouse",
       "time": "22/11/2026 · 01:15 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "BeIN XTRA - AQ",
+          "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
