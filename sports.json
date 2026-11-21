@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 04:33:22 PM",
+  "last_updated": "21/11/2026, 04:38:32 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 119,
   "matches": [
@@ -889,18 +889,11 @@
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
         },
         {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60609\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60609\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "PlayZ TV HD",
-          "url": "https://admin.formaturamaxi.com.br/simplyabby.m3u8",
+          "name": "SETANTA SPORTS RU AQ ",
+          "url": "https://hoast-plm.shop/playztv/links.php?id=setanta2.m3u8",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://admin.formaturamaxi.com.br/simplyabby.m3u8"
+          "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=setanta2.m3u8"
         },
         {
           "name": "SportsNet FHD",
@@ -915,6 +908,20 @@
           "type": "MPD",
           "key": "117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
           "formatted_url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13"
+        },
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60609\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60609\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "PlayZ TV HD",
+          "url": "https://admin.formaturamaxi.com.br/simplyabby.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://admin.formaturamaxi.com.br/simplyabby.m3u8"
         },
         {
           "name": "LOW QUALITY",
@@ -1096,7 +1103,15 @@
       "title": "Brazil U17 vs Ireland U17",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SporTV BR FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        }
+      ]
     },
     {
       "category": "Football",
