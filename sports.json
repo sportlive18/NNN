@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 08:27:34 PM",
+  "last_updated": "21/11/2026, 08:32:13 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 104,
+  "total": 100,
   "matches": [
     {
       "category": "Darts",
@@ -355,7 +355,7 @@
           "formatted_url": "https://ec.koooracity.press/youz1.m3u8"
         },
         {
-          "name": "BeIN AR FHD",
+          "name": "BeIN AR HD",
           "url": "https://yll7.akbarnews.store/cdn/master.m3u8",
           "type": "M3U8",
           "key": null,
@@ -558,14 +558,30 @@
       "title": "Vitória SC vs Sporting Braga",
       "time": "🔴 TODAY · 02:00 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live2.jorvakstreamcache.com/live/channel13.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel13.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "FC Dallas vs Portland Timbers",
       "time": "🔴 TODAY · 02:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8"
+        }
+      ]
     },
     {
       "category": "Cricket",
@@ -918,13 +934,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Brisbane Heat Women vs Adelaide Strikers Women",
-      "time": "🔴 TODAY · 10:10 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Cricket",
       "title": "Pakistan Women vs Scotland Women",
       "time": "🔴 TODAY · 10:30 AM",
       "is_today": true,
@@ -1022,13 +1031,6 @@
           "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
         }
       ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Melbourne Stars Women vs Melbourne Renegades Women",
-      "time": "🔴 TODAY · 01:40 PM",
-      "is_today": true,
-      "streams": []
     },
     {
       "category": "Cricket",
@@ -1164,28 +1166,37 @@
       "title": "Juventus vs Venezia",
       "time": "🔴 TODAY · 05:00 PM",
       "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Juventus vs Venezia",
-      "time": "🔴 TODAY · 05:00 PM",
-      "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "TNT SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "type": "MPD",
+          "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "name": "beIN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "type": "MPD",
+          "key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Burnley vs Blackburn Rovers",
       "time": "🔴 TODAY · 05:30 PM",
       "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Burnley vs Blackburn Rovers",
-      "time": "🔴 TODAY · 05:30 PM",
-      "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "beIN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "type": "MPD",
+          "key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -1326,7 +1337,15 @@
       "title": "Real Racing Club vs Real Sociedad",
       "time": "🔴 TODAY · 08:45 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PREMIER SPORTS - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "type": "MPD",
+          "key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -1354,7 +1373,15 @@
       "title": "Liverpool FC vs Manchester United",
       "time": "🔴 TODAY · 10:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SKY SPORTS PL - AQ",
+          "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https"
+        }
+      ]
     },
     {
       "category": "Football",
