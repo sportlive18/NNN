@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 01:11:56 AM",
+  "last_updated": "21/11/2026, 01:17:03 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 77,
   "matches": [
@@ -501,6 +501,20 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60556\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "NBA PASS FHD",
+          "url": "https://fernfiber.s3.ca-central-1.amazonaws.com/thunder.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://fernfiber.s3.ca-central-1.amazonaws.com/thunder.m3u8"
+        },
+        {
+          "name": "NBA LEAGUEPASS FHD",
+          "url": "https://justpasstheball.online/live/new-orleans-pelicans-vs-oklahoma-city-thunder.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://justpasstheball.online/live/new-orleans-pelicans-vs-oklahoma-city-thunder.m3u8"
         },
         {
           "name": "SD STREAM",
