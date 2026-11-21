@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 03:17:55 PM",
+  "last_updated": "21/11/2026, 03:23:11 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 122,
   "matches": [
@@ -773,6 +773,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "SHAHID EN/AR - AQ",
+          "url": "https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd",
+          "type": "MPD",
+          "key": "2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b",
+          "formatted_url": "https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd?|drmScheme=clearkey&drmLicense=2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b"
+        },
+        {
           "name": "PlayZ TV HD",
           "url": "https://live.vivo155.com/live/hd-en-1-4566405.m3u8?txSecret=ee441f837a69173e9927d0db7aa5455e&txTime=6B01B7D4|Referer=https://player.on8on8.com/",
           "type": "M3U8",
@@ -801,6 +808,13 @@
       "time": "🔴 TODAY · 08:00 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "SHAHID EN/AR - AQ",
+          "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd",
+          "type": "MPD",
+          "key": "6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb",
+          "formatted_url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd?|drmScheme=clearkey&drmLicense=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb"
+        },
         {
           "name": "PlayZ TV HD",
           "url": "https://live.vivo155.com/live/hd-en-1-4566409.m3u8?txSecret=ffa99c544fc5ed93ec871a545479bb3c&txTime=6B01B7E9|Referer=https://player.on8on8.com/",
