@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 09:37:14 PM",
+  "last_updated": "21/11/2026, 09:42:11 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 99,
   "matches": [
@@ -367,6 +367,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.59/hls/J444A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        },
+        {
+          "name": "SD",
+          "url": "https://embedcenter.st/embed/hls_co.php?stream=377qj1h2727|referer=https://embedcenter.st/embed/ch6.php",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://embedcenter.st/embed/hls_co.php?stream=377qj1h2727|referer=https://embedcenter.st/embed/ch6.php"
         }
       ]
     },
