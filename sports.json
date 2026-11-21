@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 04:27:59 PM",
+  "last_updated": "21/11/2026, 04:33:22 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 120,
+  "total": 119,
   "matches": [
     {
       "category": "Darts",
@@ -651,21 +651,6 @@
       ]
     },
     {
-      "category": "Rugby",
-      "title": "Georgia vs USA",
-      "time": "🔴 TODAY · 07:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "RUGBYPASS TV AQ ",
-          "url": "https://dice-live-eu.akamaized.net/hdntl=exp=1795354532~acl=*dash%2flive%2f2019486%2f316606-339156%2f*!*dash%2flive%2f2019486-b%2f316606-339156-b%2f*~id=8709e9fe-ca2a-4763-855c-803fade18baf~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMDMuODIuMTIzLjEyMiZleHA9MTc5NTM1NDU2MSZlaWQ9MzE2NjA2JmNpZD1kY2Uud29ybGRydWdieSZvaWQ9Mzc4JnR5cGU9TElWRSZkYXA9MA~hmac=f34d0326a490929351ac4ad836b3e5dfbf20c1d47e2172a249542d06effac2c8/dash/live/2019486/316606-339156/manifest-d.mpd",
-          "type": "MPD",
-          "key": "775169b3032845f1a993010f0da49640:10f417213e2345618fe157f857a195aa",
-          "formatted_url": "https://dice-live-eu.akamaized.net/hdntl=exp=1795354532~acl=*dash%2flive%2f2019486%2f316606-339156%2f*!*dash%2flive%2f2019486-b%2f316606-339156-b%2f*~id=8709e9fe-ca2a-4763-855c-803fade18baf~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMDMuODIuMTIzLjEyMiZleHA9MTc5NTM1NDU2MSZlaWQ9MzE2NjA2JmNpZD1kY2Uud29ybGRydWdieSZvaWQ9Mzc4JnR5cGU9TElWRSZkYXA9MA~hmac=f34d0326a490929351ac4ad836b3e5dfbf20c1d47e2172a249542d06effac2c8/dash/live/2019486/316606-339156/manifest-d.mpd?|drmScheme=clearkey&drmLicense=775169b3032845f1a993010f0da49640:10f417213e2345618fe157f857a195aa"
-        }
-      ]
-    },
-    {
       "category": "Football",
       "title": "SV 07 Elversberg vs SC Freiburg",
       "time": "🔴 TODAY · 08:00 PM",
@@ -1111,15 +1096,7 @@
       "title": "Brazil U17 vs Ireland U17",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "SporTV BR FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
