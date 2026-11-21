@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 05:07:34 PM",
+  "last_updated": "21/11/2026, 05:12:37 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 100,
+  "total": 99,
   "matches": [
     {
       "category": "Darts",
@@ -755,35 +755,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.192/hls/FEEEEQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Coventry City vs Crystal Palace",
-      "time": "🔴 TODAY · 08:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60598\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60598\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://live.vivo155.com/live/hd-en-1-4558513.m3u8?txSecret=e20a57db07f81d105bb36719cb0988ed&txTime=6B01C421|Referer=https://player.on8on8.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.vivo155.com/live/hd-en-1-4558513.m3u8?txSecret=e20a57db07f81d105bb36719cb0988ed&txTime=6B01C421|Referer=https://player.on8on8.com/"
-        },
-        {
-          "name": "LOW QUALITY",
-          "url": "http://193.47.62.55/hls/MMMMAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.55/hls/MMMMAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
