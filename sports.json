@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 05:22:04 AM",
+  "last_updated": "21/11/2026, 05:26:54 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 69,
+  "total": 78,
   "matches": [
     {
       "category": "Darts",
@@ -936,6 +936,13 @@
       "streams": []
     },
     {
+      "category": "Basketball",
+      "title": "Philadelphia 76ers vs Milwaukee Bucks",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "New England Revolution vs Philadelphia Union",
       "time": "22/11/2026 · 12:30 AM",
@@ -945,6 +952,13 @@
     {
       "category": "Football",
       "title": "FC St. Pauli vs VfL Bochum 1848",
+      "time": "22/11/2026 · 01:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Palmeiras vs Flamengo",
       "time": "22/11/2026 · 01:00 AM",
       "is_today": false,
       "streams": []
@@ -1000,6 +1014,13 @@
     },
     {
       "category": "Football",
+      "title": "Bahia vs Coritiba",
+      "time": "22/11/2026 · 02:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "FC Dallas vs Portland Timbers",
       "time": "22/11/2026 · 02:30 AM",
       "is_today": false,
@@ -1009,6 +1030,48 @@
       "category": "Football",
       "title": "Inter Vice City vs Columbus Crew",
       "time": "22/11/2026 · 04:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Chapecoense vs Cruzeiro",
+      "time": "22/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "New York Knicks vs Portland Trail Blazers",
+      "time": "22/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "San Antonio Spurs vs New Orleans Pelicans",
+      "time": "22/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Minnesota Timberwolves vs Memphis Grizzlies",
+      "time": "22/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Dallas Mavericks vs Los Angeles Clippers",
+      "time": "22/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Sacramento Kings vs Boston Celtics",
+      "time": "22/11/2026 · 08:30 AM",
       "is_today": false,
       "streams": []
     },
