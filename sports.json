@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 03:28:08 PM",
+  "last_updated": "21/11/2026, 03:32:42 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 122,
   "matches": [
@@ -1369,7 +1369,15 @@
       "title": "Chile U17 vs Algeria U17",
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "D SPORTS+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
+        }
+      ]
     },
     {
       "category": "Football",
