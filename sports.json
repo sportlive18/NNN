@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 03:23:11 PM",
+  "last_updated": "21/11/2026, 03:28:08 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 122,
   "matches": [
@@ -904,11 +904,25 @@
       "is_today": true,
       "streams": [
         {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4qdgd4mmo9/out/v1/0a47a5d7670a45809470b9f166bfe881/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "2500035f00c78f8af6ac34417b56ad1a:055b8962417dc85371837afe265cb0b9",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4qdgd4mmo9/out/v1/0a47a5d7670a45809470b9f166bfe881/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=2500035f00c78f8af6ac34417b56ad1a:055b8962417dc85371837afe265cb0b9"
+        },
+        {
           "name": "TNT SPORTS - AQ",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "type": "MPD",
           "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "name": "PARAMOUNT+ HD",
+          "url": "https://chatgpt.hereisman.net/playlist/60610/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/60610/load-playlist-multi?|Referer=https://gooz.aapmains.net"
         },
         {
           "name": "PlayZ TV Live FHD",
@@ -1326,6 +1340,20 @@
           "type": "MPD",
           "key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
+        },
+        {
+          "name": "ESPN DEPORTES HD",
+          "url": "https://chatgpt.hereisman.net/playlist/60605/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/60605/load-playlist-multi?|Referer=https://gooz.aapmains.net"
+        },
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live.vivo155.com/live/hd-en-1-4565613.m3u8?txSecret=3d270397d15764124456f144e0b34457&txTime=6B01C995|Referer=https://player.on8on8.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.vivo155.com/live/hd-en-1-4565613.m3u8?txSecret=3d270397d15764124456f144e0b34457&txTime=6B01C995|Referer=https://player.on8on8.com/"
         }
       ]
     },
@@ -1619,7 +1647,29 @@
       "title": "Real Madrid vs Celta Vigo",
       "time": "22/11/2026 · 01:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "BEIN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?",
+          "type": "MPD",
+          "key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd??|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "name": "FANCODE - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "type": "MPD",
+          "key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "name": "CAZE TV BR - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+          "type": "MPD",
+          "key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -2043,6 +2093,20 @@
           "type": "MPD",
           "key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "name": "beIN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "type": "MPD",
+          "key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "name": "PREMIER SPORTS - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "type": "MPD",
+          "key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
         }
       ]
     },
