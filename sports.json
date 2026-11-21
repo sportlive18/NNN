@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 03:37:42 PM",
+  "last_updated": "21/11/2026, 03:42:39 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 122,
+  "total": 121,
   "matches": [
     {
       "category": "Darts",
@@ -664,13 +664,6 @@
           "formatted_url": "https://dice-live-eu.akamaized.net/hdntl=exp=1795354532~acl=*dash%2flive%2f2019486%2f316606-339156%2f*!*dash%2flive%2f2019486-b%2f316606-339156-b%2f*~id=8709e9fe-ca2a-4763-855c-803fade18baf~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMDMuODIuMTIzLjEyMiZleHA9MTc5NTM1NDU2MSZlaWQ9MzE2NjA2JmNpZD1kY2Uud29ybGRydWdieSZvaWQ9Mzc4JnR5cGU9TElWRSZkYXA9MA~hmac=f34d0326a490929351ac4ad836b3e5dfbf20c1d47e2172a249542d06effac2c8/dash/live/2019486/316606-339156/manifest-d.mpd?|drmScheme=clearkey&drmLicense=775169b3032845f1a993010f0da49640:10f417213e2345618fe157f857a195aa"
         }
       ]
-    },
-    {
-      "category": "Rugby",
-      "title": "Scotland vs Japan",
-      "time": "🔴 TODAY · 07:40 PM",
-      "is_today": true,
-      "streams": []
     },
     {
       "category": "Rugby",
