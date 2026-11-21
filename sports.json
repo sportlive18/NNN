@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 08:32:39 AM",
+  "last_updated": "21/11/2026, 08:37:29 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 124,
+  "total": 123,
   "matches": [
     {
       "category": "Darts",
@@ -395,21 +395,6 @@
           "type": "MPD",
           "key": "7a29f2aea9654ede8b31fcb95db63594:6301c43a0dd04eec94bacecac9a279d6",
           "formatted_url": "https://dice-live-ap.akamaized.net/hdntl=exp=1795320934~acl=*dash%2flive%2f2102672%2f320983-339094%2f*!*dash%2flive%2f2102672-b%2f320983-339094-b%2f*~id=f064678a-48b3-495f-ae44-57f5ef7fa85c~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0yMDIuNDcuMzIuMTUyJmV4cD0xNzk1MzIwOTY0JmVpZD0zMjA5ODMmY2lkPWRjZS53b3JsZHJ1Z2J5Jm9pZD0zNzgmdHlwZT1MSVZFJmRhcD0w~hmac=d2d59b33eb7980c1bf4c216165b6e89c31aa257a7b9cc974d3ce8f019abd1beb/dash/live/2102672/320983-339094/manifest-d.mpd?|drmScheme=clearkey&drmLicense=7a29f2aea9654ede8b31fcb95db63594:6301c43a0dd04eec94bacecac9a279d6"
-        }
-      ]
-    },
-    {
-      "category": "Basketball",
-      "title": "Tasmania Jackjumpers vs Illawarra Hawks",
-      "time": "🔴 TODAY · 12:00 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.41/hls/DEEEE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/DEEEE.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
