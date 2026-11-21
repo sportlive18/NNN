@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 01:22:01 AM",
+  "last_updated": "21/11/2026, 01:27:06 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 77,
   "matches": [
@@ -157,84 +157,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://dai.google.com/linear/hls/event/HVE4ffO0R5CLFalgAF7QtQ/master.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Wwe",
-      "title": "SmackDown vs SmackDown",
-      "time": "🔴 TODAY · 05:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "WWE LIVE FHD",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "name": "PlayZTV WWE",
-          "url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "NETFLIX FHD",
-          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
-        },
-        {
-          "name": "SMACKDOWN HD",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "name": "NETFLIX HD",
-          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/2.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/2.m3u8"
-        },
-        {
-          "name": "SMACKDOWN SD",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
-        },
-        {
-          "name": "NETFLIX SD",
-          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/3.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/3.m3u8"
-        },
-        {
-          "name": "PLAYZ TV HD",
-          "url": "https://pz.ekkktb.workers.dev/?q=WWE vs wwe",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https://pz.ekkktb.workers.dev/?q=WWE vs wwe"
-        },
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/58881\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/58881\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.41/hls/A555AAAAQQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/A555AAAAQQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -457,6 +379,84 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.59/hls/FHHHA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "category": "Wwe",
+      "title": "SmackDown vs SmackDown",
+      "time": "🔴 TODAY · 06:30 AM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "WWE LIVE FHD",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        },
+        {
+          "name": "PlayZTV WWE",
+          "url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+          "name": "NETFLIX FHD",
+          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
+        },
+        {
+          "name": "SMACKDOWN HD",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "name": "NETFLIX HD",
+          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/2.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/2.m3u8"
+        },
+        {
+          "name": "SMACKDOWN SD",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
+        },
+        {
+          "name": "NETFLIX SD",
+          "url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/3.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/3.m3u8"
+        },
+        {
+          "name": "PLAYZ TV HD",
+          "url": "https://pz.ekkktb.workers.dev/?q=WWE vs wwe",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://pz.ekkktb.workers.dev/?q=WWE vs wwe"
+        },
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/58881\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/58881\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/A555AAAAQQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/A555AAAAQQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
