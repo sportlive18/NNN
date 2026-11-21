@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 05:42:26 AM",
+  "last_updated": "21/11/2026, 05:47:24 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 88,
+  "total": 89,
   "matches": [
     {
       "category": "Darts",
@@ -279,6 +279,21 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://www.rtmpcdn.com/live/76b6e2e6-1342-4b21-aa29-04b57b22d0f6.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "category": "Tennis",
+      "title": "Japan vs Argentina",
+      "time": "🔴 TODAY · 08:30 AM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "BEIN SPORTS ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "type": "MPD",
+          "key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
         }
       ]
     },
