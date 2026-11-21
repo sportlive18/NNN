@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 04:57:29 PM",
+  "last_updated": "21/11/2026, 05:02:26 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 113,
   "matches": [
@@ -981,82 +981,35 @@
       "title": "Lincoln City vs Wrexham",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.44/hls/T666AAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.44/hls/T666AAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
       "title": "Stoke City vs Birmingham City",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.55/hls/4HHHAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.55/hls/4HHHAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
       "title": "West Ham United vs Preston North End",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.59/hls/E7777AAAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.59/hls/E7777AAAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
       "title": "Middlesbrough vs Bristol City",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "CBS SPORTS ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-          "type": "MPD",
-          "key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.59/hls/E7777AAAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.59/hls/E7777AAAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
       "title": "Swansea City vs West Bromwich Albion",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.44/hls/T666AAAAAQA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.44/hls/T666AAAAAQA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
@@ -1311,7 +1264,15 @@
       "title": "Zimbabwe vs Chile",
       "time": "🔴 TODAY · 10:45 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PLAYZTV AQ ",
+          "url": "https://dice-live-eu.akamaized.net/hdntl=exp=1795366235~acl=*dash%2flive%2f2019635%2f316609-339239%2f*!*dash%2flive%2f2019635-b%2f316609-339239-b%2f*~id=f42b5fa2-a0e2-41d4-9614-2f2924223ae2~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMTEuOTIuMTI4LjQxJmV4cD0xNzk1MzY2MjY1JmVpZD0zMTY2MDkmY2lkPWRjZS53b3JsZHJ1Z2J5Jm9pZD0zNzgmdHlwZT1MSVZFJmRhcD0w~hmac=cf902574286888b42e579bb94510f1f2a98d538ce61884624384a63ebed49baf/dash/live/2019635/316609-339239/manifest-d.mpd",
+          "type": "MPD",
+          "key": "e982ecb421e24f64b6c066fb5b652475:d91629842ccc4723a6414a5c814f6966",
+          "formatted_url": "https://dice-live-eu.akamaized.net/hdntl=exp=1795366235~acl=*dash%2flive%2f2019635%2f316609-339239%2f*!*dash%2flive%2f2019635-b%2f316609-339239-b%2f*~id=f42b5fa2-a0e2-41d4-9614-2f2924223ae2~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMTEuOTIuMTI4LjQxJmV4cD0xNzk1MzY2MjY1JmVpZD0zMTY2MDkmY2lkPWRjZS53b3JsZHJ1Z2J5Jm9pZD0zNzgmdHlwZT1MSVZFJmRhcD0w~hmac=cf902574286888b42e579bb94510f1f2a98d538ce61884624384a63ebed49baf/dash/live/2019635/316609-339239/manifest-d.mpd?|drmScheme=clearkey&drmLicense=e982ecb421e24f64b6c066fb5b652475:d91629842ccc4723a6414a5c814f6966"
+        }
+      ]
     },
     {
       "category": "Football",
