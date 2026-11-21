@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 06:57:11 AM",
+  "last_updated": "21/11/2026, 07:02:10 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 89,
   "matches": [
@@ -347,6 +347,20 @@
       "is_today": true,
       "streams": [
         {
+          "name": "WILLOW ADFREE ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7"
+        },
+        {
+          "name": "PRIME VIDEO",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xpbyju7ycf/out/v1/01a540649ada43b5a8830cfe656316b6/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
+          "type": "MPD",
+          "key": "5b78f639f1bd17fe9859bf92ade8a9d0:00694c720f2afdb0160302bdb1ff209e",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xpbyju7ycf/out/v1/01a540649ada43b5a8830cfe656316b6/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com?|drmScheme=clearkey&drmLicense=5b78f639f1bd17fe9859bf92ade8a9d0:00694c720f2afdb0160302bdb1ff209e"
+        },
+        {
           "name": "STARZPLAY FHD",
           "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
           "type": "MPD",
@@ -355,10 +369,10 @@
         },
         {
           "name": "SONYLIV ENG - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795282943~acl=/*~id=53792736157604092172809612228874~hmac=db66d3803ff0cf188d37d42a04031751f92c269303dcbf5aa3a78bc1f2b5bd1a",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795282335~acl=/*~id=62149777860658370208685505764532~hmac=f1208fc027d34823a2ecb8f71321e8d9418978f4c0bcbbe5552e47232aac243a",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795282943~acl=/*~id=53792736157604092172809612228874~hmac=db66d3803ff0cf188d37d42a04031751f92c269303dcbf5aa3a78bc1f2b5bd1a"
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795282335~acl=/*~id=62149777860658370208685505764532~hmac=f1208fc027d34823a2ecb8f71321e8d9418978f4c0bcbbe5552e47232aac243a"
         },
         {
           "name": "TAMASHA AQ ",
@@ -380,13 +394,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://dai.google.com/linear/hls/event/yaROyE-bScOVYZWWXQoBdQ/master.m3u8"
-        },
-        {
-          "name": "CRICBUZZ - IN",
-          "url": "https://dai.google.com/linear/hls/event/k2gxF4_aQw-gqVnpnhFr6w/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://dai.google.com/linear/hls/event/k2gxF4_aQw-gqVnpnhFr6w/master.m3u8"
         }
       ]
     },
