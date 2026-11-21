@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 09:52:21 PM",
+  "last_updated": "21/11/2026, 09:57:16 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 99,
   "matches": [
@@ -651,6 +651,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc"
+        },
+        {
+          "name": "CRICBUZZ [IND]",
+          "url": "https://dai.google.com/linear/hls/event/cNE9Z_P5TsuAQ5jxVJ1ADg/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://dai.google.com/linear/hls/event/cNE9Z_P5TsuAQ5jxVJ1ADg/master.m3u8"
         }
       ]
     },
