@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 06:22:24 PM",
+  "last_updated": "21/11/2026, 06:27:12 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 99,
   "matches": [
@@ -714,6 +714,13 @@
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60609\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
         },
         {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60610\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60610\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
           "name": "PlayZ TV HD",
           "url": "https://admin.formaturamaxi.com.br/simplyabby.m3u8",
           "type": "M3U8",
@@ -721,11 +728,60 @@
           "formatted_url": "https://admin.formaturamaxi.com.br/simplyabby.m3u8"
         },
         {
-          "name": "LOW QUALITY",
-          "url": "http://193.47.62.192/hls/FEEEEQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "http://193.47.62.192/hls/FEEEEQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57"
+        },
+        {
+          "name": "SONYLIV HIN - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57"
+        },
+        {
+          "name": "SONYLIV - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57"
+        },
+        {
+          "name": "SONYLIV TEL - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57"
+        },
+        {
+          "name": "SONYLIV KAN - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57"
+        },
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/rrrr.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/rrrr.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "https://temp.formaturamaxi.com.br/tnt.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://temp.formaturamaxi.com.br/tnt.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -1082,7 +1138,22 @@
       "title": "Dundee FC vs Heart of Midlothian",
       "time": "🔴 TODAY · 11:15 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://www.rtmpcdn.com/live/773547fd-d5c7-46aa-9669-cd95d02a1e53.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/773547fd-d5c7-46aa-9669-cd95d02a1e53.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.50/hls/VFVFVFAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/VFVFVFAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Basketball",
