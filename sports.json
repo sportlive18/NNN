@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 04:02:58 PM",
+  "last_updated": "21/11/2026, 04:08:15 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 120,
   "matches": [
@@ -1210,6 +1210,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "CBS SPORTS ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+          "type": "MPD",
+          "key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
           "name": "SD STREAM",
           "url": "http://193.47.62.59/hls/E7777AAAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
           "type": "M3U8",
@@ -1386,7 +1393,15 @@
       "title": "Spain vs Samoa",
       "time": "🔴 TODAY · 09:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://dice-live-eu.akamaized.net/hdntl=exp=1795361728~acl=*dash%2flive%2f2019622%2f316608-339200%2f*!*dash%2flive%2f2019622-b%2f316608-339200-b%2f*~id=3b49a419-ffba-4676-9175-ec02b370f12f~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMTEuOTIuMTMxLjE5JmV4cD0xNzk1MzYxNzU4JmVpZD0zMTY2MDgmY2lkPWRjZS53b3JsZHJ1Z2J5Jm9pZD0zNzgmdHlwZT1MSVZFJmRhcD0w~hmac=4ff6fab0a5f79afe86a1949031bd332a69aafd21a1d20b5f0dad87022be76042/dash/live/2019622/316608-339200/manifest-d.mpd",
+          "type": "MPD",
+          "key": "eacf7424b6294dda808618a8ed4ae425:6fa1c86c27594359a8db178b997117c8",
+          "formatted_url": "https://dice-live-eu.akamaized.net/hdntl=exp=1795361728~acl=*dash%2flive%2f2019622%2f316608-339200%2f*!*dash%2flive%2f2019622-b%2f316608-339200-b%2f*~id=3b49a419-ffba-4676-9175-ec02b370f12f~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMTEuOTIuMTMxLjE5JmV4cD0xNzk1MzYxNzU4JmVpZD0zMTY2MDgmY2lkPWRjZS53b3JsZHJ1Z2J5Jm9pZD0zNzgmdHlwZT1MSVZFJmRhcD0w~hmac=4ff6fab0a5f79afe86a1949031bd332a69aafd21a1d20b5f0dad87022be76042/dash/live/2019622/316608-339200/manifest-d.mpd?|drmScheme=clearkey&drmLicense=eacf7424b6294dda808618a8ed4ae425:6fa1c86c27594359a8db178b997117c8"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -1414,6 +1429,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live.vivo155.com/live/hd-en-1-4550937.m3u8?txSecret=fa15295e7a2f20ca4c71c293eb5401ba&txTime=6B01CBB8|Referer=https://player.on8on8.com/"
+        },
+        {
+          "name": "FHD STREAM ",
+          "url": "https://justpasstheball.online/live/next-nice-vs-psg-all-21-11-2026-16-55-gmt-8k-exclusive-de-soccer-ppv-52.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://justpasstheball.online/live/next-nice-vs-psg-all-21-11-2026-16-55-gmt-8k-exclusive-de-soccer-ppv-52.m3u8"
         }
       ]
     },
@@ -1485,6 +1507,20 @@
           "type": "MPD",
           "key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "name": "FANCODE FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "name": "D Sports FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
         }
       ]
     },
@@ -1495,7 +1531,21 @@
       "is_today": true,
       "streams": [
         {
-          "name": "SKY SPORTS PL - AQ",
+          "name": "FUBO SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1"
+        },
+        {
+          "name": "SKY SPORTS EPL",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
+        },
+        {
+          "name": "SKY SPORTS HD",
           "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https",
           "type": "M3U8",
           "key": null,
@@ -1529,7 +1579,15 @@
       "title": "Feyenoord vs Excelsior",
       "time": "🔴 TODAY · 11:15 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SportDigital Fussball",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ]
     },
     {
       "category": "Football",
