@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 04:38:32 PM",
+  "last_updated": "21/11/2026, 04:42:59 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 119,
+  "total": 113,
   "matches": [
     {
       "category": "Darts",
@@ -651,64 +651,6 @@
       ]
     },
     {
-      "category": "Football",
-      "title": "SV 07 Elversberg vs SC Freiburg",
-      "time": "🔴 TODAY · 08:00 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "BUNDESALIGA 2",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrejffyflm/out/v1/ad9a8d717bfc45d095f23a92925d7b1f/cenc.mpd",
-          "type": "MPD",
-          "key": "5e0ee93e86d783f011561f18ff8f34e6:b570eceee332c7e50f87fca1f51e0966",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrejffyflm/out/v1/ad9a8d717bfc45d095f23a92925d7b1f/cenc.mpd?|drmScheme=clearkey&drmLicense=5e0ee93e86d783f011561f18ff8f34e6:b570eceee332c7e50f87fca1f51e0966"
-        },
-        {
-          "name": "PlayZ TV TV HD",
-          "url": "https://live.vivo155.com/live/hd-en-1-4566523.m3u8?txSecret=0ee1753c0b31ded541af2cb3eb69512a&txTime=6B01B766|Referer=https://player.on8on8.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.vivo155.com/live/hd-en-1-4566523.m3u8?txSecret=0ee1753c0b31ded541af2cb3eb69512a&txTime=6B01B766|Referer=https://player.on8on8.com/"
-        },
-        {
-          "name": "HD STREAM ",
-          "url": "http://193.47.62.41/hls/Y444AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/Y444AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Bayer 04 Leverkusen vs SC Paderborn 07",
-      "time": "🔴 TODAY · 08:00 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV HD",
-          "url": "https://live.vivo155.com/live/hd-en-1-4566402.m3u8?txSecret=0cab6466c4e908e707fcc85037917e62&txTime=6B01B73C|Referer=https://player.on8on8.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.vivo155.com/live/hd-en-1-4566402.m3u8?txSecret=0cab6466c4e908e707fcc85037917e62&txTime=6B01B73C|Referer=https://player.on8on8.com/"
-        },
-        {
-          "name": "HD STREAM ",
-          "url": "https://chatgpt.hereisman.net/playlist/60597/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60597/load-playlist-multi?|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "SD STREAM ",
-          "url": "http://193.47.62.41/hls/Y444A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/Y444A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
-        }
-      ]
-    },
-    {
       "category": "Cricket",
       "title": "ILT T20 vs ILT T20",
       "time": "🔴 TODAY · 08:00 PM",
@@ -734,122 +676,6 @@
           "type": "MPD",
           "key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Eintracht Frankfurt vs TSG Hoffenheim",
-      "time": "🔴 TODAY · 08:00 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "SHAHID EN/AR - AQ",
-          "url": "https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd",
-          "type": "MPD",
-          "key": "2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b",
-          "formatted_url": "https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd?|drmScheme=clearkey&drmLicense=2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b"
-        },
-        {
-          "name": "PlayZ TV HD",
-          "url": "https://live.vivo155.com/live/hd-en-1-4566405.m3u8?txSecret=ee441f837a69173e9927d0db7aa5455e&txTime=6B01B7D4|Referer=https://player.on8on8.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.vivo155.com/live/hd-en-1-4566405.m3u8?txSecret=ee441f837a69173e9927d0db7aa5455e&txTime=6B01B7D4|Referer=https://player.on8on8.com/"
-        },
-        {
-          "name": "HD STREAM ",
-          "url": "https://chatgpt.hereisman.net/playlist/60604/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60604/load-playlist-multi?|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "LOW QUALITY",
-          "url": "http://193.47.62.41/hls/Y444AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/Y444AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "1. FC Union Berlin vs RB Leipzig",
-      "time": "🔴 TODAY · 08:00 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "SHAHID EN/AR - AQ",
-          "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd",
-          "type": "MPD",
-          "key": "6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb",
-          "formatted_url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd?|drmScheme=clearkey&drmLicense=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb"
-        },
-        {
-          "name": "PlayZ TV HD",
-          "url": "https://live.vivo155.com/live/hd-en-1-4566409.m3u8?txSecret=ffa99c544fc5ed93ec871a545479bb3c&txTime=6B01B7E9|Referer=https://player.on8on8.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.vivo155.com/live/hd-en-1-4566409.m3u8?txSecret=ffa99c544fc5ed93ec871a545479bb3c&txTime=6B01B7E9|Referer=https://player.on8on8.com/"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.41/hls/Y444AAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/Y444AAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Borussia M'gladbach vs Borussia Dortmund",
-      "time": "🔴 TODAY · 08:00 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "SKY TOP EVENT FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        },
-        {
-          "name": "PlayZ TV HD",
-          "url": "https://live.vivo155.com/live/hd-en-1-4566411.m3u8?txSecret=32fdb9b5598b831629a9d30030fb5743&txTime=6B01B7BB|Referer=https://player.on8on8.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.vivo155.com/live/hd-en-1-4566411.m3u8?txSecret=32fdb9b5598b831629a9d30030fb5743&txTime=6B01B7BB|Referer=https://player.on8on8.com/"
-        },
-        {
-          "name": "HD STREAM ",
-          "url": "https://chatgpt.hereisman.net/playlist/60596/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60596/load-playlist-multi?|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "SD STREAM ",
-          "url": "http://193.47.62.41/hls/Y444.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/Y444.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Dominican Republic U17 vs Montenegro U17",
-      "time": "🔴 TODAY · 08:00 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "FOX SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
         }
       ]
     },
