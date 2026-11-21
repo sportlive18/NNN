@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 03:42:39 PM",
+  "last_updated": "21/11/2026, 03:47:33 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 121,
+  "total": 120,
   "matches": [
     {
       "category": "Darts",
@@ -666,13 +666,6 @@
       ]
     },
     {
-      "category": "Rugby",
-      "title": "England vs New Zealand",
-      "time": "🔴 TODAY · 07:40 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
       "category": "Football",
       "title": "SV 07 Elversberg vs SC Freiburg",
       "time": "🔴 TODAY · 08:00 PM",
@@ -911,32 +904,18 @@
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
         },
         {
-          "name": "PARAMOUNT+ HD",
-          "url": "https://chatgpt.hereisman.net/playlist/60610/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60609\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
           "type": "DIRECT",
           "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60610/load-playlist-multi?|Referer=https://gooz.aapmains.net"
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60609\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
         },
         {
-          "name": "PlayZ TV Live FHD",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8",
+          "name": "PlayZ TV HD",
+          "url": "https://admin.formaturamaxi.com.br/simplyabby.m3u8",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8"
-        },
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://chatgpt.hereisman.net/playlist/60082/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60082/load-playlist-multi?|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "PARAMOUNT+ HD",
-          "url": "https://chatgpt.hereisman.net/playlist/60083/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60083/load-playlist-multi?|Referer=https://gooz.aapmains.net"
+          "formatted_url": "https://admin.formaturamaxi.com.br/simplyabby.m3u8"
         },
         {
           "name": "SportsNet FHD",
@@ -1355,7 +1334,15 @@
       "title": "Mexico U17 vs Romania U17",
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PREMIER SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "type": "MPD",
+          "key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd?|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        }
+      ]
     },
     {
       "category": "Football",
