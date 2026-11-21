@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 04:13:13 PM",
+  "last_updated": "21/11/2026, 04:17:44 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 120,
   "matches": [
@@ -1934,7 +1934,15 @@
       "title": "Atlético Mineiro vs Boca Juniors",
       "time": "22/11/2026 · 04:00 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        }
+      ]
     },
     {
       "category": "Football",
