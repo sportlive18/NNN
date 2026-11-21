@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 12:18:13 PM",
+  "last_updated": "21/11/2026, 12:22:31 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 123,
+  "total": 122,
   "matches": [
     {
       "category": "Darts",
@@ -460,13 +460,6 @@
           "formatted_url": "http://193.47.62.44/hls/ziii.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
-    },
-    {
-      "category": "Football",
-      "title": "Gençlerbirliği vs Gaziantep FK",
-      "time": "🔴 TODAY · 04:00 PM",
-      "is_today": true,
-      "streams": []
     },
     {
       "category": "Tennis",
