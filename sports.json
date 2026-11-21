@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 08:12:31 AM",
+  "last_updated": "21/11/2026, 08:17:27 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 92,
+  "total": 112,
   "matches": [
     {
       "category": "Darts",
@@ -715,8 +715,57 @@
     },
     {
       "category": "Football",
+      "title": "Japan U17 vs Colombia U17",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Serbia U17 vs Honduras U17",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Southampton vs Derby County",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Norwich City vs Cardiff City",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Millwall vs Queens Park Rangers",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "CE Sabadell vs Granada",
       "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Tanzania U17 vs Costa Rica U17",
+      "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Cameroon U17 vs Venezuela U17",
+      "time": "🔴 TODAY · 07:00 PM",
       "is_today": true,
       "streams": []
     },
@@ -785,6 +834,13 @@
     },
     {
       "category": "Football",
+      "title": "Dominican Republic U17 vs Montenegro U17",
+      "time": "🔴 TODAY · 08:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Coventry City vs Crystal Palace",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
@@ -820,6 +876,69 @@
     },
     {
       "category": "Football",
+      "title": "Brazil U17 vs Ireland U17",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Bolton Wanderers vs Portsmouth",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Sheffield United vs Watford",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Lincoln City vs Wrexham",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Stoke City vs Birmingham City",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "West Ham United vs Preston North End",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Middlesbrough vs Bristol City",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Swansea City vs West Bromwich Albion",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Wolverhampton vs Charlton Athletic",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Real Sociedad B vs Cádiz",
       "time": "🔴 TODAY · 08:45 PM",
       "is_today": true,
@@ -829,6 +948,20 @@
       "category": "Football",
       "title": "Rayo Vallecano vs Valencia",
       "time": "🔴 TODAY · 08:45 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Mexico U17 vs Romania U17",
+      "time": "🔴 TODAY · 09:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Chile U17 vs Algeria U17",
+      "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
       "streams": []
     },
@@ -1223,6 +1356,13 @@
       "category": "Football",
       "title": "Juventus vs Venezia",
       "time": "22/11/2026 · 05:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Burnley vs Blackburn Rovers",
+      "time": "22/11/2026 · 05:30 PM",
       "is_today": false,
       "streams": []
     },
