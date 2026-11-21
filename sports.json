@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 03:13:50 PM",
+  "last_updated": "21/11/2026, 03:17:55 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 121,
+  "total": 122,
   "matches": [
     {
       "category": "Darts",
@@ -869,6 +869,21 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "EPL Goals Rush vs EPL Goals Rush",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "SKY SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
+        }
+      ]
+    },
+    {
       "category": "Mixed Martial Arts",
       "title": "Jiří Procházka vs Navajo Stirling",
       "time": "🔴 TODAY · 08:30 PM",
@@ -944,6 +959,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live.vivo155.com/live/hd-en-1-4558513.m3u8?txSecret=e20a57db07f81d105bb36719cb0988ed&txTime=6B01C421|Referer=https://player.on8on8.com/"
+        },
+        {
+          "name": "LOW QUALITY",
+          "url": "http://193.47.62.55/hls/MMMMAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.55/hls/MMMMAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -1055,11 +1077,32 @@
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60602\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
         },
         {
+          "name": "PlayZ TV Live",
+          "url": "https://live.vivo155.com/live/hd-en-1-4558500.m3u8?txSecret=7ba81a2345fdeb6aff973457ddaea997&txTime=6B01C47F|Referer=https://player.on8on8.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.vivo155.com/live/hd-en-1-4558500.m3u8?txSecret=7ba81a2345fdeb6aff973457ddaea997&txTime=6B01C47F|Referer=https://player.on8on8.com/"
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://www.rtmpcdn.com/live/bb53c010-aa9e-4eaf-8c8d-d93f39f33707.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/bb53c010-aa9e-4eaf-8c8d-d93f39f33707.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        },
+        {
           "name": "USA NETWORK FHD [USA]",
           "url": "http://p-cdn1-602-cg15-linear-cbd46b77.movetv.com/clipslist/633/20261121T000000Z/20261122T000000Z/spanning_ads.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
           "type": "MPD",
           "key": "118eb1dcaf864f4cbf8a400fbb873c76:0fa46e88821485b021fed97d97cc72d0",
           "formatted_url": "http://p-cdn1-602-cg15-linear-cbd46b77.movetv.com/clipslist/633/20261121T000000Z/20261122T000000Z/spanning_ads.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0?|drmScheme=clearkey&drmLicense=118eb1dcaf864f4cbf8a400fbb873c76:0fa46e88821485b021fed97d97cc72d0"
+        },
+        {
+          "name": "LOW QUALITY",
+          "url": "http://193.47.62.59/hls/MMMMAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.59/hls/MMMMAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
