@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 05:32:11 AM",
+  "last_updated": "21/11/2026, 05:37:10 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 85,
+  "total": 88,
   "matches": [
     {
       "category": "Darts",
@@ -746,6 +746,13 @@
     },
     {
       "category": "Football",
+      "title": "CE Sabadell vs Granada",
+      "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Como vs Cagliari",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
@@ -1021,6 +1028,20 @@
     {
       "category": "Football",
       "title": "Real Madrid vs Celta Vigo",
+      "time": "22/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "SC Telstar vs PEC Zwolle",
+      "time": "22/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FC Groningen vs SC Heerenveen",
       "time": "22/11/2026 · 01:30 AM",
       "is_today": false,
       "streams": []
