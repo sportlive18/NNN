@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 06:07:33 PM",
+  "last_updated": "21/11/2026, 06:12:19 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 99,
   "matches": [
@@ -2315,7 +2315,15 @@
       "title": "Jack Paul vs Cedric Doumbe",
       "time": "24/12/2026 · 07:30 PM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "SKY SPORTS NZ - AQ ",
+          "url": "https://skygo-playz-links.vercel.app/skynz7.mpd",
+          "type": "MPD",
+          "key": "df2d9b6fca9b4f3697bda9614398b991:d10a74b6649741bf8e2687c03f955c90",
+          "formatted_url": "https://skygo-playz-links.vercel.app/skynz7.mpd?|drmScheme=clearkey&drmLicense=df2d9b6fca9b4f3697bda9614398b991:d10a74b6649741bf8e2687c03f955c90"
+        }
+      ]
     }
   ]
 }
