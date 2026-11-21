@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 05:57:13 PM",
+  "last_updated": "21/11/2026, 06:02:39 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 99,
   "matches": [
@@ -1084,11 +1084,25 @@
       "is_today": true,
       "streams": [
         {
+          "name": "TSN SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
           "name": "PlayZTV Live",
           "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60634\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60634\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "TSN SPORTS HD",
+          "url": "https://chatgpt.hereisman.net/playlist/60636/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/60636/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net"
         }
       ]
     },
@@ -1098,6 +1112,13 @@
       "time": "🔴 TODAY · 11:30 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "SKY SPORTS MIX",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
+        },
         {
           "name": "PlayZTV Live",
           "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60632\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
@@ -1112,7 +1133,15 @@
       "title": "Sporting CP vs União Desportiva da Serra",
       "time": "🔴 TODAY · 11:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
