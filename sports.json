@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 08:12:09 PM",
+  "last_updated": "21/11/2026, 08:17:11 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 105,
+  "total": 104,
   "matches": [
     {
       "category": "Darts",
@@ -325,6 +325,20 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live-cdn.ryazanslah3.space/hls/Aren1.m3u8?|Referer=https://www.arena-koora.online/"
+        },
+        {
+          "name": "FHD STREAM ",
+          "url": "https://live01-cn-ali.xqnbu.com/live/19780545_tsc.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live01-cn-ali.xqnbu.com/live/19780545_tsc.m3u8"
+        },
+        {
+          "name": "HD STREAM ",
+          "url": "https://www.rtmpcdn.com/live/8e80e3e4-436c-4bac-a3a2-ada7266334cb.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/8e80e3e4-436c-4bac-a3a2-ada7266334cb.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         },
         {
           "name": "BeIN ARABIC HD",
@@ -1379,13 +1393,6 @@
       "category": "Football",
       "title": "Burgos Club de Fútbol vs Albacete Balompié",
       "time": "23/11/2026 · 01:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "St. Louis Blues vs Edmonton Oilers",
-      "time": "23/11/2026 · 05:30 AM",
       "is_today": false,
       "streams": []
     },
