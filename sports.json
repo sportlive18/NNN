@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 02:02:52 PM",
+  "last_updated": "21/11/2026, 02:08:40 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 132,
+  "total": 130,
   "matches": [
     {
       "category": "Darts",
@@ -478,48 +478,10 @@
     },
     {
       "category": "Football",
-      "title": "1. FC Nürnberg vs Eintracht Braunschweig",
-      "time": "🔴 TODAY · 05:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "LOW QUALITY",
-          "url": "http://193.47.62.41/hls/H555AAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/H555AAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
-        }
-      ]
-    },
-    {
-      "category": "Football",
       "title": "Hannover 96 vs SpVgg Greuther Fürth",
       "time": "🔴 TODAY · 05:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "LOW QUALITY",
-          "url": "http://193.47.62.41/hls/H555AAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/H555AAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "VfL Wolfsburg vs Holstein Kiel",
-      "time": "🔴 TODAY · 05:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "LOW QUALITY",
-          "url": "http://193.47.62.41/hls/H555AAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/H555AAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
