@@ -1,7 +1,7 @@
 {
-  "last_updated": "21/11/2026, 03:03:12 PM",
+  "last_updated": "21/11/2026, 03:07:32 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 120,
+  "total": 121,
   "matches": [
     {
       "category": "Darts",
@@ -817,6 +817,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "SKY TOP EVENT FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
+        {
           "name": "PlayZ TV HD",
           "url": "https://live.vivo155.com/live/hd-en-1-4566411.m3u8?txSecret=32fdb9b5598b831629a9d30030fb5743&txTime=6B01B7BB|Referer=https://player.on8on8.com/",
           "type": "M3U8",
@@ -1236,6 +1243,21 @@
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
       "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "NEC Nijmegen vs PSV Eindhoven",
+      "time": "🔴 TODAY · 09:00 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "SportDigital Fussball",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ]
     },
     {
       "category": "Football",
