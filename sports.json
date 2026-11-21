@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 01:06:49 AM",
+  "last_updated": "21/11/2026, 01:11:56 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 77,
   "matches": [
@@ -453,6 +453,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "WILLOW AQ",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/suaftkmidi/out/v1/f2b9479cc026404b986f0362efa396f3/cenc.mpd",
+          "type": "MPD",
+          "key": "8510078edc672022eb6d665d1e524890:ab17b294c875ba2eda6ec8e5a8545c5b",
+          "formatted_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/suaftkmidi/out/v1/f2b9479cc026404b986f0362efa396f3/cenc.mpd?|drmScheme=clearkey&drmLicense=8510078edc672022eb6d665d1e524890:ab17b294c875ba2eda6ec8e5a8545c5b"
+        },
+        {
           "name": "SKY CRICKET FHD",
           "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
           "type": "M3U8",
@@ -510,6 +517,27 @@
       "time": "🔴 TODAY · 06:30 AM",
       "is_today": true,
       "streams": [
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://chatgpt.hereisman.net/playlist/60569/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/60569/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+          "name": "NBA LIVE HD",
+          "url": "https://chatgpt.hereisman.net/playlist/60555/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/60555/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+          "name": "NBA LEAGUEPASS FHD",
+          "url": "https://justpasstheball.online/live/washington-wizards-vs-chicago-bulls.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://justpasstheball.online/live/washington-wizards-vs-chicago-bulls.m3u8"
+        },
         {
           "name": "SD STREAM",
           "url": "http://193.47.62.50/hls/UKKKA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
