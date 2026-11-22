@@ -1,7 +1,7 @@
 {
-  "last_updated": "22/11/2026, 10:21:52 AM",
+  "last_updated": "22/11/2026, 10:27:19 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 63,
+  "total": 87,
   "matches": [
     {
       "category": "Tennis",
@@ -73,35 +73,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Netherlands Women vs Sri Lanka Women",
-      "time": "🔴 TODAY · 10:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795352061~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=ee99b7976ad338f649b416ef5debe9d7b8f799fc63b7d93396749ecd145c4f6a/manifest.mpd?vcfilter=b9ee83ad-6fd6-4d0d-aee5-44376958030f|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
-          "type": "MPD",
-          "key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "formatted_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795352061~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=ee99b7976ad338f649b416ef5debe9d7b8f799fc63b7d93396749ecd145c4f6a/manifest.mpd?vcfilter=b9ee83ad-6fd6-4d0d-aee5-44376958030f|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36?|drmScheme=clearkey&drmLicense=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
-        },
-        {
-          "name": "TAMASHA - AQ [PK]",
-          "url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8"
-        },
-        {
-          "name": "MYCO AQ (PK) ",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/"
         }
       ]
     },
@@ -757,6 +728,91 @@
       "streams": []
     },
     {
+      "category": "Hockey",
+      "title": "New York Rangers vs Carolina Hurricanes",
+      "time": "🔴 TODAY · 11:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "NFL REDZONE vs NFL REDZONE",
+      "time": "🔴 TODAY · 11:25 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "REDZONE FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ym9kbji9jh/out/v1/fddb9964cee64f9a9f5bd97bf0ad668e/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "f60169a33f5c94aca22d7d93079bbfa1:888e18968c39f6e3b7fcada59b87e857",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ym9kbji9jh/out/v1/fddb9964cee64f9a9f5bd97bf0ad668e/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=f60169a33f5c94aca22d7d93079bbfa1:888e18968c39f6e3b7fcada59b87e857"
+        },
+        {
+          "name": "REDZONE - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "85f340146e46533b39d1415d90746352:448aafcc613ddfd448f14d9275eda19b",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=85f340146e46533b39d1415d90746352:448aafcc613ddfd448f14d9275eda19b"
+        },
+        {
+          "name": "SKY TOP EVENT DE",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        }
+      ]
+    },
+    {
+      "category": "American Football",
+      "title": "Chicago Bears vs New Orleans Saints",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Detroit Lions vs Tampa Bay Buccaneers",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Carolina Panthers vs Baltimore Ravens",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Kansas City Chiefs vs Arizona Cardinals",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Buffalo Bills vs Vice City Manatees",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Philadelphia Eagles vs Pittsburgh Steelers",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Dallas Cowboys vs Tennessee Titans",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Darts",
       "title": "Darts vs Darts",
       "time": "23/11/2026 · 12:30 AM",
@@ -819,6 +875,34 @@
       "category": "Football",
       "title": "Burgos Club de Fútbol vs Albacete Balompié",
       "time": "23/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Atlanta Hawks vs Detroit Pistons",
+      "time": "23/11/2026 · 02:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Los Angeles Chargers vs New York Jets",
+      "time": "23/11/2026 · 02:35 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "New York Giants vs Jacksonville Jaguars",
+      "time": "23/11/2026 · 02:55 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Denver Broncos vs Las Vegas Raiders",
+      "time": "23/11/2026 · 02:55 AM",
       "is_today": false,
       "streams": []
     },
@@ -906,6 +990,83 @@
           "formatted_url": "https://dai.google.com/linear/hls/event/cNE9Z_P5TsuAQ5jxVJ1ADg/master.m3u8"
         }
       ]
+    },
+    {
+      "category": "Hockey",
+      "title": "Tampa Bay Lightning vs Buffalo Sabres",
+      "time": "23/11/2026 · 03:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Miami Heat vs Oklahoma City Thunder",
+      "time": "23/11/2026 · 04:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Chicago Bulls vs Denver Nuggets",
+      "time": "23/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Utah Jazz vs Dallas Mavericks",
+      "time": "23/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Washington Wizards vs Orlando Magic",
+      "time": "23/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Dallas Stars vs Pittsburgh Penguins",
+      "time": "23/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "St. Louis Blues vs Edmonton Oilers",
+      "time": "23/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "New York Knicks vs Indiana Pacers",
+      "time": "23/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Vancouver Canucks vs Chicago Blackhawks",
+      "time": "23/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "San Francisco 49ers vs Minnesota Vikings",
+      "time": "23/11/2026 · 06:50 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Golden State Warriors vs Boston Celtics",
+      "time": "23/11/2026 · 07:00 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Cricket",
@@ -1287,6 +1448,13 @@
           "formatted_url": "http://193.47.62.55/hls/A111AAAAAQQQA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
+    },
+    {
+      "category": "Mixed Martial Arts",
+      "title": "Israel Adesanya vs Shara Magomedov",
+      "time": "05/12/2026 · 09:30 PM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Mixed Martial Arts",
