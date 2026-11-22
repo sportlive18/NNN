@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 12:37:40 PM",
+  "last_updated": "22/11/2026, 12:42:21 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 117,
   "matches": [
@@ -526,6 +526,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrs7oyyigv/out/v1/d6418c6bbdef45f6a2eeb9bc2026755a/cenc.mpd",
+          "type": "MPD",
+          "key": "b4ac5abd2b6d8622d1157bd86a3d6cf6:4e8b55d53eb1298c6b55a96c193deac5",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrs7oyyigv/out/v1/d6418c6bbdef45f6a2eeb9bc2026755a/cenc.mpd?|drmScheme=clearkey&drmLicense=b4ac5abd2b6d8622d1157bd86a3d6cf6:4e8b55d53eb1298c6b55a96c193deac5"
+        },
+        {
           "name": "beIN SPORTS - AQ",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "type": "MPD",
@@ -629,6 +636,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "FOX SPORTS",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "type": "MPD",
+          "key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
           "name": "HD ",
           "url": "https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=d99d182de6a1e817c23b838189c7f103&wsABSTime=1795393689|referer=https://soco.domainkqt.cc/&origin=https://soco.domainkqt.cc/",
           "type": "M3U8",
@@ -657,6 +671,13 @@
       "time": "🔴 TODAY · 06:00 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "SKY BUNDESLIGA ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pq38ujseug/out/v1/84544ed7c3b04cf08fe395708cfcedc6/cenc.mpd",
+          "type": "MPD",
+          "key": "f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pq38ujseug/out/v1/84544ed7c3b04cf08fe395708cfcedc6/cenc.mpd?|drmScheme=clearkey&drmLicense=f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f"
+        },
         {
           "name": "HD",
           "url": "https://live2.tanrixstreamorigin.com/live/channel24.m3u8",
