@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 11:57:54 AM",
+  "last_updated": "22/11/2026, 12:02:39 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 115,
   "matches": [
@@ -212,10 +212,10 @@
         },
         {
           "name": "AUVIO SPORTS - AQ ",
-          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/7453af36.isml/.mpd?t=2026-11-21T13:55:00.000",
+          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/1d7d6f52.isml/.mpd?t=2026-11-22T11:00:00.000",
           "type": "MPD",
-          "key": "ea5147900bfa42979c8e2d35e51a8f2c:1ab55a11208d63a285474bac32352205",
-          "formatted_url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/7453af36.isml/.mpd?t=2026-11-21T13:55:00.000?|drmScheme=clearkey&drmLicense=ea5147900bfa42979c8e2d35e51a8f2c:1ab55a11208d63a285474bac32352205"
+          "key": "9f3c019054b4416ca914b17e591bff13:026fca389f97314bd5d186bde57ff269",
+          "formatted_url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/1d7d6f52.isml/.mpd?t=2026-11-22T11:00:00.000?|drmScheme=clearkey&drmLicense=9f3c019054b4416ca914b17e591bff13:026fca389f97314bd5d186bde57ff269"
         },
         {
           "name": "SD STREAM",
@@ -455,6 +455,20 @@
       "is_today": true,
       "streams": [
         {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nlmincgc3r/out/v1/8ab617b3140d464598a944985eac9ded/cenc.mpd",
+          "type": "MPD",
+          "key": "8b7367d9b2afca5235b7ea6f88e1bdd7:d15336a00deb40268a42678fe1062965",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nlmincgc3r/out/v1/8ab617b3140d464598a944985eac9ded/cenc.mpd?|drmScheme=clearkey&drmLicense=8b7367d9b2afca5235b7ea6f88e1bdd7:d15336a00deb40268a42678fe1062965"
+        },
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjtszmzsdq/out/v1/ed9f2a6037c147109b27b32ce3d292cb/cenc.mpd",
+          "type": "MPD",
+          "key": "e91112b9c361353a5ed45ef35afa5aea:87a64d4d088efff5805a0faee5d45332",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjtszmzsdq/out/v1/ed9f2a6037c147109b27b32ce3d292cb/cenc.mpd?|drmScheme=clearkey&drmLicense=e91112b9c361353a5ed45ef35afa5aea:87a64d4d088efff5805a0faee5d45332"
+        },
+        {
           "name": "TNT SPORTS - AQ",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "type": "MPD",
@@ -467,6 +481,41 @@
           "type": "MPD",
           "key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "name": "FUBO SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd",
+          "type": "MPD",
+          "key": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?|drmScheme=clearkey&drmLicense=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7"
+        },
+        {
+          "name": "PEACOCK ES - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/amfmafneml/out/v1/bec3d83d65b44f5d871c8ea2350ebd52/cenc.mpd",
+          "type": "MPD",
+          "key": "2e5da9dfa784f964c99b9eca24cd5f48:1d41de591f9a76f7ed921feefd2cec57",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/amfmafneml/out/v1/bec3d83d65b44f5d871c8ea2350ebd52/cenc.mpd?|drmScheme=clearkey&drmLicense=2e5da9dfa784f964c99b9eca24cd5f48:1d41de591f9a76f7ed921feefd2cec57"
+        },
+        {
+          "name": "SPORT 1 CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "type": "MPD",
+          "key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "formatted_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://www.rtmpcdn.com/live/dcca6cd1-7f87-4544-9c54-bb8648b4d76c.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/dcca6cd1-7f87-4544-9c54-bb8648b4d76c.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.59/hls/F3333AAAQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.59/hls/F3333AAAQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -482,6 +531,13 @@
           "type": "MPD",
           "key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.50/hls/GOOOA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/GOOOA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -490,14 +546,30 @@
       "title": "Birmingham City W.F.C. vs Manchester United",
       "time": "🔴 TODAY · 05:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel8.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.tanrixstreamorigin.com/live/channel8.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Manchester City vs Tottenham FC",
       "time": "🔴 TODAY · 05:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel23.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.tanrixstreamorigin.com/live/channel23.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
