@@ -1,7 +1,7 @@
 {
-  "last_updated": "22/11/2026, 05:37:14 AM",
+  "last_updated": "22/11/2026, 05:41:55 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 68,
+  "total": 67,
   "matches": [
     {
       "category": "Cricket",
@@ -100,21 +100,6 @@
           "type": "MPD",
           "key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
-        }
-      ]
-    },
-    {
-      "category": "Hockey",
-      "title": "Utah Mammoth vs Anaheim Ducks",
-      "time": "🔴 TODAY · 07:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60713\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60713\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -228,10 +213,10 @@
         },
         {
           "name": "TAPMAD FHD",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/"
         },
         {
           "name": "WILLOW HD",
@@ -297,6 +282,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8"
+        },
+        {
+          "name": "MYCO AQ (PK) ",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/"
         }
       ]
     },
@@ -993,7 +985,36 @@
       "title": "WWE RAW vs WWE RAW",
       "time": "24/11/2026 · 05:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "PLAYZ TV",
+          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
+        },
+        {
+          "name": "SD STREAM ",
+          "url": "okOkja ",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "okOkja "
+        },
+        {
+          "name": "HD SERVER ",
+          "url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+        },
+        {
+          "name": "SD STREAM BK",
+          "url": "okOkja ",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "okOkja "
+        }
+      ]
     },
     {
       "category": "Cricket",
