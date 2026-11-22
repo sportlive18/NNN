@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 06:07:44 PM",
+  "last_updated": "22/11/2026, 06:12:29 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 98,
   "matches": [
@@ -1252,6 +1252,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "NFL GAMEPASS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sv1bx9yw5/out/v1/26b74e9137124b068661c7ef0737af55/cenc.mpd",
+          "type": "MPD",
+          "key": "cdb7927eb5f63195e53e9f51f9054918:6b584bcedb9c9c4932c344a71066aa22",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sv1bx9yw5/out/v1/26b74e9137124b068661c7ef0737af55/cenc.mpd?|drmScheme=clearkey&drmLicense=cdb7927eb5f63195e53e9f51f9054918:6b584bcedb9c9c4932c344a71066aa22"
+        },
+        {
           "name": "PLAYZ TV HD ",
           "url": "https://chatgpt.hereisman.net/playlist/60758/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
           "type": "DIRECT",
@@ -1264,6 +1271,13 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60758\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.59/hls/G6666AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.59/hls/G6666AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -1273,6 +1287,13 @@
       "time": "🔴 TODAY · 11:30 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "NFL GAMEPASS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w15kzbsonh/out/v1/840ce66e5dc64c6b8131cb3898ab6a87/cenc.mpd",
+          "type": "MPD",
+          "key": "954f06dde4df367aab8ee3e8bf216481:af3f0262e3588199c4c266664f47c893",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w15kzbsonh/out/v1/840ce66e5dc64c6b8131cb3898ab6a87/cenc.mpd?|drmScheme=clearkey&drmLicense=954f06dde4df367aab8ee3e8bf216481:af3f0262e3588199c4c266664f47c893"
+        },
         {
           "name": "PlayZ TV Live",
           "url": "https://chatgpt.hereisman.net/playlist/60764/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
@@ -1286,6 +1307,13 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60746\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.50/hls/J222.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/J222.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -1295,6 +1323,13 @@
       "time": "🔴 TODAY · 11:30 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "FOX NFL (Multi Audio)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y2rrynnf1c/out/v1/34ef59059d1c4b66a39ab8ba4ca3254c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "7c8b356c216daa9063737d0b20f19a09:427d5b4a79697887308680ed201e8aa8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y2rrynnf1c/out/v1/34ef59059d1c4b66a39ab8ba4ca3254c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=7c8b356c216daa9063737d0b20f19a09:427d5b4a79697887308680ed201e8aa8"
+        },
         {
           "name": "PlayZ TV Live",
           "url": "https://chatgpt.hereisman.net/playlist/60765/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
@@ -1308,6 +1343,27 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60736\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://chatgpt.hereisman.net/playlist/60172/load-playlist?|Referer=https://gooz.aapmains.net",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/60172/load-playlist?|Referer=https://gooz.aapmains.net"
+        },
+        {
+          "name": "NFL LIVE (USA)",
+          "url": "https://chatgpt.hereisman.net/playlist/60168/load-playlist?|Referer=https://gooz.aapmains.net",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/60168/load-playlist?|Referer=https://gooz.aapmains.net"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.44/hls/VIIIIAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.44/hls/VIIIIAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -1347,6 +1403,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "NFL GAMEPASS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hnthscz7wu/out/v1/984951049868462bb8b8ce47f5b7fc0c/cenc.mpd",
+          "type": "MPD",
+          "key": "a4edbec2f28306f846d6f94a42855741:85b4c4275bb060ed3b70327363c53dfd",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hnthscz7wu/out/v1/984951049868462bb8b8ce47f5b7fc0c/cenc.mpd?|drmScheme=clearkey&drmLicense=a4edbec2f28306f846d6f94a42855741:85b4c4275bb060ed3b70327363c53dfd"
+        },
+        {
           "name": "PlayZ TV Live",
           "url": "https://chatgpt.hereisman.net/playlist/60763/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
           "type": "DIRECT",
@@ -1359,6 +1422,13 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60744\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.59/hls/G6666AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.59/hls/G6666AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -1368,6 +1438,13 @@
       "time": "🔴 TODAY · 11:30 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "NFL GAMEPASS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y0epmlrugn/out/v1/09944dc2b5ed4c69ba3c1a6ce9b3db56/cenc.mpd",
+          "type": "MPD",
+          "key": "37e899aee50cc0e242f81602aa25d8bd:69c8c955a6d95fcf77b5d503b5e2d0a8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y0epmlrugn/out/v1/09944dc2b5ed4c69ba3c1a6ce9b3db56/cenc.mpd?|drmScheme=clearkey&drmLicense=37e899aee50cc0e242f81602aa25d8bd:69c8c955a6d95fcf77b5d503b5e2d0a8"
+        },
         {
           "name": "PlayZ TV Live",
           "url": "https://chatgpt.hereisman.net/playlist/60767/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
@@ -1381,6 +1458,13 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60742\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.50/hls/J222A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/J222A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
