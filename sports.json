@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 04:46:55 AM",
+  "last_updated": "22/11/2026, 04:52:17 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 64,
   "matches": [
@@ -31,20 +31,6 @@
       "time": "🔴 TODAY · 03:30 AM",
       "is_today": true,
       "streams": [
-        {
-          "name": "PRIME VIDEO ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "c6872a6ce0112b3ef06eafa5d6fe16a3:c2285774921020dc71a7713f07a14e05",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=c6872a6ce0112b3ef06eafa5d6fe16a3:c2285774921020dc71a7713f07a14e05"
-        },
-        {
-          "name": "PRIME VIDEO Hindi",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vchrvkaifx/out/v1/5c21993871704a7b828c8960deeaa565/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "c44c74a35acb645f971988649c69617a:82ea35c848aafc18c7a2a8404b71edc1",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vchrvkaifx/out/v1/5c21993871704a7b828c8960deeaa565/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=c44c74a35acb645f971988649c69617a:82ea35c848aafc18c7a2a8404b71edc1"
-        },
         {
           "name": "WILLOW - AQ [Ad Free]",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkipghexfw/out/v1/b9c7bdeeb3324a67829355fbadde5f64/cenc.mpd",
