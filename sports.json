@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 08:56:44 AM",
+  "last_updated": "22/11/2026, 09:01:30 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 65,
   "matches": [
@@ -646,15 +646,7 @@
       "title": "Real Racing Club vs Real Sociedad",
       "time": "🔴 TODAY · 08:45 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "PREMIER SPORTS - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "type": "MPD",
-          "key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
@@ -682,15 +674,7 @@
       "title": "Liverpool FC vs Manchester United",
       "time": "🔴 TODAY · 10:00 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "SKY SPORTS PL - AQ",
-          "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
