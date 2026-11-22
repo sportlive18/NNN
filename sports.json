@@ -1,7 +1,7 @@
 {
-  "last_updated": "22/11/2026, 10:32:14 AM",
+  "last_updated": "22/11/2026, 10:37:02 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 87,
+  "total": 90,
   "matches": [
     {
       "category": "Tennis",
@@ -886,6 +886,13 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "Nashville SC vs FC Cincinnati",
+      "time": "23/11/2026 · 02:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "American Football",
       "title": "Los Angeles Chargers vs New York Jets",
       "time": "23/11/2026 · 02:35 AM",
@@ -1006,6 +1013,13 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "Chicago Fire vs Charlotte FC",
+      "time": "23/11/2026 · 05:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Basketball",
       "title": "Chicago Bulls vs Denver Nuggets",
       "time": "23/11/2026 · 05:30 AM",
@@ -1064,6 +1078,13 @@
     {
       "category": "Basketball",
       "title": "Golden State Warriors vs Boston Celtics",
+      "time": "23/11/2026 · 07:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Vancouver Whitecaps vs Real Salt Lake",
       "time": "23/11/2026 · 07:00 AM",
       "is_today": false,
       "streams": []
