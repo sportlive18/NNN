@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 07:01:56 AM",
+  "last_updated": "22/11/2026, 07:06:53 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 66,
   "matches": [
@@ -899,7 +899,57 @@
       "title": "South Africa vs Bangladesh",
       "time": "23/11/2026 · 01:30 PM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "WILLOW - AQ",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sibenka6zx/out/v1/a813485385a34d57a9d1b60430370533/cenc.mpd",
+          "type": "MPD",
+          "key": "ade0d3679d401d18ec4c96eb65344148:a7a659a01bf2ec21e1c406ae96dc5298",
+          "formatted_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sibenka6zx/out/v1/a813485385a34d57a9d1b60430370533/cenc.mpd?|drmScheme=clearkey&drmLicense=ade0d3679d401d18ec4c96eb65344148:a7a659a01bf2ec21e1c406ae96dc5298"
+        },
+        {
+          "name": "FANCODE FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "name": "SKY SPORTS CRICKET",
+          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla"
+        },
+        {
+          "name": "WILLOW S2 - AQ",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sibenka6zx/out/v1/a813485385a34d57a9d1b60430370533/cenc.mpd",
+          "type": "MPD",
+          "key": "ade0d3679d401d18ec4c96eb65344148:a7a659a01bf2ec21e1c406ae96dc5298",
+          "formatted_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sibenka6zx/out/v1/a813485385a34d57a9d1b60430370533/cenc.mpd?|drmScheme=clearkey&drmLicense=ade0d3679d401d18ec4c96eb65344148:a7a659a01bf2ec21e1c406ae96dc5298"
+        },
+        {
+          "name": " FANCODE - SD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e"
+        },
+        {
+          "name": "T Sports HD",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.59/hls/RREGEGEAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.59/hls/RREGEGEAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Cricket",
@@ -1056,43 +1106,7 @@
       "title": "DYNAMITE vs DYNAMITE",
       "time": "26/11/2026 · 05:30 AM",
       "is_today": false,
-      "streams": [
-        {
-          "name": "TSN SPORTS",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd",
-          "type": "MPD",
-          "key": "66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd?|drmScheme=clearkey&drmLicense=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62"
-        },
-        {
-          "name": "WWE LIVE FHD",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "name": "FOX SPORTS",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-          "type": "MPD",
-          "key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd?|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426"
-        },
-        {
-          "name": "EUROSPORT - AQ ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "type": "MPD",
-          "key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-          "formatted_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd?|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
-        },
-        {
-          "name": "PLAYZTV LIVE ",
-          "url": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?|Referer=https://gooz.aapmains.net",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?|Referer=https://gooz.aapmains.net"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Boxing",
