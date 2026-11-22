@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 01:47:29 PM",
+  "last_updated": "22/11/2026, 01:53:02 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 114,
   "matches": [
@@ -852,7 +852,15 @@
       "title": "Sassuolo vs Genoa",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel6.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.tanrixstreamorigin.com/live/channel6.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -881,7 +889,15 @@
       "title": "Paris FC vs Angers",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel16.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.tanrixstreamorigin.com/live/channel16.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -902,7 +918,15 @@
       "title": "SC Vianense vs Rio Ave",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live1.quickscoreboardz.com/live/channel8/playlist.m3u8?wsSecret=aa467654d4d7a73102a8e666461e3958&wsABSTime=1795398400|referer=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live1.quickscoreboardz.com/live/channel8/playlist.m3u8?wsSecret=aa467654d4d7a73102a8e666461e3958&wsABSTime=1795398400|referer=https://soco.domainkqt.cc/"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -967,7 +991,15 @@
       "title": "Qatar U17 vs Egypt U17",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel13.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.tanrixstreamorigin.com/live/channel13.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
