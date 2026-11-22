@@ -1,7 +1,7 @@
 {
-  "last_updated": "22/11/2026, 12:27:28 PM",
+  "last_updated": "22/11/2026, 12:32:41 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 115,
+  "total": 117,
   "matches": [
     {
       "category": "Tennis",
@@ -578,6 +578,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "HD ",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel13.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.tanrixstreamorigin.com/live/channel13.m3u8"
+        },
+        {
           "name": "LOW SERVER",
           "url": "http://193.47.62.50/hls/Y888AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
           "type": "M3U8",
@@ -622,6 +629,50 @@
       "time": "🔴 TODAY · 06:00 PM",
       "is_today": true,
       "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Karlsruher SC vs VfL Osnabrück",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "HD",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel24.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.tanrixstreamorigin.com/live/channel24.m3u8"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.50/hls/Y888AAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/Y888AAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
+    },
+    {
+      "category": "Football",
+      "title": "Energie Cottbus vs Hertha BSC",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "HD ",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel9.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.tanrixstreamorigin.com/live/channel9.m3u8"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.50/hls/Y888A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/Y888A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
