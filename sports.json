@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 01:17:35 PM",
+  "last_updated": "22/11/2026, 01:22:36 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 116,
   "matches": [
@@ -857,14 +857,37 @@
       "title": "AFC Ajax vs ADO Den Haag",
       "time": "🔴 TODAY · 07:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SportDigital Fussball",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.44/hls/ZUUUAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.44/hls/ZUUUAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Sparta Rotterdam vs AZ Alkmaar",
       "time": "🔴 TODAY · 07:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.44/hls/ZUUUAAQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.44/hls/ZUUUAAQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -942,7 +965,29 @@
       "title": "Churchill Brothers SC vs Mohun Bagan Super Giant",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795396490~acl=/*~id=84008719720900886374021047807799~hmac=3c531bbd1f6234890d76a396bf19711fcdac1149179555874a63d4199c5bcefc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795396490~acl=/*~id=84008719720900886374021047807799~hmac=3c531bbd1f6234890d76a396bf19711fcdac1149179555874a63d4199c5bcefc"
+        },
+        {
+          "name": "SONYLIV HIN - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795396490~acl=/*~id=84008719720900886374021047807799~hmac=3c531bbd1f6234890d76a396bf19711fcdac1149179555874a63d4199c5bcefc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795396490~acl=/*~id=84008719720900886374021047807799~hmac=3c531bbd1f6234890d76a396bf19711fcdac1149179555874a63d4199c5bcefc"
+        },
+        {
+          "name": "SONYLIV BEN - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2211/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795396490~acl=/*~id=84008719720900886374021047807799~hmac=3c531bbd1f6234890d76a396bf19711fcdac1149179555874a63d4199c5bcefc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2211/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795396490~acl=/*~id=84008719720900886374021047807799~hmac=3c531bbd1f6234890d76a396bf19711fcdac1149179555874a63d4199c5bcefc"
+        }
+      ]
     },
     {
       "category": "Football",
