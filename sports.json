@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 05:21:57 AM",
+  "last_updated": "22/11/2026, 05:27:30 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 66,
   "matches": [
@@ -1028,36 +1028,7 @@
       "title": "WWE NXT vs WWE NXT",
       "time": "25/11/2026 · 05:30 AM",
       "is_today": false,
-      "streams": [
-        {
-          "name": "HD STREAM ",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "name": "HD STREAM ",
-          "url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-        },
-        {
-          "name": "NXT HD",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "name": "NXT SD",
-          "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Wwe",
