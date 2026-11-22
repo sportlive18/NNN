@@ -1,7 +1,7 @@
 {
-  "last_updated": "22/11/2026, 10:32:10 PM",
+  "last_updated": "22/11/2026, 10:37:43 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 96,
+  "total": 117,
   "matches": [
     {
       "category": "Darts",
@@ -846,6 +846,13 @@
     },
     {
       "category": "Football",
+      "title": "Neftchi Fergana vs Al-Hilal",
+      "time": "🔴 TODAY · 07:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Italy U17 vs Côte d'Ivoire U17",
       "time": "🔴 TODAY · 08:00 PM",
       "is_today": true,
@@ -869,6 +876,27 @@
       "category": "Football",
       "title": "Mali U17 vs Belgium U17",
       "time": "🔴 TODAY · 09:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al-Ain vs Esteghlal FC",
+      "time": "🔴 TODAY · 09:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al Shamal SC vs Al-Ahli",
+      "time": "🔴 TODAY · 09:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Tractor FC vs Al Wasl",
+      "time": "🔴 TODAY · 09:30 PM",
       "is_today": true,
       "streams": []
     },
@@ -928,6 +956,20 @@
           "formatted_url": "https://dai.google.com/linear/hls/event/VQFMBPriR4SbeZ6FY3y_5Q/master.m3u8"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Al-Quwa Al-Jawiya vs Al-Gharafa",
+      "time": "🔴 TODAY · 11:45 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al-Ittihad vs Pakhtakor Tashkent",
+      "time": "🔴 TODAY · 11:45 PM",
+      "is_today": true,
+      "streams": []
     },
     {
       "category": "Football",
@@ -1162,6 +1204,13 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "Newcastle Jets vs Kashiwa Reysol",
+      "time": "24/11/2026 · 01:15 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Cricket",
       "title": "Australia vs England",
       "time": "24/11/2026 · 01:45 PM",
@@ -1227,6 +1276,62 @@
     },
     {
       "category": "Football",
+      "title": "Daejeon Hana Citizen vs Beijing Guoan",
+      "time": "24/11/2026 · 03:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Kyoto Sanga FC vs Pohang Steelers",
+      "time": "24/11/2026 · 03:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Ratchaburi vs Johor Darul Ta'zim",
+      "time": "24/11/2026 · 05:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Shanghai Port vs Buriram United",
+      "time": "24/11/2026 · 05:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Công An Hà Nội vs Vissel Kobe",
+      "time": "24/11/2026 · 05:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "East Bengal FC vs Al-Hussein Irbid",
+      "time": "24/11/2026 · 07:15 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al Seeb SC vs Al-Shorta",
+      "time": "24/11/2026 · 09:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Shabab Al-Ahli Dubai vs Al-Qadsiah",
+      "time": "24/11/2026 · 09:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Bodø/Glimt vs LASK",
       "time": "24/11/2026 · 11:15 PM",
       "is_today": false,
@@ -1236,6 +1341,13 @@
       "category": "Football",
       "title": "Galatasaray vs Aston Villa",
       "time": "24/11/2026 · 11:15 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al-Nassr vs Al-Sadd",
+      "time": "24/11/2026 · 11:45 PM",
       "is_today": false,
       "streams": []
     },
@@ -1323,6 +1435,41 @@
           "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Melbourne Victory vs Thể Công - Viettel",
+      "time": "25/11/2026 · 01:15 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Kashima Antlers vs Jeonbuk Hyundai Motors",
+      "time": "25/11/2026 · 03:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Gamba Osaka vs Port FC",
+      "time": "25/11/2026 · 03:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Persib Bandung vs FC Seoul",
+      "time": "25/11/2026 · 05:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Nasaf Qarshi vs Al Khaldiya",
+      "time": "25/11/2026 · 07:15 PM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Wwe",
