@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 12:32:41 PM",
+  "last_updated": "22/11/2026, 12:37:40 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 117,
   "matches": [
@@ -578,6 +578,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "SKY BUNDESLIGA ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3rm596wqdw/out/v1/9ba0ea722ef141b782c21d021ba45786/cenc.mpd",
+          "type": "MPD",
+          "key": "42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3rm596wqdw/out/v1/9ba0ea722ef141b782c21d021ba45786/cenc.mpd?|drmScheme=clearkey&drmLicense=42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e"
+        },
+        {
           "name": "HD ",
           "url": "https://live2.tanrixstreamorigin.com/live/channel13.m3u8",
           "type": "M3U8",
@@ -600,6 +607,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "HD ",
+          "url": "https://live1.quickscoreboardz.com/live/channel30/playlist.m3u8?wsSecret=461c931ae3abdab0d36386c7bc1e6eaf&wsABSTime=1795393831|referer=https://soco.domainkqt.cc/&origin=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live1.quickscoreboardz.com/live/channel30/playlist.m3u8?wsSecret=461c931ae3abdab0d36386c7bc1e6eaf&wsABSTime=1795393831|referer=https://soco.domainkqt.cc/&origin=https://soco.domainkqt.cc/"
+        },
+        {
           "name": "LOW SERVER",
           "url": "http://193.47.62.50/hls/GOOOAAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
           "type": "M3U8",
@@ -614,6 +628,13 @@
       "time": "🔴 TODAY · 06:00 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "HD ",
+          "url": "https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=d99d182de6a1e817c23b838189c7f103&wsABSTime=1795393689|referer=https://soco.domainkqt.cc/&origin=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=d99d182de6a1e817c23b838189c7f103&wsABSTime=1795393689|referer=https://soco.domainkqt.cc/&origin=https://soco.domainkqt.cc/"
+        },
         {
           "name": "LOW SERVER",
           "url": "http://193.47.62.50/hls/GOOOAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
@@ -658,6 +679,13 @@
       "time": "🔴 TODAY · 06:00 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "SKY BUNDESLIGA ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1ad3vckry/out/v1/33ce68a8d21949da84e49f2695e51980/cenc.mpd",
+          "type": "MPD",
+          "key": "5e0ee93e86d783f011561f18ff8f34e6:b570eceee332c7e50f87fca1f51e0966",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1ad3vckry/out/v1/33ce68a8d21949da84e49f2695e51980/cenc.mpd?|drmScheme=clearkey&drmLicense=5e0ee93e86d783f011561f18ff8f34e6:b570eceee332c7e50f87fca1f51e0966"
+        },
         {
           "name": "HD ",
           "url": "https://live2.tanrixstreamorigin.com/live/channel9.m3u8",
