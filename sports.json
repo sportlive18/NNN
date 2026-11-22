@@ -1,7 +1,7 @@
 {
-  "last_updated": "22/11/2026, 04:07:12 PM",
+  "last_updated": "22/11/2026, 04:12:28 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 103,
+  "total": 102,
   "matches": [
     {
       "category": "Tennis",
@@ -995,13 +995,6 @@
     },
     {
       "category": "Football",
-      "title": "KFUM Oslo vs SK Brann",
-      "time": "🔴 TODAY · 09:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
       "title": "Lorient vs Stade Rennais",
       "time": "🔴 TODAY · 09:45 PM",
       "is_today": true,
@@ -1014,14 +1007,21 @@
       "is_today": true,
       "streams": [
         {
-          "name": "Sky Sports De",
+          "name": "Sky Sports DE",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "type": "MPD",
           "key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
         },
         {
-          "name": "SKY SPORTS PL - AQ",
+          "name": "FUBO SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1"
+        },
+        {
+          "name": "SKY SPORTS PL ",
           "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https",
           "type": "M3U8",
           "key": null,
