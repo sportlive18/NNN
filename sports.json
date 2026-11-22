@@ -1,7 +1,7 @@
 {
-  "last_updated": "22/11/2026, 10:17:06 PM",
+  "last_updated": "22/11/2026, 10:22:40 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 69,
+  "total": 96,
   "matches": [
     {
       "category": "Darts",
@@ -1029,9 +1029,135 @@
       "streams": []
     },
     {
+      "category": "Basketball",
+      "title": "Philadelphia 76ers vs Portland Trail Blazers",
+      "time": "24/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Charlotte Hornets vs Memphis Grizzlies",
+      "time": "24/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "New Jersey Devils vs Columbus Blue Jackets",
+      "time": "24/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Toronto Raptors vs Milwaukee Bucks",
+      "time": "24/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Minnesota Timberwolves vs Brooklyn Nets",
+      "time": "24/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Indiana Pacers vs Oklahoma City Thunder",
+      "time": "24/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Ottawa Senators vs Calgary Flames",
+      "time": "24/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "New York Islanders vs Toronto Maple Leafs",
+      "time": "24/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Winnipeg Jets vs Utah Mammoth",
+      "time": "24/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Montréal Canadiens vs Los Angeles Kings",
+      "time": "24/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "St.Louis City vs Los Angeles FC",
       "time": "24/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "New Orleans Pelicans vs Phoenix Suns",
+      "time": "24/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Chicago Bulls vs Cleveland Cavaliers",
+      "time": "24/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Washington Commanders vs Cincinnati Bengals",
+      "time": "24/11/2026 · 06:45 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Houston Rockets vs Los Angeles Clippers",
+      "time": "24/11/2026 · 07:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Seattle Kraken vs Anaheim Ducks",
+      "time": "24/11/2026 · 08:10 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Los Angeles Lakers vs Utah Jazz",
+      "time": "24/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Sacramento Kings vs San Antonio Spurs",
+      "time": "24/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "San Jose Sharks vs Minnesota Wild",
+      "time": "24/11/2026 · 08:30 AM",
       "is_today": false,
       "streams": []
     },
@@ -1098,6 +1224,69 @@
           "formatted_url": "http://193.47.62.41/hls/SSSSAAAAQQQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Bodø/Glimt vs LASK",
+      "time": "24/11/2026 · 11:15 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Galatasaray vs Aston Villa",
+      "time": "24/11/2026 · 11:15 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "RB Leipzig vs RC Lens",
+      "time": "25/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Como vs AEK Athens",
+      "time": "25/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Manchester City vs SSC Napoli",
+      "time": "25/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Arsenal vs Borussia Dortmund",
+      "time": "25/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "ŠK Slovan Bratislava vs Real Betis",
+      "time": "25/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Real Madrid vs PSV Eindhoven",
+      "time": "25/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Feyenoord vs FC Porto",
+      "time": "25/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Wwe",
