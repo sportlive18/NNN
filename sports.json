@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 07:31:29 PM",
+  "last_updated": "22/11/2026, 07:36:22 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 54,
   "matches": [
@@ -88,7 +88,15 @@
       "title": "Olympique de Marseille vs Le Mans",
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "beIN ESPNAOL ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        }
+      ]
     },
     {
       "category": "Football",
