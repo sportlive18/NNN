@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 08:07:02 AM",
+  "last_updated": "22/11/2026, 08:12:08 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 66,
   "matches": [
@@ -243,10 +243,10 @@
       "streams": [
         {
           "name": "WILLOW AQ ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
           "type": "MPD",
-          "key": "6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd?|drmScheme=clearkey&drmLicense=6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76"
+          "key": "e929ffbf0190098c52fa2c689dd2311e:b499ea7a1c854eaddbf3021a7b3d40bc",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd?|drmScheme=clearkey&drmLicense=e929ffbf0190098c52fa2c689dd2311e:b499ea7a1c854eaddbf3021a7b3d40bc"
         },
         {
           "name": "SKY CRICKET FHD",
