@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 01:02:39 PM",
+  "last_updated": "22/11/2026, 01:07:53 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 117,
   "matches": [
@@ -524,42 +524,139 @@
       "title": "Burnley vs Blackburn Rovers",
       "time": "🔴 TODAY · 05:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrs7oyyigv/out/v1/d6418c6bbdef45f6a2eeb9bc2026755a/cenc.mpd",
+          "type": "MPD",
+          "key": "b4ac5abd2b6d8622d1157bd86a3d6cf6:4e8b55d53eb1298c6b55a96c193deac5",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrs7oyyigv/out/v1/d6418c6bbdef45f6a2eeb9bc2026755a/cenc.mpd?|drmScheme=clearkey&drmLicense=b4ac5abd2b6d8622d1157bd86a3d6cf6:4e8b55d53eb1298c6b55a96c193deac5"
+        },
+        {
+          "name": "beIN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "type": "MPD",
+          "key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.50/hls/GOOOA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/GOOOA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Birmingham City W.F.C. vs Manchester United",
       "time": "🔴 TODAY · 05:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel8.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.tanrixstreamorigin.com/live/channel8.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Manchester City vs Tottenham FC",
       "time": "🔴 TODAY · 05:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel23.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.tanrixstreamorigin.com/live/channel23.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "1. FC Kaiserslautern vs SG Dynamo Dresden",
       "time": "🔴 TODAY · 06:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SKY BUNDESLIGA ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3rm596wqdw/out/v1/9ba0ea722ef141b782c21d021ba45786/cenc.mpd",
+          "type": "MPD",
+          "key": "42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3rm596wqdw/out/v1/9ba0ea722ef141b782c21d021ba45786/cenc.mpd?|drmScheme=clearkey&drmLicense=42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e"
+        },
+        {
+          "name": "HD ",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel13.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live2.tanrixstreamorigin.com/live/channel13.m3u8"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.50/hls/Y888AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/Y888AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Greece U17 vs Panama U17",
       "time": "🔴 TODAY · 06:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD ",
+          "url": "https://live1.quickscoreboardz.com/live/channel30/playlist.m3u8?wsSecret=461c931ae3abdab0d36386c7bc1e6eaf&wsABSTime=1795393831|referer=https://soco.domainkqt.cc/&origin=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live1.quickscoreboardz.com/live/channel30/playlist.m3u8?wsSecret=461c931ae3abdab0d36386c7bc1e6eaf&wsABSTime=1795393831|referer=https://soco.domainkqt.cc/&origin=https://soco.domainkqt.cc/"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.50/hls/GOOOAAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/GOOOAAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Denmark U17 vs Australia U17",
       "time": "🔴 TODAY · 06:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "FOX SPORTS",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "type": "MPD",
+          "key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "name": "HD ",
+          "url": "https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=d99d182de6a1e817c23b838189c7f103&wsABSTime=1795393689|referer=https://soco.domainkqt.cc/&origin=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=d99d182de6a1e817c23b838189c7f103&wsABSTime=1795393689|referer=https://soco.domainkqt.cc/&origin=https://soco.domainkqt.cc/"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.50/hls/GOOOAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/GOOOAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -633,6 +730,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "DAZN [Multi Commentary]",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/at5ay8ceup/out/v1/a494c8de4aad410a9feef3d2892f1484/cenc.mpd",
+          "type": "MPD",
+          "key": "63659c752b5df41f277460df8f246225:4f2376463fcdb6a10d2a863e8bfd2902",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/at5ay8ceup/out/v1/a494c8de4aad410a9feef3d2892f1484/cenc.mpd?|drmScheme=clearkey&drmLicense=63659c752b5df41f277460df8f246225:4f2376463fcdb6a10d2a863e8bfd2902"
+        },
+        {
           "name": "TSN SPORTS - AQ",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
           "type": "MPD",
@@ -662,10 +766,10 @@
         },
         {
           "name": "FANCODE - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
           "type": "MPD",
-          "key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+          "key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
         },
         {
           "name": "CAZE TV BR - AQ",
@@ -673,6 +777,20 @@
           "type": "MPD",
           "key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+        },
+        {
+          "name": "ESPN DEPORTES",
+          "url": "https://chatgpt.hereisman.net/playlist/60725/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/60725/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
         }
       ]
     },
@@ -724,7 +842,29 @@
       "title": "Hull City vs Brighton & Hove Albion",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "FUBO SPORTS",
+          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1"
+        },
+        {
+          "name": "SKY SPORTS EPL ",
+          "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "name": "SKY SPORTS EPL FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
+        }
+      ]
     },
     {
       "category": "Football",
