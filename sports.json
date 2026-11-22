@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 11:07:49 AM",
+  "last_updated": "22/11/2026, 11:12:44 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 115,
   "matches": [
@@ -347,11 +347,25 @@
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
         },
         {
+          "name": "UNITE8 HIN HD",
+          "url": "http://103.205.132.29:8081/Unite8-sports-1/index.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://103.205.132.29:8081/Unite8-sports-1/index.m3u8"
+        },
+        {
           "name": "UNITE SPORTS - IN",
           "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd",
           "type": "MPD",
           "key": "d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f",
           "formatted_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd?|drmScheme=clearkey&drmLicense=d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f"
+        },
+        {
+          "name": "CRICBUZZ - IN",
+          "url": "https://dai.google.com/linear/hls/event/VQFMBPriR4SbeZ6FY3y_5Q/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://dai.google.com/linear/hls/event/VQFMBPriR4SbeZ6FY3y_5Q/master.m3u8"
         }
       ]
     },
