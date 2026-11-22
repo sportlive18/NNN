@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 02:42:58 PM",
+  "last_updated": "22/11/2026, 02:47:34 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 111,
   "matches": [
@@ -1067,6 +1067,13 @@
           "type": "MPD",
           "key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "name": "Sportdigital 1+",
+          "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8"
         }
       ]
     },
