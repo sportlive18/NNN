@@ -1,7 +1,7 @@
 {
-  "last_updated": "22/11/2026, 08:32:17 PM",
+  "last_updated": "22/11/2026, 08:36:46 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 72,
+  "total": 70,
   "matches": [
     {
       "category": "Darts",
@@ -378,7 +378,7 @@
       "is_today": true,
       "streams": [
         {
-          "name": "...",
+          "name": "PREMIER BR",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
           "type": "MPD",
           "key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
@@ -428,13 +428,6 @@
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd?|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
         }
       ]
-    },
-    {
-      "category": "Football",
-      "title": "Deportes Limache vs Deportes La Serena",
-      "time": "🔴 TODAY · 05:00 AM",
-      "is_today": true,
-      "streams": []
     },
     {
       "category": "Basketball",
@@ -502,13 +495,6 @@
     {
       "category": "Basketball",
       "title": "Golden State Warriors vs Boston Celtics",
-      "time": "🔴 TODAY · 07:00 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Vancouver Whitecaps vs Real Salt Lake",
       "time": "🔴 TODAY · 07:00 AM",
       "is_today": true,
       "streams": []
