@@ -1,7 +1,7 @@
 {
-  "last_updated": "22/11/2026, 08:26:23 PM",
+  "last_updated": "22/11/2026, 08:32:17 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 54,
+  "total": 72,
   "matches": [
     {
       "category": "Darts",
@@ -728,6 +728,62 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "Spain U17 vs Fiji U17",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Tajikistan U17 vs Croatia U17",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Uzbekistan U17 vs Jamaica U17",
+      "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Senegal U17 vs Cuba U17",
+      "time": "🔴 TODAY · 07:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Italy U17 vs Côte d'Ivoire U17",
+      "time": "🔴 TODAY · 08:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Morocco U17 vs China U17",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Vietnam U17 vs New Zealand U17",
+      "time": "🔴 TODAY · 09:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Mali U17 vs Belgium U17",
+      "time": "🔴 TODAY · 09:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Cricket",
       "title": "ILT T20 vs ILT T20",
       "time": "🔴 TODAY · 10:00 PM",
@@ -785,6 +841,62 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "AD Ceuta vs Almería",
+      "time": "24/11/2026 · 01:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Monza vs Fiorentina",
+      "time": "24/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Nantes vs Grenoble Foot 38",
+      "time": "24/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Sochaux vs USL Dunkerque",
+      "time": "24/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Brentford vs Everton",
+      "time": "24/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Levante UD vs Elche",
+      "time": "24/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Internacional vs Vitória",
+      "time": "24/11/2026 · 04:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Botafogo vs São Paulo",
+      "time": "24/11/2026 · 04:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Wwe",
       "title": "WWE RAW vs WWE RAW",
       "time": "24/11/2026 · 05:30 AM",
@@ -819,6 +931,20 @@
           "formatted_url": "okOkja "
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Santos vs Grêmio",
+      "time": "24/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "St.Louis City vs Los Angeles FC",
+      "time": "24/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Cricket",
