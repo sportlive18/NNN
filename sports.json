@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 10:06:28 PM",
+  "last_updated": "22/11/2026, 10:11:44 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 69,
   "matches": [
@@ -279,6 +279,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "NFL GAMEPASS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9zjpyr9hpe/out/v1/29737c8636784814bd6ba938ae434d84/cenc.mpd",
+          "type": "MPD",
+          "key": "b2a38389c101378feb94ec06fe12bd15:7dea485e52e55ba060f3041f4aed4665",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9zjpyr9hpe/out/v1/29737c8636784814bd6ba938ae434d84/cenc.mpd?|drmScheme=clearkey&drmLicense=b2a38389c101378feb94ec06fe12bd15:7dea485e52e55ba060f3041f4aed4665"
+        },
+        {
           "name": "PLAYZ TV HD ",
           "url": "https://chatgpt.hereisman.net/playlist/60787/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
           "type": "DIRECT",
@@ -301,6 +308,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "NFL GAMEPASS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjkbkiidse/out/v1/a33d1b6fad7d4711bd9afd1349af0fd9/cenc.mpd",
+          "type": "MPD",
+          "key": "61253f4494a0b868976b8aee5478e2dd:0ed2ac05d2ef215f7a09a36d139df323",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjkbkiidse/out/v1/a33d1b6fad7d4711bd9afd1349af0fd9/cenc.mpd?|drmScheme=clearkey&drmLicense=61253f4494a0b868976b8aee5478e2dd:0ed2ac05d2ef215f7a09a36d139df323"
+        },
+        {
           "name": "SPORT TV BR",
           "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
           "type": "MPD",
@@ -322,6 +336,13 @@
       "time": "🔴 TODAY · 02:55 AM",
       "is_today": true,
       "streams": [
+        {
+          "name": "NFL GAMEPASS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fj5a9dcdjg/out/v1/314a89777ae44d85ae0c85c1ad93ebc4/cenc.mpd",
+          "type": "MPD",
+          "key": "7ba4492af9977062b7fedc3f281b177b:595285f2216eca3dc281193023a5e944",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fj5a9dcdjg/out/v1/314a89777ae44d85ae0c85c1ad93ebc4/cenc.mpd?|drmScheme=clearkey&drmLicense=7ba4492af9977062b7fedc3f281b177b:595285f2216eca3dc281193023a5e944"
+        },
         {
           "name": "TSN SPORTS - AQ",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
