@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 04:27:51 AM",
+  "last_updated": "22/11/2026, 04:32:59 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 98,
   "matches": [
@@ -291,22 +291,7 @@
       "title": "SC Telstar vs PEC Zwolle",
       "time": "🔴 TODAY · 01:30 AM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://live.vivo155.com/live/sd-1-4552261.m3u8?txSecret=f7907285127215c05ec687ea2ee2a4f6&txTime=6B020A9E|Referer=https://player.on8on8.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.vivo155.com/live/sd-1-4552261.m3u8?txSecret=f7907285127215c05ec687ea2ee2a4f6&txTime=6B020A9E|Referer=https://player.on8on8.com/"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.44/hls/kuuuAAAQQQQQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.44/hls/kuuuAAAQQQQQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
