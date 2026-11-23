@@ -1,7 +1,7 @@
 {
-  "last_updated": "23/11/2026, 03:18:01 PM",
+  "last_updated": "23/11/2026, 03:22:43 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 103,
+  "total": 102,
   "matches": [
     {
       "category": "Darts",
@@ -113,21 +113,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Zimbabwe Women vs Scotland Women",
-      "time": "🔴 TODAY · 02:45 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795454550~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=1185bd7c20d1ba8da7a9dc02602aec0c74d62862f5b3b03e34a74f4ec1f9dffb/manifest.mpd?vcfilter=4c0219a1-2573-495e-bcc0-c2a2401f33d2|user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "formatted_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795454550~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=1185bd7c20d1ba8da7a9dc02602aec0c74d62862f5b3b03e34a74f4ec1f9dffb/manifest.mpd?vcfilter=4c0219a1-2573-495e-bcc0-c2a2401f33d2|user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
       "title": "Bangladesh A vs Sri Lanka A",
       "time": "🔴 TODAY · 03:30 PM",
       "is_today": true,
@@ -176,25 +161,18 @@
       "is_today": true,
       "streams": [
         {
+          "name": "PLAYZ TV LIVE ",
+          "url": "https://amssandbrix.sandbrix.live/sandbrix/streams/JoLpoIfXtZdMMVVJ791008995728.m3u8|referer=https://www.sandbrix.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/JoLpoIfXtZdMMVVJ791008995728.m3u8|referer=https://www.sandbrix.com/"
+        },
+        {
           "name": "UNBEATEN FHD",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "type": "MPD",
           "key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-        },
-        {
-          "name": "PLAYZ TV LIVE ",
-          "url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8|referer=https://www.sandbrix.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8|referer=https://www.sandbrix.com/"
-        },
-        {
-          "name": "PREMIER SPORTS ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "type": "MPD",
-          "key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
         }
       ]
     },
