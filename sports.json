@@ -1,5 +1,5 @@
 {
-  "last_updated": "23/11/2026, 12:27:29 PM",
+  "last_updated": "23/11/2026, 12:32:54 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 104,
   "matches": [
@@ -249,6 +249,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "HD STREAM ",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel11.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel11.m3u8"
+        },
+        {
           "name": "SD STREAM",
           "url": "http://193.47.62.41/hls/BYYYAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
           "type": "M3U8",
@@ -264,11 +271,18 @@
       "is_today": true,
       "streams": [
         {
-          "name": "SD STREAM",
+          "name": "SD ",
           "url": "http://193.47.62.41/hls/BYYYAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.41/hls/BYYYAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "HD ",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8"
         }
       ]
     },
@@ -279,11 +293,18 @@
       "is_today": true,
       "streams": [
         {
-          "name": "SD STREAM",
+          "name": "SD",
           "url": "http://193.47.62.41/hls/BYYYAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.41/hls/BYYYAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "HD",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel22.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel22.m3u8"
         }
       ]
     },
@@ -356,28 +377,60 @@
       "title": "Italy U17 vs Côte d'Ivoire U17",
       "time": "🔴 TODAY · 08:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/BYYYAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/BYYYAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Morocco U17 vs China U17",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel16.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel16.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Vietnam U17 vs New Zealand U17",
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel2.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel2.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Mali U17 vs Belgium U17",
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel19.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel19.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
