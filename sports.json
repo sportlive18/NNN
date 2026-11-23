@@ -1,5 +1,5 @@
 {
-  "last_updated": "23/11/2026, 04:22:07 AM",
+  "last_updated": "23/11/2026, 04:27:32 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 114,
   "matches": [
@@ -456,6 +456,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795426927~acl=/*~id=84219570040938269250347123670804~hmac=6603ecc577564305dccf422ccdd48bfd57a48dbf28a6d8b3639adfb22b653070"
+        },
+        {
+          "name": "CRICBUZZ (IND)",
+          "url": "https://dai.google.com/linear/hls/event/bS5bRXLITKKz7UK_serxVw/master.m3u8|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://dai.google.com/linear/hls/event/bS5bRXLITKKz7UK_serxVw/master.m3u8|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/"
         }
       ]
     },
