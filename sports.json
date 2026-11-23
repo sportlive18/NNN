@@ -1,5 +1,5 @@
 {
-  "last_updated": "23/11/2026, 05:12:26 PM",
+  "last_updated": "23/11/2026, 05:22:20 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 97,
   "matches": [
@@ -1387,29 +1387,7 @@
       "title": "McKenna vs Aleksejevs",
       "time": "04/12/2026 · 10:30 PM",
       "is_today": false,
-      "streams": [
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60029\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60029\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "SETANTA SPORTS AQ ",
-          "url": "https://hoast-plm.shop/playztv/links.php?id=setanta1.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=setanta1.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.55/hls/A111AAAAAQQQA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.55/hls/A111AAAAAQQQA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Mixed Martial Arts",
