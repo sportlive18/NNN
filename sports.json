@@ -1,5 +1,5 @@
 {
-  "last_updated": "23/11/2026, 12:18:01 PM",
+  "last_updated": "23/11/2026, 12:22:29 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 104,
   "matches": [
@@ -226,14 +226,30 @@
       "title": "Tajikistan U17 vs Croatia U17",
       "time": "🔴 TODAY · 06:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/BYYYAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/BYYYAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Uzbekistan U17 vs Jamaica U17",
       "time": "🔴 TODAY · 06:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/BYYYAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/BYYYAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
