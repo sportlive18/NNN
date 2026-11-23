@@ -1,5 +1,5 @@
 {
-  "last_updated": "23/11/2026, 09:54:40 AM",
+  "last_updated": "23/11/2026, 09:57:40 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 104,
   "matches": [
@@ -1323,7 +1323,15 @@
       "title": "Jose Aldo vs Lazy Boy",
       "time": "20/12/2026 · 09:30 PM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "DAZN AQ ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s8whotxtvx/out/v1/2edfd49aaf71440e86eb73d7df83c980/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "4339adc036fc1a1270d41aa1bef4b16a:640ce635e7ca20a820c51717d85db278",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s8whotxtvx/out/v1/2edfd49aaf71440e86eb73d7df83c980/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=4339adc036fc1a1270d41aa1bef4b16a:640ce635e7ca20a820c51717d85db278"
+        }
+      ]
     },
     {
       "category": "Boxing",
