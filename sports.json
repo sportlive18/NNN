@@ -1,7 +1,7 @@
 {
-  "last_updated": "23/11/2026, 04:46:59 AM",
+  "last_updated": "23/11/2026, 04:52:42 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 92,
+  "total": 109,
   "matches": [
     {
       "category": "Darts",
@@ -399,6 +399,20 @@
     },
     {
       "category": "Football",
+      "title": "Wadi Degla vs Al-Ittihad Alexandria",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Wadi Degla vs Al-Ittihad Alexandria",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Vietnam U17 vs New Zealand U17",
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
@@ -501,6 +515,20 @@
       "title": "Al-Ittihad vs Pakhtakor Tashkent",
       "time": "🔴 TODAY · 11:45 PM",
       "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Jong Ajax vs Jong AZ Alkmaar",
+      "time": "24/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Jong PSV Eindhoven vs Jong FC Utrecht",
+      "time": "24/11/2026 · 12:30 AM",
+      "is_today": false,
       "streams": []
     },
     {
@@ -933,6 +961,34 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "RB Leipzig vs RC Lens",
+      "time": "25/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "ŠK Slovan Bratislava vs Real Betis",
+      "time": "25/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Real Madrid vs PSV Eindhoven",
+      "time": "25/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Manchester City vs SSC Napoli",
+      "time": "25/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Wwe",
       "title": "WWE NXT vs WWE NXT",
       "time": "25/11/2026 · 05:30 AM",
@@ -1000,6 +1056,69 @@
       "category": "Football",
       "title": "Nasaf Qarshi vs Al Khaldiya",
       "time": "25/11/2026 · 07:15 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Sabah FK vs FC Barcelona",
+      "time": "25/11/2026 · 11:15 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "SK Slavia Praha vs Villarreal",
+      "time": "25/11/2026 · 11:15 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Atlético Madrid vs Viking FK",
+      "time": "26/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "LOSC Lille vs FC Bayern München",
+      "time": "26/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Inter vs VfB Stuttgart",
+      "time": "26/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Shakhtar Donetsk vs Fenerbahçe",
+      "time": "26/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Sporting CP vs Manchester United",
+      "time": "26/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Club Brugge KV vs Liverpool FC",
+      "time": "26/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Paris Saint-Germain vs AS Roma",
+      "time": "26/11/2026 · 01:30 AM",
       "is_today": false,
       "streams": []
     },
