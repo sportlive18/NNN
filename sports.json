@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 07:21:55 AM",
+  "last_updated": "24/11/2026, 07:33:36 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 85,
   "matches": [
@@ -82,11 +82,32 @@
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd?|drmScheme=clearkey&drmLicense=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761"
         },
         {
+          "name": "PRIME MULTI AUDIO ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zenfbe10ry/out/v1/b0b56246975f46b9aec8db7586e25a61/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
+          "type": "MPD",
+          "key": "04fada1ca01dd6c5f607f8fe0888a692:9f3089dd8bedd300f801277ce8510bc8",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zenfbe10ry/out/v1/b0b56246975f46b9aec8db7586e25a61/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com?|drmScheme=clearkey&drmLicense=04fada1ca01dd6c5f607f8fe0888a692:9f3089dd8bedd300f801277ce8510bc8"
+        },
+        {
+          "name": "STARZPLAY FHD",
+          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+          "type": "MPD",
+          "key": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
+          "formatted_url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?|drmScheme=clearkey&drmLicense=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9"
+        },
+        {
           "name": "SONYLIV ENG - AQ",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b",
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b"
+        },
+        {
+          "name": "TAMASHA AQ ",
+          "url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8"
         },
         {
           "name": "WILLOW S2 - AQ",
