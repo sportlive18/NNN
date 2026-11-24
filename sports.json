@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 07:51:35 PM",
+  "last_updated": "24/11/2026, 07:56:26 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 57,
   "matches": [
@@ -201,30 +201,44 @@
     },
     {
       "category": "Football",
-      "title": "Como vs AEK Athens",
+      "title": "Real Madrid vs PSV Eindhoven",
       "time": "🔴 TODAY · 01:30 AM",
       "is_today": true,
       "streams": [
         {
-          "name": "TNT SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
           "name": "PARAMOUNT - AQ",
-          "url": "https://ABBIQEXAAAAAAAAME23GQLHXQ3BIZ.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprGaLaBhprBdxaA2pjbG91ZGZyb250AngoZmlkOjAxYTIwZWU0LWMxZjQtNzQwZC04ODA1LTc1YjFiYWZhYTA5ZBkBOKEFoQJ4My8yZGpkdndvMWhzL291dC92MS83MjVmNzZkMGQxMGM0OTEyOTZlYjBhMWE3MGQ3MWYyYVggMckeGcUVd6VFRsSsFHyQfRG8qES4LXHXuDEdslApTXk/PDX/57538b36cce64b85bac54e96083e981a/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_2ff7c563-38c3-4972-86aa-3b400a83f92b_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/2djdvwo1hs/out/v1/725f76d0d10c491296eb0a1a70d71f2a/bfa33a17-2664-4651-b459-f94f3820c34d-cenc.mpd?aws.sessionId=2457d53e-8199-421b-b1a2-ae8e5c9142a3",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utnlozpa8j/out/v1/8dad26189bd94b24bc5bd631eb2da3b0/cenc.mpd",
           "type": "MPD",
-          "key": "84cfc1188b3ba3247df327fb024796c4:41044aac3dd59d23be9b809fef1dd88e",
-          "formatted_url": "https://ABBIQEXAAAAAAAAME23GQLHXQ3BIZ.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprGaLaBhprBdxaA2pjbG91ZGZyb250AngoZmlkOjAxYTIwZWU0LWMxZjQtNzQwZC04ODA1LTc1YjFiYWZhYTA5ZBkBOKEFoQJ4My8yZGpkdndvMWhzL291dC92MS83MjVmNzZkMGQxMGM0OTEyOTZlYjBhMWE3MGQ3MWYyYVggMckeGcUVd6VFRsSsFHyQfRG8qES4LXHXuDEdslApTXk/PDX/57538b36cce64b85bac54e96083e981a/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_2ff7c563-38c3-4972-86aa-3b400a83f92b_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/2djdvwo1hs/out/v1/725f76d0d10c491296eb0a1a70d71f2a/bfa33a17-2664-4651-b459-f94f3820c34d-cenc.mpd?aws.sessionId=2457d53e-8199-421b-b1a2-ae8e5c9142a3?|drmScheme=clearkey&drmLicense=84cfc1188b3ba3247df327fb024796c4:41044aac3dd59d23be9b809fef1dd88e"
+          "key": "5884bb5909efeb5f5d1a6021da2f2be3:cfbd0eb6bd9a9328b965df81e867e12b",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utnlozpa8j/out/v1/8dad26189bd94b24bc5bd631eb2da3b0/cenc.mpd?|drmScheme=clearkey&drmLicense=5884bb5909efeb5f5d1a6021da2f2be3:cfbd0eb6bd9a9328b965df81e867e12b"
         },
         {
-          "name": "HD SERVER",
-          "url": "https://chatgpt.hereisman.net/playlist/60911/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "name": "TNT SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "type": "MPD",
+          "key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60921\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
           "type": "DIRECT",
           "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60911/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60921\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795592002~acl=/*~id=31875406217133968563424600535433~hmac=64baac2cafa3ebbf221a603bf0dc6c14af00737167ece20b798147201e6bbd90",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795592002~acl=/*~id=31875406217133968563424600535433~hmac=64baac2cafa3ebbf221a603bf0dc6c14af00737167ece20b798147201e6bbd90"
+        },
+        {
+          "name": "HD STREAM ",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8|referer=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8|referer=https://soco.domainkqt.cc/"
         }
       ]
     },
@@ -235,18 +249,18 @@
       "is_today": true,
       "streams": [
         {
+          "name": "PARAMOUNT - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/koswrmkzbq/out/v1/f164a09f30cc44b4bea0e9e51506f45c/cenc.mpd",
+          "type": "MPD",
+          "key": "88eb38fc38be5f92955c7195d5bb0ab5:2189687d7f66850b233990473c063a30",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/koswrmkzbq/out/v1/f164a09f30cc44b4bea0e9e51506f45c/cenc.mpd?|drmScheme=clearkey&drmLicense=88eb38fc38be5f92955c7195d5bb0ab5:2189687d7f66850b233990473c063a30"
+        },
+        {
           "name": "TNT SPORTS - AQ",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "type": "MPD",
           "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "name": "PARAMOUNT - AQ",
-          "url": "https://a130live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLhBhprBdxhA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtZGNjMi03MzYzLWJkNDEtNGZjMzVlNDBhMTI1GQE4oQWhAngzL3V4c3Zmb2owdDUvb3V0L3YxL2U2YjZiMWMxY2NkZDRiOWNiMTk2YzZhYTljMjVlYTI2WCBZ9HjO0vMe-uxhFz9BfB2msYAUvonhOBprmUYa8ZjC4w/IAD/37a187a9955e48c1973470142c76297a/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_1c01eccd-1178-4557-ad38-1afa880866aa_us-east-1_iad_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/uxsvfoj0t5/out/v1/e6b6b1c1ccdd4b9cb196c6aa9c25ea26/8a9948cd-b5a7-4cb8-8096-4cb461183847-cenc.mpd?aws.sessionId=2a792e7a-9c2e-417d-89b9-1e84954b5137",
-          "type": "MPD",
-          "key": "88eb38fc38be5f92955c7195d5bb0ab5:2189687d7f66850b233990473c063a30",
-          "formatted_url": "https://a130live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLhBhprBdxhA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtZGNjMi03MzYzLWJkNDEtNGZjMzVlNDBhMTI1GQE4oQWhAngzL3V4c3Zmb2owdDUvb3V0L3YxL2U2YjZiMWMxY2NkZDRiOWNiMTk2YzZhYTljMjVlYTI2WCBZ9HjO0vMe-uxhFz9BfB2msYAUvonhOBprmUYa8ZjC4w/IAD/37a187a9955e48c1973470142c76297a/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_1c01eccd-1178-4557-ad38-1afa880866aa_us-east-1_iad_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/uxsvfoj0t5/out/v1/e6b6b1c1ccdd4b9cb196c6aa9c25ea26/8a9948cd-b5a7-4cb8-8096-4cb461183847-cenc.mpd?aws.sessionId=2a792e7a-9c2e-417d-89b9-1e84954b5137?|drmScheme=clearkey&drmLicense=88eb38fc38be5f92955c7195d5bb0ab5:2189687d7f66850b233990473c063a30"
         },
         {
           "name": "PlayZTV Live",
@@ -272,10 +286,10 @@
       "streams": [
         {
           "name": "PARAMOUNT - AQ",
-          "url": "https://a203live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLbBhprBdxbA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtYzZjNy03NDM4LTlmNzgtY2Q0NjliOTc4NDg2GQE4oQWhAngzL3o5a2J6M3Z1d2Evb3V0L3YxLzBmMTMxZGE4MzAxZjQwNzk5MjI0OTU3ZDNhYWI5M2IyWCAFLp2s39viRygfhVX3Etnjq8mhFuuPQUSucaj2zcqVbA/PDX/b5a5f62ec48046719eab38e943680aff/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_41786e76-1c73-4509-9e11-e54b8ed18174_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/z9kbz3vuwa/out/v1/0f131da8301f40799224957d3aab93b2/b0d5c963-6bea-4578-8a99-6655dc9382a1-cenc.mpd?aws.sessionId=17d13c4d-2088-484c-ab20-0a560a21864a",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/satfzppioj/out/v1/0f131da8301f40799224957d3aab93b2/cenc.mpd",
           "type": "MPD",
           "key": "db2208392e1d6b734f5a7bf03fbaf76c:f93c84a1a679a01b4b3afafef416a637",
-          "formatted_url": "https://a203live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLbBhprBdxbA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtYzZjNy03NDM4LTlmNzgtY2Q0NjliOTc4NDg2GQE4oQWhAngzL3o5a2J6M3Z1d2Evb3V0L3YxLzBmMTMxZGE4MzAxZjQwNzk5MjI0OTU3ZDNhYWI5M2IyWCAFLp2s39viRygfhVX3Etnjq8mhFuuPQUSucaj2zcqVbA/PDX/b5a5f62ec48046719eab38e943680aff/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_41786e76-1c73-4509-9e11-e54b8ed18174_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/z9kbz3vuwa/out/v1/0f131da8301f40799224957d3aab93b2/b0d5c963-6bea-4578-8a99-6655dc9382a1-cenc.mpd?aws.sessionId=17d13c4d-2088-484c-ab20-0a560a21864a?|drmScheme=clearkey&drmLicense=db2208392e1d6b734f5a7bf03fbaf76c:f93c84a1a679a01b4b3afafef416a637"
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/satfzppioj/out/v1/0f131da8301f40799224957d3aab93b2/cenc.mpd?|drmScheme=clearkey&drmLicense=db2208392e1d6b734f5a7bf03fbaf76c:f93c84a1a679a01b4b3afafef416a637"
         },
         {
           "name": "PlayZTV Live",
@@ -337,6 +351,35 @@
     },
     {
       "category": "Football",
+      "title": "Como vs AEK Athens",
+      "time": "🔴 TODAY · 01:30 AM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "TNT SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "name": "PARAMOUNT - AQ",
+          "url": "https://ABBIQEXAAAAAAAAME23GQLHXQ3BIZ.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprGaLaBhprBdxaA2pjbG91ZGZyb250AngoZmlkOjAxYTIwZWU0LWMxZjQtNzQwZC04ODA1LTc1YjFiYWZhYTA5ZBkBOKEFoQJ4My8yZGpkdndvMWhzL291dC92MS83MjVmNzZkMGQxMGM0OTEyOTZlYjBhMWE3MGQ3MWYyYVggMckeGcUVd6VFRsSsFHyQfRG8qES4LXHXuDEdslApTXk/PDX/57538b36cce64b85bac54e96083e981a/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_2ff7c563-38c3-4972-86aa-3b400a83f92b_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/2djdvwo1hs/out/v1/725f76d0d10c491296eb0a1a70d71f2a/bfa33a17-2664-4651-b459-f94f3820c34d-cenc.mpd?aws.sessionId=2457d53e-8199-421b-b1a2-ae8e5c9142a3",
+          "type": "MPD",
+          "key": "84cfc1188b3ba3247df327fb024796c4:41044aac3dd59d23be9b809fef1dd88e",
+          "formatted_url": "https://ABBIQEXAAAAAAAAME23GQLHXQ3BIZ.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprGaLaBhprBdxaA2pjbG91ZGZyb250AngoZmlkOjAxYTIwZWU0LWMxZjQtNzQwZC04ODA1LTc1YjFiYWZhYTA5ZBkBOKEFoQJ4My8yZGpkdndvMWhzL291dC92MS83MjVmNzZkMGQxMGM0OTEyOTZlYjBhMWE3MGQ3MWYyYVggMckeGcUVd6VFRsSsFHyQfRG8qES4LXHXuDEdslApTXk/PDX/57538b36cce64b85bac54e96083e981a/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_2ff7c563-38c3-4972-86aa-3b400a83f92b_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/2djdvwo1hs/out/v1/725f76d0d10c491296eb0a1a70d71f2a/bfa33a17-2664-4651-b459-f94f3820c34d-cenc.mpd?aws.sessionId=2457d53e-8199-421b-b1a2-ae8e5c9142a3?|drmScheme=clearkey&drmLicense=84cfc1188b3ba3247df327fb024796c4:41044aac3dd59d23be9b809fef1dd88e"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://chatgpt.hereisman.net/playlist/60911/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/60911/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "category": "Football",
       "title": "Feyenoord vs FC Porto",
       "time": "🔴 TODAY · 01:30 AM",
       "is_today": true,
@@ -372,10 +415,10 @@
       "streams": [
         {
           "name": "PARAMOUNT - AQ",
-          "url": "https://a99live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLjBhprBdxjA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtZTJjOC03NmFkLThjYzQtMTgxNTBhNzBlZTIxGQE4oQWhAngzL3Yxcmx1cDVhdHkvb3V0L3YxL2IyMDkzNmIxN2ZiZTQ3N2Q5YTM1ZjBiZTI5NDYyYTRlWCBHxQcYUuYlNE9h4-Hu44QfBsmpkCl9yxwD0yyt49jSAQ/PDX/7ce5f93841e34d01a6597e3f0b29d0fb/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_73246978-b6b6-474c-bdaa-6aaa5f02b5f1_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/v1rlup5aty/out/v1/b20936b17fbe477d9a35f0be29462a4e/f4545582-136c-4979-94c6-eabff5585e21-cenc.mpd?aws.sessionId=91d99965-4cdd-4e40-9b2f-f4bfa19f9c90",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r0o5qdrime/out/v1/eebefcb8ea104058a81977aeac28f648/cenc.mpd",
           "type": "MPD",
           "key": "af171bbe1d7a94dc2a0baba3ae0ae1ec:1f225f6c8e183813e4975ee8d44878ff",
-          "formatted_url": "https://a99live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLjBhprBdxjA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtZTJjOC03NmFkLThjYzQtMTgxNTBhNzBlZTIxGQE4oQWhAngzL3Yxcmx1cDVhdHkvb3V0L3YxL2IyMDkzNmIxN2ZiZTQ3N2Q5YTM1ZjBiZTI5NDYyYTRlWCBHxQcYUuYlNE9h4-Hu44QfBsmpkCl9yxwD0yyt49jSAQ/PDX/7ce5f93841e34d01a6597e3f0b29d0fb/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_73246978-b6b6-474c-bdaa-6aaa5f02b5f1_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/v1rlup5aty/out/v1/b20936b17fbe477d9a35f0be29462a4e/f4545582-136c-4979-94c6-eabff5585e21-cenc.mpd?aws.sessionId=91d99965-4cdd-4e40-9b2f-f4bfa19f9c90?|drmScheme=clearkey&drmLicense=af171bbe1d7a94dc2a0baba3ae0ae1ec:1f225f6c8e183813e4975ee8d44878ff"
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r0o5qdrime/out/v1/eebefcb8ea104058a81977aeac28f648/cenc.mpd?|drmScheme=clearkey&drmLicense=af171bbe1d7a94dc2a0baba3ae0ae1ec:1f225f6c8e183813e4975ee8d44878ff"
         },
         {
           "name": "PlayZTV Live",
@@ -433,49 +476,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795592002~acl=/*~id=31875406217133968563424600535433~hmac=64baac2cafa3ebbf221a603bf0dc6c14af00737167ece20b798147201e6bbd90"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Real Madrid vs PSV Eindhoven",
-      "time": "🔴 TODAY · 01:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "TNT SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "type": "MPD",
-          "key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "name": "PARAMOUNT - AQ",
-          "url": "https://a161live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLdBhprBdxdA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtY2JiNS03MjM5LTk3YjctNTY4NjkyZWNlODY4GQE4oQWhAngzL29kNXM2MWk0ZWwvb3V0L3YxLzhkYWQyNjE4OWJkOTRiMjRiYzViZDYzMWViMmRhM2IwWCDSh0uUCnWRlR9vKbKJPRklvGqrEG_p3s4p_kp4WhWTcQ/IAD/943f54c3d4f14fcaba181d50f754f4cf/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_f71a5dc2-0c36-4b7c-8ef4-7007816170db_us-east-1_iad_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/od5s61i4el/out/v1/8dad26189bd94b24bc5bd631eb2da3b0/05e0d647-2f95-400a-9d49-807abbbc6ff4-cenc.mpd?aws.sessionId=8a939c4a-dd43-450f-ac50-e98dafe5fce7",
-          "type": "MPD",
-          "key": "5884bb5909efeb5f5d1a6021da2f2be3:cfbd0eb6bd9a9328b965df81e867e12b",
-          "formatted_url": "https://a161live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLdBhprBdxdA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtY2JiNS03MjM5LTk3YjctNTY4NjkyZWNlODY4GQE4oQWhAngzL29kNXM2MWk0ZWwvb3V0L3YxLzhkYWQyNjE4OWJkOTRiMjRiYzViZDYzMWViMmRhM2IwWCDSh0uUCnWRlR9vKbKJPRklvGqrEG_p3s4p_kp4WhWTcQ/IAD/943f54c3d4f14fcaba181d50f754f4cf/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_f71a5dc2-0c36-4b7c-8ef4-7007816170db_us-east-1_iad_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/od5s61i4el/out/v1/8dad26189bd94b24bc5bd631eb2da3b0/05e0d647-2f95-400a-9d49-807abbbc6ff4-cenc.mpd?aws.sessionId=8a939c4a-dd43-450f-ac50-e98dafe5fce7?|drmScheme=clearkey&drmLicense=5884bb5909efeb5f5d1a6021da2f2be3:cfbd0eb6bd9a9328b965df81e867e12b"
-        },
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60921\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60921\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "SONYLIV ENG - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795592002~acl=/*~id=31875406217133968563424600535433~hmac=64baac2cafa3ebbf221a603bf0dc6c14af00737167ece20b798147201e6bbd90",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795592002~acl=/*~id=31875406217133968563424600535433~hmac=64baac2cafa3ebbf221a603bf0dc6c14af00737167ece20b798147201e6bbd90"
-        },
-        {
-          "name": "HD STREAM ",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8|referer=https://soco.domainkqt.cc/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8|referer=https://soco.domainkqt.cc/"
         }
       ]
     },
