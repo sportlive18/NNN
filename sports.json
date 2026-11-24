@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 06:07:18 PM",
+  "last_updated": "24/11/2026, 06:11:54 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 74,
   "matches": [
@@ -585,6 +585,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8|referer=https://www.tapmad.com/"
+        },
+        {
+          "name": "ARABIC HD ",
+          "url": "https://k3.baranewssumsel.online/hls/kora2/480p/index.m3u8|referer=https://pl.matchlivehd.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://k3.baranewssumsel.online/hls/kora2/480p/index.m3u8|referer=https://pl.matchlivehd.com/"
         },
         {
           "name": "SD STREAM",
