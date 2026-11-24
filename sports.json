@@ -1,7 +1,7 @@
 {
-  "last_updated": "24/11/2026, 10:02:03 AM",
+  "last_updated": "24/11/2026, 10:07:07 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 83,
+  "total": 82,
   "matches": [
     {
       "category": "Wwe",
@@ -150,42 +150,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live.msnetworks.net/ptv-sports/master.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Newcastle Jets vs Kashiwa Reysol",
-      "time": "🔴 TODAY · 01:15 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-        },
-        {
-          "name": "HD STREAM ",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel5.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel5.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.44/hls/C444.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.44/hls/C444.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "https://www.rtmpcdn.com/live/573a52ae88e2dc0d538ebb7f1fb13c44fead290769efd0dda927462594a842ac.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://www.rtmpcdn.com/live/573a52ae88e2dc0d538ebb7f1fb13c44fead290769efd0dda927462594a842ac.m3u8"
         }
       ]
     },
