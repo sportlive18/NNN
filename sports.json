@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 10:32:39 AM",
+  "last_updated": "24/11/2026, 10:36:58 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 82,
   "matches": [
@@ -458,7 +458,15 @@
       "title": "Japan U17 vs Serbia U17",
       "time": "🔴 TODAY · 06:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "VIX",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        }
+      ]
     },
     {
       "category": "Football",
