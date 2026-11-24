@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 12:21:42 PM",
+  "last_updated": "24/11/2026, 12:27:01 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 80,
   "matches": [
@@ -337,21 +337,66 @@
       "title": "Ratchaburi vs Johor Darul Ta'zim",
       "time": "🔴 TODAY · 05:45 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/KIKIKIA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/KIKIKIA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Shanghai Port vs Buriram United",
       "time": "🔴 TODAY · 05:45 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/KIKIKIAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/KIKIKIAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Công An Hà Nội vs Vissel Kobe",
       "time": "🔴 TODAY · 05:45 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/KIKIKI.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/KIKIKI.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -677,15 +722,7 @@
       "title": "Feyenoord vs FC Porto",
       "time": "25/11/2026 · 01:30 AM",
       "is_today": false,
-      "streams": [
-        {
-          "name": "CBS SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-          "type": "MPD",
-          "key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
