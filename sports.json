@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 03:26:57 PM",
+  "last_updated": "24/11/2026, 03:32:11 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 82,
   "matches": [
@@ -838,7 +838,15 @@
       "title": "Sheffield United vs Southampton",
       "time": "25/11/2026 · 01:15 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel10.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel10.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -933,14 +941,30 @@
       "title": "RB Leipzig vs RC Lens",
       "time": "25/11/2026 · 01:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "ŠK Slovan Bratislava vs Real Betis",
       "time": "25/11/2026 · 01:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8|referer=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8|referer=https://soco.domainkqt.cc/"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -954,6 +978,13 @@
           "type": "MPD",
           "key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "name": "HD STREAM ",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8|referer=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8|referer=https://soco.domainkqt.cc/"
         }
       ]
     },
