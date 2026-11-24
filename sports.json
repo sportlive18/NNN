@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 07:36:48 AM",
+  "last_updated": "24/11/2026, 07:41:56 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 85,
   "matches": [
@@ -158,7 +158,22 @@
       "title": "Newcastle Jets vs Kashiwa Reysol",
       "time": "🔴 TODAY · 01:15 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        },
+        {
+          "name": "HD STREAM ",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel5.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel5.m3u8"
+        }
+      ]
     },
     {
       "category": "Cricket",
