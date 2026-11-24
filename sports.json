@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 12:42:07 PM",
+  "last_updated": "24/11/2026, 12:47:37 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 81,
   "matches": [
@@ -181,6 +181,13 @@
           "formatted_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         },
         {
+          "name": "TAMASHA PRO AQ ",
+          "url": "https://cdn03lhr-n.tamashaweb.com:8090/appcast/BANvsSAF-SVOD-abr/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8090/appcast/BANvsSAF-SVOD-abr/playlist.m3u8"
+        },
+        {
           "name": "EURO SPORTS - AQ",
           "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
           "type": "MPD",
@@ -329,6 +336,13 @@
           "type": "MPD",
           "key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+        },
+        {
+          "name": "TAMASHA PRO AQ ",
+          "url": "https://cdn03lhr-n.tamashaweb.com:8090/appcast/t10-italia-SVOD-abr/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8090/appcast/t10-italia-SVOD-abr/playlist.m3u8"
         }
       ]
     },
@@ -533,6 +547,13 @@
           "type": "MPD",
           "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "name": "TAMASHA PRO AQ ",
+          "url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8"
         },
         {
           "name": "UNITE8 HIN HD",
