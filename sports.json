@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 06:27:29 AM",
+  "last_updated": "24/11/2026, 06:37:03 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 85,
   "matches": [
@@ -122,6 +122,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b"
+        },
+        {
+          "name": "PTV SPORTS HD",
+          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.msnetworks.net/ptv-sports/master.m3u8"
         }
       ]
     },
