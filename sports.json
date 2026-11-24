@@ -1,7 +1,7 @@
 {
-  "last_updated": "24/11/2026, 09:51:57 AM",
+  "last_updated": "24/11/2026, 09:56:58 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 88,
+  "total": 83,
   "matches": [
     {
       "category": "Wwe",
@@ -339,10 +339,10 @@
       "streams": [
         {
           "name": "WILLOW - AQ",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1zdpsgfa6p/out/v1/0be3672943164ddc9df8372d522c3842/cenc.mpd",
           "type": "MPD",
-          "key": "1f5fcb1ee0ebcdf807d4807767ee66a0:dac7ee8c999b9516a04f0c0bdd3aef34",
-          "formatted_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd?|drmScheme=clearkey&drmLicense=1f5fcb1ee0ebcdf807d4807767ee66a0:dac7ee8c999b9516a04f0c0bdd3aef34"
+          "key": "ac685b471a4e1d6c4be3fe7429595d9d:db72f4347277225954d7170f0ec6992f",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1zdpsgfa6p/out/v1/0be3672943164ddc9df8372d522c3842/cenc.mpd?|drmScheme=clearkey&drmLicense=ac685b471a4e1d6c4be3fe7429595d9d:db72f4347277225954d7170f0ec6992f"
         },
         {
           "name": "SONYLIV ENG - AQ",
@@ -350,6 +350,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795556164~acl=/*~id=83143876600458032276763961949467~hmac=72e5a14c6606af548705e64a24f227a39ca0b5d7ea777f56f844b153cd3ef9a6"
+        },
+        {
+          "name": "WILLOW S2 - AQ",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1zdpsgfa6p/out/v1/0be3672943164ddc9df8372d522c3842/cenc.mpd",
+          "type": "MPD",
+          "key": "ac685b471a4e1d6c4be3fe7429595d9d:db72f4347277225954d7170f0ec6992f",
+          "formatted_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1zdpsgfa6p/out/v1/0be3672943164ddc9df8372d522c3842/cenc.mpd?|drmScheme=clearkey&drmLicense=ac685b471a4e1d6c4be3fe7429595d9d:db72f4347277225954d7170f0ec6992f"
         },
         {
           "name": "TAMASHA AQ",
@@ -465,13 +472,6 @@
       "category": "Football",
       "title": "East Bengal FC vs Al-Hussein Irbid",
       "time": "🔴 TODAY · 07:15 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "NorthEast United FC vs Sporting Delhi",
-      "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
       "streams": []
     },
@@ -668,13 +668,6 @@
     },
     {
       "category": "Football",
-      "title": "RB Leipzig vs RC Lens",
-      "time": "25/11/2026 · 01:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
       "title": "Como vs AEK Athens",
       "time": "25/11/2026 · 01:30 AM",
       "is_today": false,
@@ -690,20 +683,6 @@
     {
       "category": "Football",
       "title": "Arsenal vs Borussia Dortmund",
-      "time": "25/11/2026 · 01:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "ŠK Slovan Bratislava vs Real Betis",
-      "time": "25/11/2026 · 01:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Real Madrid vs PSV Eindhoven",
       "time": "25/11/2026 · 01:30 AM",
       "is_today": false,
       "streams": []
@@ -732,13 +711,6 @@
     {
       "category": "Football",
       "title": "Real Madrid vs PSV Eindhoven",
-      "time": "25/11/2026 · 01:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Manchester City vs SSC Napoli",
       "time": "25/11/2026 · 01:30 AM",
       "is_today": false,
       "streams": []
