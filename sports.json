@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 06:11:54 PM",
+  "last_updated": "24/11/2026, 06:16:49 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 74,
   "matches": [
@@ -473,6 +473,13 @@
           "formatted_url": "https://www.rtmpcdn.com/live/4a9995714e1c7ef93cd4a02232017997b9f71e6acb6f743c8632dbc70fc62f82.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         },
         {
+          "name": "BeIN ARABIC HD",
+          "url": "https://2cdn.syria-player.info/hls1/bein3.m3u8|referer=https://2cdn.syria-player.info/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://2cdn.syria-player.info/hls1/bein3.m3u8|referer=https://2cdn.syria-player.info/"
+        },
+        {
           "name": "LOW SERVER",
           "url": "http://193.47.62.50/hls/9SSSAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
           "type": "M3U8",
@@ -587,11 +594,32 @@
           "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8|referer=https://www.tapmad.com/"
         },
         {
-          "name": "ARABIC HD ",
-          "url": "https://k3.baranewssumsel.online/hls/kora2/480p/index.m3u8|referer=https://pl.matchlivehd.com/",
+          "name": "BeIN ARABIC",
+          "url": "https://2cdn.syria-player.info/hls1/bein2.m3u8|referer=https://2cdn.syria-player.info/",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://k3.baranewssumsel.online/hls/kora2/480p/index.m3u8|referer=https://pl.matchlivehd.com/"
+          "formatted_url": "https://2cdn.syria-player.info/hls1/bein2.m3u8|referer=https://2cdn.syria-player.info/"
+        },
+        {
+          "name": "PlayZ Tv Live ",
+          "url": "https://live.vivo155.com/live/hd-en-1-4621429.m3u8?txSecret=3b5a68bda640a3d02427d1db00a33036&txTime=6B05E601|Referer=https://player.on8on8.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.vivo155.com/live/hd-en-1-4621429.m3u8?txSecret=3b5a68bda640a3d02427d1db00a33036&txTime=6B05E601|Referer=https://player.on8on8.com/"
+        },
+        {
+          "name": "ARABIC HD ",
+          "url": "https://k3.baranewssumsel.online/hls/kora2/index.m3u8|referer=https://pl.matchlivehd.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://k3.baranewssumsel.online/hls/kora2/index.m3u8|referer=https://pl.matchlivehd.com/"
+        },
+        {
+          "name": "HD STREAM ",
+          "url": "https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=7e327b46e2e106f13e4a248d72c88119&wsABSTime=1795586819?|Referer=https://xlz.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=7e327b46e2e106f13e4a248d72c88119&wsABSTime=1795586819?|Referer=https://xlz.domainkqt.cc/"
         },
         {
           "name": "SD STREAM",
