@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 01:07:04 PM",
+  "last_updated": "24/11/2026, 01:11:58 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 82,
   "matches": [
@@ -182,10 +182,10 @@
         },
         {
           "name": "TAMASHA PRO AQ ",
-          "url": "https://cdn03lhr-n.tamashaweb.com:8090/appcast/BANvsSAF-SVOD-abr/playlist.m3u8",
+          "url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/BANvsSAF-SVOD-abr/playlist.m3u8",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8090/appcast/BANvsSAF-SVOD-abr/playlist.m3u8"
+          "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/BANvsSAF-SVOD-abr/playlist.m3u8"
         },
         {
           "name": "EURO SPORTS - AQ",
@@ -339,10 +339,10 @@
         },
         {
           "name": "TAMASHA PRO AQ ",
-          "url": "https://cdn03lhr-n.tamashaweb.com:8090/appcast/t10-italia-SVOD-abr/playlist.m3u8",
+          "url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8090/appcast/t10-italia-SVOD-abr/playlist.m3u8"
+          "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
         }
       ]
     },
