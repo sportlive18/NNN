@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 07:16:30 PM",
+  "last_updated": "24/11/2026, 07:21:32 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 57,
   "matches": [
@@ -15,6 +15,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live1.quickscoreboardz.com/live/channel26/playlist.m3u8?wsSecret=d82d1dbb4ab6f8447c0bf5ad2e0aa458&wsABSTime=1795589770|referer=https://soco.domainkqt.cc/"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/GTGTGTQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/GTGTGTQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -30,6 +37,20 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel13.m3u8|referer=https://soco.domainkqt.cc/"
+        },
+        {
+          "name": "PlayZ TV HD",
+          "url": "https://admin2.formaturamaxi.com.br/west.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36|Sec-CH-UA=\"Chromium\";v=\"143\", \"Not?A_Brand\";v=\"8\"|Sec-CH-UA-Mobile=?0|Sec-CH-UA-Platform=\"Android\"|Sec-Fetch-Dest=empty|Sec-Fetch-Mode=cors|Sec-Fetch-Site=cross-site",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://admin2.formaturamaxi.com.br/west.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36|Sec-CH-UA=\"Chromium\";v=\"143\", \"Not?A_Brand\";v=\"8\"|Sec-CH-UA-Mobile=?0|Sec-CH-UA-Platform=\"Android\"|Sec-Fetch-Dest=empty|Sec-Fetch-Mode=cors|Sec-Fetch-Site=cross-site"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/2JJJ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/2JJJ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -45,6 +66,20 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel10.m3u8"
+        },
+        {
+          "name": "PlayZ TV HD",
+          "url": "https://admin2.formaturamaxi.com.br/south.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36|Sec-CH-UA=\"Chromium\";v=\"143\", \"Not?A_Brand\";v=\"8\"|Sec-CH-UA-Mobile=?0|Sec-CH-UA-Platform=\"Android\"|Sec-Fetch-Dest=empty|Sec-Fetch-Mode=cors|Sec-Fetch-Site=cross-site",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://admin2.formaturamaxi.com.br/south.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36|Sec-CH-UA=\"Chromium\";v=\"143\", \"Not?A_Brand\";v=\"8\"|Sec-CH-UA-Mobile=?0|Sec-CH-UA-Platform=\"Android\"|Sec-Fetch-Dest=empty|Sec-Fetch-Mode=cors|Sec-Fetch-Site=cross-site"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/2JJJA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/2JJJA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -60,6 +95,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live1.quickscoreboardz.com/live/channel28/playlist.m3u8?wsSecret=4771b72ffcfcb9ee7eceb0a0940143ee&wsABSTime=1795589781|referer=https://soco.domainkqt.cc/"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/GTGTGTQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/GTGTGTQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -75,6 +117,20 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=bb81fb63bd0813590a3a6dd71784fed4&wsABSTime=1795589796|referer=https://soco.domainkqt.cc/"
+        },
+        {
+          "name": "PlayZ TV HD",
+          "url": "https://admin2.formaturamaxi.com.br/norwich.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36|Sec-CH-UA=\"Chromium\";v=\"143\", \"Not?A_Brand\";v=\"8\"|Sec-CH-UA-Mobile=?0|Sec-CH-UA-Platform=\"Android\"|Sec-Fetch-Dest=empty|Sec-Fetch-Mode=cors|Sec-Fetch-Site=cross-site",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://admin2.formaturamaxi.com.br/norwich.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36|Sec-CH-UA=\"Chromium\";v=\"143\", \"Not?A_Brand\";v=\"8\"|Sec-CH-UA-Mobile=?0|Sec-CH-UA-Platform=\"Android\"|Sec-Fetch-Dest=empty|Sec-Fetch-Mode=cors|Sec-Fetch-Site=cross-site"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/GTGTGTQQQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/GTGTGTQQQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -90,6 +146,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live1.quickscoreboardz.com/live/channel27/playlist.m3u8?wsSecret=3bfdecc39bf8bcd705f075f94c138e8e&wsABSTime=1795589775|referer=https://soco.domainkqt.cc/"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/GTGTGTQQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/GTGTGTQQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -105,6 +168,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=8d9de27ee906f7774c2c8284f74da08e&wsABSTime=1795589767|referer=https://soco.domainkqt.cc/"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/GTGTGT.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/GTGTGT.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -120,6 +190,13 @@
           "type": "MPD",
           "key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://chatgpt.hereisman.net/playlist/60911/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/60911/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
         }
       ]
     },
