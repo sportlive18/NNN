@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 02:47:30 PM",
+  "last_updated": "24/11/2026, 02:52:01 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 82,
   "matches": [
@@ -557,11 +557,11 @@
           "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/"
         },
         {
-          "name": "LOW SERVER",
-          "url": "http://193.47.62.41/hls/S666A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/S666A.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "http://193.47.62.41/hls/S666A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+          "formatted_url": "http://193.47.62.41/hls/S666A.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
