@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 01:57:06 PM",
+  "last_updated": "24/11/2026, 02:02:48 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 82,
   "matches": [
@@ -548,14 +548,51 @@
       "title": "East Bengal FC vs Al-Hussein Irbid",
       "time": "🔴 TODAY · 07:15 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.41/hls/S666A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/S666A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "NorthEast United FC vs Sporting Delhi",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795571385~acl=/*~id=49669595105722055198488941089756~hmac=26caaa198563d3e869ae3d2003101952ca99707e3fe43016b26ea0ee53a09387",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795571385~acl=/*~id=49669595105722055198488941089756~hmac=26caaa198563d3e869ae3d2003101952ca99707e3fe43016b26ea0ee53a09387"
+        },
+        {
+          "name": "SONYLIV HIN - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795571385~acl=/*~id=49669595105722055198488941089756~hmac=26caaa198563d3e869ae3d2003101952ca99707e3fe43016b26ea0ee53a09387",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795571385~acl=/*~id=49669595105722055198488941089756~hmac=26caaa198563d3e869ae3d2003101952ca99707e3fe43016b26ea0ee53a09387"
+        }
+      ]
     },
     {
       "category": "Cricket",
