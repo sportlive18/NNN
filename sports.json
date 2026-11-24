@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 02:22:08 PM",
+  "last_updated": "24/11/2026, 02:27:00 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 82,
   "matches": [
@@ -657,6 +657,13 @@
       "time": "🔴 TODAY · 08:00 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "D SPORTS+ ES",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "type": "MPD",
+          "key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd?|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
+        },
         {
           "name": "HD STREAM ",
           "url": "https://live200.kravonstreamdelivery.com/live/channel21.m3u8",
