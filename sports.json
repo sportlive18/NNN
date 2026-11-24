@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 11:46:48 AM",
+  "last_updated": "24/11/2026, 11:52:18 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 79,
   "matches": [
@@ -317,13 +317,6 @@
       "is_today": true,
       "streams": [
         {
-          "name": "WILLOW AQ ",
-          "url": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-          "type": "MPD",
-          "key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b",
-          "formatted_url": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd?|drmScheme=clearkey&drmLicense=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-        },
-        {
           "name": "PLAYZ TV LIVE ",
           "url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8|referer=https://www.sandbrix.com/",
           "type": "M3U8",
@@ -374,7 +367,7 @@
       "is_today": true,
       "streams": [
         {
-          "name": "VIX",
+          "name": "VIX TN",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "type": "MPD",
           "key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
@@ -388,6 +381,13 @@
       "time": "🔴 TODAY · 07:00 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "FOX - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "type": "MPD",
+          "key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
         {
           "name": "VIX",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -488,7 +488,15 @@
       "title": "Brazil U17 vs Tanzania U17",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SPORTV BR - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
+          "type": "MPD",
+          "key": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd?|drmScheme=clearkey&drmLicense=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -502,7 +510,15 @@
       "title": "Honduras U17 vs Colombia U17",
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "FOX - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "type": "MPD",
+          "key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -712,7 +728,15 @@
       "title": "Chapecoense vs Palmeiras",
       "time": "25/11/2026 · 02:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "PREMIER SPORTS - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "type": "MPD",
+          "key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ]
     },
     {
       "category": "Wwe",
@@ -889,7 +913,22 @@
       "title": "Sabah FK vs FC Barcelona",
       "time": "25/11/2026 · 11:15 PM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "TNT SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
+          "type": "MPD",
+          "key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd??|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "name": "QAZSPORT - AQ",
+          "url": "http://195.201.243.254/stream10/index.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://195.201.243.254/stream10/index.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
