@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 08:08:52 PM",
+  "last_updated": "24/11/2026, 08:11:52 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 57,
   "matches": [
@@ -267,6 +267,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://ec.koooracity.press/venta1.m3u8"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.59/hls/G666A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.59/hls/G666A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -398,6 +405,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iqx2ouufyd/out/v1/972893f0205f4761a611ddbea3a6b64b/cenc.mpd",
+          "type": "MPD",
+          "key": "c84e5d7fda05b0f51a277621b51c11b7:1b09c557c1f2882b455622393c1005ab",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iqx2ouufyd/out/v1/972893f0205f4761a611ddbea3a6b64b/cenc.mpd?|drmScheme=clearkey&drmLicense=c84e5d7fda05b0f51a277621b51c11b7:1b09c557c1f2882b455622393c1005ab"
+        },
+        {
           "name": "PARAMOUNT - AQ",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ty6ry0onwc/out/v1/a4e1ad05b56a4fc2b2f69e62f2c3c06e/cenc.mpd",
           "type": "MPD",
@@ -412,6 +426,13 @@
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
         },
         {
+          "name": "VIX SPANISH - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pd4heyvp80/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
+          "type": "MPD",
+          "key": "25f81a2c54077392cf6d908804d90240:e6f9b261d5bae7b55fa2dd9e3970c990",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pd4heyvp80/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd?|drmScheme=clearkey&drmLicense=25f81a2c54077392cf6d908804d90240:e6f9b261d5bae7b55fa2dd9e3970c990"
+        },
+        {
           "name": "HD SERVER",
           "url": "https://chatgpt.hereisman.net/playlist/60911/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
           "type": "DIRECT",
@@ -424,6 +445,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.44/hls/9SSSAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.44/hls/9SSSAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -1679,7 +1707,15 @@
       "title": "Jose Aldo vs Lazy Boy",
       "time": "20/12/2026 · 09:30 PM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "DAZN AQ ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s8whotxtvx/out/v1/2edfd49aaf71440e86eb73d7df83c980/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "4339adc036fc1a1270d41aa1bef4b16a:640ce635e7ca20a820c51717d85db278",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s8whotxtvx/out/v1/2edfd49aaf71440e86eb73d7df83c980/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=4339adc036fc1a1270d41aa1bef4b16a:640ce635e7ca20a820c51717d85db278"
+        }
+      ]
     },
     {
       "category": "Boxing",
