@@ -1,7 +1,7 @@
 {
-  "last_updated": "24/11/2026, 05:57:54 AM",
+  "last_updated": "24/11/2026, 06:02:42 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 98,
+  "total": 102,
   "matches": [
     {
       "category": "Football",
@@ -851,6 +851,20 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "NorthEast United FC vs Sporting Delhi",
+      "time": "🔴 TODAY · 07:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "NorthEast United FC vs Sporting Delhi",
+      "time": "🔴 TODAY · 07:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Cricket",
       "title": "ILT T20 vs ILT T20",
       "time": "🔴 TODAY · 08:00 PM",
@@ -1104,6 +1118,13 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "Chapecoense vs Palmeiras",
+      "time": "25/11/2026 · 02:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Wwe",
       "title": "WWE NXT vs WWE NXT",
       "time": "25/11/2026 · 05:30 AM",
@@ -1177,6 +1198,13 @@
     {
       "category": "Basketball",
       "title": "Denver Nuggets vs Dallas Mavericks",
+      "time": "25/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "San Jose Earthquakes vs Houston Dynamo",
       "time": "25/11/2026 · 08:30 AM",
       "is_today": false,
       "streams": []
