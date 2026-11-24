@@ -1,7 +1,7 @@
 {
-  "last_updated": "24/11/2026, 05:42:00 AM",
+  "last_updated": "24/11/2026, 05:46:57 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 75,
+  "total": 91,
   "matches": [
     {
       "category": "Football",
@@ -817,6 +817,34 @@
     },
     {
       "category": "Football",
+      "title": "Venezuela U17 vs Romania U17",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Costa Rica U17 vs Ireland U17",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Japan U17 vs Serbia U17",
+      "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Mexico U17 vs Cameroon U17",
+      "time": "🔴 TODAY · 07:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "East Bengal FC vs Al-Hussein Irbid",
       "time": "🔴 TODAY · 07:15 PM",
       "is_today": true,
@@ -874,6 +902,34 @@
     },
     {
       "category": "Football",
+      "title": "Dominican Republic U17 vs Chile U17",
+      "time": "🔴 TODAY · 08:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Brazil U17 vs Tanzania U17",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Algeria U17 vs Montenegro U17",
+      "time": "🔴 TODAY · 09:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Honduras U17 vs Colombia U17",
+      "time": "🔴 TODAY · 09:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Al Seeb SC vs Al-Shorta",
       "time": "🔴 TODAY · 09:30 PM",
       "is_today": true,
@@ -905,6 +961,55 @@
       "title": "Al-Nassr vs Al-Sadd",
       "time": "🔴 TODAY · 11:45 PM",
       "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Charlton Athletic vs Lincoln City",
+      "time": "25/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Portsmouth vs West Ham United",
+      "time": "25/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Sheffield United vs Southampton",
+      "time": "25/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Cardiff City vs Preston North End",
+      "time": "25/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Norwich City vs Queens Park Rangers",
+      "time": "25/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Middlesbrough vs Swansea City",
+      "time": "25/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Bristol City vs Wrexham",
+      "time": "25/11/2026 · 01:15 AM",
+      "is_today": false,
       "streams": []
     },
     {
@@ -980,6 +1085,13 @@
     {
       "category": "Football",
       "title": "Manchester City vs SSC Napoli",
+      "time": "25/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Wolverhampton vs Derby County",
       "time": "25/11/2026 · 01:30 AM",
       "is_today": false,
       "streams": []
