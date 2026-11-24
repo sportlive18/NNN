@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 02:27:00 PM",
+  "last_updated": "24/11/2026, 02:32:09 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 82,
   "matches": [
@@ -475,13 +475,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel22.m3u8"
-        },
-        {
-          "name": "VIX TN",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
         },
         {
           "name": "SD STREAM",
