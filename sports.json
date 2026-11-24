@@ -1,7 +1,7 @@
 {
-  "last_updated": "24/11/2026, 11:52:18 AM",
+  "last_updated": "24/11/2026, 11:57:06 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 79,
+  "total": 80,
   "matches": [
     {
       "category": "Wwe",
@@ -721,7 +721,15 @@
       "title": "Wolverhampton vs Derby County",
       "time": "25/11/2026 · 01:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "beIN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "type": "MPD",
+          "key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -900,6 +908,21 @@
       "time": "25/11/2026 · 05:45 PM",
       "is_today": false,
       "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Sporting U19 vs Manchester United U19",
+      "time": "25/11/2026 · 06:30 PM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "TNT SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "type": "MPD",
+          "key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        }
+      ]
     },
     {
       "category": "Football",
