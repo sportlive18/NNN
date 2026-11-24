@@ -1,7 +1,7 @@
 {
-  "last_updated": "24/11/2026, 05:46:57 AM",
+  "last_updated": "24/11/2026, 05:52:33 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 91,
+  "total": 98,
   "matches": [
     {
       "category": "Football",
@@ -964,6 +964,13 @@
       "streams": []
     },
     {
+      "category": "Basketball",
+      "title": "Capital City Go-Go vs Long Island Nets",
+      "time": "25/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "Charlton Athletic vs Lincoln City",
       "time": "25/11/2026 · 01:15 AM",
@@ -1131,6 +1138,48 @@
           "formatted_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
         }
       ]
+    },
+    {
+      "category": "Basketball",
+      "title": "Orlando Magic vs Detroit Pistons",
+      "time": "25/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Birmingham Squadron vs Osceola Magic",
+      "time": "25/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Oklahoma City Blue vs Austin Spurs",
+      "time": "25/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Washington Wizards vs Boston Celtics",
+      "time": "25/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Edmonton Oilers vs Vegas Golden Knights",
+      "time": "25/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Denver Nuggets vs Dallas Mavericks",
+      "time": "25/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Football",
