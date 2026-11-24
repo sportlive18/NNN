@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/11/2026, 07:01:48 PM",
+  "last_updated": "24/11/2026, 07:07:12 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 56,
   "matches": [
@@ -8,14 +8,30 @@
       "title": "Charlton Athletic vs Lincoln City",
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live1.quickscoreboardz.com/live/channel26/playlist.m3u8?wsSecret=d82d1dbb4ab6f8447c0bf5ad2e0aa458&wsABSTime=1795589770|referer=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live1.quickscoreboardz.com/live/channel26/playlist.m3u8?wsSecret=d82d1dbb4ab6f8447c0bf5ad2e0aa458&wsABSTime=1795589770|referer=https://soco.domainkqt.cc/"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Portsmouth vs West Ham United",
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel13.m3u8|referer=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live200.kravonstreamdelivery.com/live/channel13.m3u8|referer=https://soco.domainkqt.cc/"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -37,28 +53,60 @@
       "title": "Cardiff City vs Preston North End",
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live1.quickscoreboardz.com/live/channel28/playlist.m3u8?wsSecret=4771b72ffcfcb9ee7eceb0a0940143ee&wsABSTime=1795589781|referer=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live1.quickscoreboardz.com/live/channel28/playlist.m3u8?wsSecret=4771b72ffcfcb9ee7eceb0a0940143ee&wsABSTime=1795589781|referer=https://soco.domainkqt.cc/"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Norwich City vs Queens Park Rangers",
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=bb81fb63bd0813590a3a6dd71784fed4&wsABSTime=1795589796|referer=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=bb81fb63bd0813590a3a6dd71784fed4&wsABSTime=1795589796|referer=https://soco.domainkqt.cc/"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Middlesbrough vs Swansea City",
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD stream ",
+          "url": "https://live1.quickscoreboardz.com/live/channel27/playlist.m3u8?wsSecret=3bfdecc39bf8bcd705f075f94c138e8e&wsABSTime=1795589775|referer=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live1.quickscoreboardz.com/live/channel27/playlist.m3u8?wsSecret=3bfdecc39bf8bcd705f075f94c138e8e&wsABSTime=1795589775|referer=https://soco.domainkqt.cc/"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Bristol City vs Wrexham",
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=8d9de27ee906f7774c2c8284f74da08e&wsABSTime=1795589767|referer=https://soco.domainkqt.cc/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=8d9de27ee906f7774c2c8284f74da08e&wsABSTime=1795589767|referer=https://soco.domainkqt.cc/"
+        }
+      ]
     },
     {
       "category": "Football",
