@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 06:13:38 PM",
+  "last_updated": "25/11/2026, 06:16:58 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 74,
   "matches": [
@@ -575,6 +575,13 @@
           "formatted_url": "https://www.rtmpcdn.com/live/7ecadbda-bab9-44f6-b37e-58f5c51f77e7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         },
         {
+          "name": "BeIN Arabic SD",
+          "url": "https://ec.koooracity.press/mose1.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://ec.koooracity.press/mose1.m3u8"
+        },
+        {
           "name": "QAZSPORT HD",
           "url": "http://195.201.243.254/stream10/index.m3u8",
           "type": "M3U8",
@@ -673,7 +680,22 @@
       "title": "Al-Taawoun vs Al Nahda SC",
       "time": "🔴 TODAY · 11:45 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "FANCODE [IND]",
+          "url": "https://in-mc-vod.fancode.com/mumbai/4249022_english_hls_7969fe8d0114348_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4249022_english_hls_7969fe8d0114348_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.55/hls/rtrtrtAAAAAQAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.55/hls/rtrtrtAAAAAQAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
