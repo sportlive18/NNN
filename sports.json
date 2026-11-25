@@ -1,7 +1,7 @@
 {
-  "last_updated": "25/11/2026, 08:51:55 AM",
+  "last_updated": "25/11/2026, 08:57:13 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 89,
+  "total": 90,
   "matches": [
     {
       "category": "Football",
@@ -533,6 +533,28 @@
       "time": "🔴 TODAY · 08:00 PM",
       "is_today": true,
       "streams": []
+    },
+    {
+      "category": "Tennis",
+      "title": "Italy vs South Korea",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "BEIN SPORTS ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "type": "MPD",
+          "key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "name": "TSN SPORTS AQ ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "type": "MPD",
+          "key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        }
+      ]
     },
     {
       "category": "Football",
