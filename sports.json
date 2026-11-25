@@ -1,7 +1,7 @@
 {
-  "last_updated": "25/11/2026, 08:17:03 AM",
+  "last_updated": "25/11/2026, 08:21:42 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 66,
+  "total": 65,
   "matches": [
     {
       "category": "Football",
@@ -15,28 +15,6 @@
           "type": "MPD",
           "key": "acf65afa1e6e1c2fb808dc3e9e737659:ae35255a282fa1645f25e8e9e92d2ae2",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wk97erm4yh/out/v1/e60d5427e5f34cae8c7e347db9fd5b05/cenc.mpd?|drmScheme=clearkey&drmLicense=acf65afa1e6e1c2fb808dc3e9e737659:ae35255a282fa1645f25e8e9e92d2ae2"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Chapecoense vs Palmeiras",
-      "time": "🔴 TODAY · 02:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PREMIER SPORTS - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "type": "MPD",
-          "key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "name": "PREMIERE BR - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "type": "MPD",
-          "key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
         }
       ]
     },
@@ -342,18 +320,18 @@
           "formatted_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd?|drmScheme=clearkey&drmLicense=26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac"
         },
         {
-          "name": "SKY CRICKET FHD",
-          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+          "name": "CRICKET AU AQ ",
+          "url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2ZSbXCxaSwFFBUKQ6zJP1r1zTb6LraaFvz4JpdbGM499UGTZPdBUaC4QRMnbx4Qgff2KqxypDuiQ/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc6EVhp1qQPKscddSPaexvFJxAWLJVo5ag7d2YUvPsEZBffyWCAhWzaA4z5HiuqESb8bWwFvQy54ymw6HkywYyTp6s5uff5iK1y1RSvJaMh8bFcN3DYuB6J6kZ6oGTG5gTG1aENGxqN8eQL8qpPC9LS2k9i7F26VGQXz8VUtBaRSdJcr56NEzc7EWRyDrv8HhoPmmKTciJBitAoZVMsD2GbUJdJ2GMYqtE6ZoLKPzxVUasxZ5wxED4Bo2LV2XkPUosrY7AoJ5Soj4LbmAzGsi6rQrPki99Zq6UDhuNKSLfAjkH8Sb6fb4ESC1GyAjjvEhcrM2LWtKgYe7RPVSS7vz61SSucYduKsUpRM12LoJCqyk28Zxk9xiyVDr1xrfQs59cQuKVsCqRr1yLVAHn4KPf33n1mpEBCYYcy6SXX6nK1B9CdpxQ2WibrYkpgqAD8RuA6wExpExV8Rk5Cydd5TXcMGFiE1ggWzGxU21LVCdWthwTwSavSpNLgVWvFKvaShPWBAQZ9N5DCjZdz2PKnJqykV6naF5EtphgPNgKRHNsck8v2QM6Z6vQQnf1DiV67C8Y2o3LZpmicjawqqVdLRpsh9VcWGt58FemP19iXdx&sid=07B5BF5786DC",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla"
+          "formatted_url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2ZSbXCxaSwFFBUKQ6zJP1r1zTb6LraaFvz4JpdbGM499UGTZPdBUaC4QRMnbx4Qgff2KqxypDuiQ/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc6EVhp1qQPKscddSPaexvFJxAWLJVo5ag7d2YUvPsEZBffyWCAhWzaA4z5HiuqESb8bWwFvQy54ymw6HkywYyTp6s5uff5iK1y1RSvJaMh8bFcN3DYuB6J6kZ6oGTG5gTG1aENGxqN8eQL8qpPC9LS2k9i7F26VGQXz8VUtBaRSdJcr56NEzc7EWRyDrv8HhoPmmKTciJBitAoZVMsD2GbUJdJ2GMYqtE6ZoLKPzxVUasxZ5wxED4Bo2LV2XkPUosrY7AoJ5Soj4LbmAzGsi6rQrPki99Zq6UDhuNKSLfAjkH8Sb6fb4ESC1GyAjjvEhcrM2LWtKgYe7RPVSS7vz61SSucYduKsUpRM12LoJCqyk28Zxk9xiyVDr1xrfQs59cQuKVsCqRr1yLVAHn4KPf33n1mpEBCYYcy6SXX6nK1B9CdpxQ2WibrYkpgqAD8RuA6wExpExV8Rk5Cydd5TXcMGFiE1ggWzGxU21LVCdWthwTwSavSpNLgVWvFKvaShPWBAQZ9N5DCjZdz2PKnJqykV6naF5EtphgPNgKRHNsck8v2QM6Z6vQQnf1DiV67C8Y2o3LZpmicjawqqVdLRpsh9VcWGt58FemP19iXdx&sid=07B5BF5786DC"
         },
         {
           "name": "TAPMAD - AQ",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/"
         },
         {
           "name": "WILLOW HD",
@@ -368,13 +346,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/"
-        },
-        {
-          "name": "CRICKET AU AQ ",
-          "url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2HZf1c4uBg6Tcge46xGoTKmLKvC7RQ5KC9L96kuLbF3cwhm5vYSp6TYtQ2LGJ13UsJm2jAV3qQks/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc2qBiLSsNzyssA23pyejpKFDTjB4g33F8Rqu9L5V2DaCZzchisiRB4daZXrKjudPUvyiupPRQX94daqqMJskJspCfMUg7BGCSdoxBnZdNDeBbh4cnWWeS1Y1vLbsHBCYQ1PzcdWhEFRmCtduUG8ZQYjSsg4Lrp3xtHKrGpR4e3WLaPRWVtW5a6XKSYofidm6sWaGt1aUggBbMEiUfuNzxUB3pgbZ5SN7Pmob4J3uhyR87HtHSJC9LwWAF3M29KgtVqoJhdHqL1qFuuMEhbHLrgxocXjREFt4NQ96hndJqoT5EZM8oeYsHBcgEc2ybZQq1qE7fthkKqNdPFss3cGbcN5pWXbghE7uQPJddUwwArxGTAa7dbqHMXuRZaAmqb7eGjwN7EYUAkUyxVC2xR551bkJNPc8YWkERsJLqC9mZRjTkKBDGBh8Ko63nv6ez5okKYZ9V21ez2vs6D3fkpj1gh6Jn95ZegMTbhGdmidFk7dWcDXWS9bCaimgUcTKJQnz7MVgMZmGLdqKSs419iGrp1zRaBXykqPue9quU28audCPfsF2FwWc96ih5r41WN8yXr256QKcLpsj4X3j75UFmdvo3imTJzAPdQswnANdYnX1UALd2S2",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2HZf1c4uBg6Tcge46xGoTKmLKvC7RQ5KC9L96kuLbF3cwhm5vYSp6TYtQ2LGJ13UsJm2jAV3qQks/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc2qBiLSsNzyssA23pyejpKFDTjB4g33F8Rqu9L5V2DaCZzchisiRB4daZXrKjudPUvyiupPRQX94daqqMJskJspCfMUg7BGCSdoxBnZdNDeBbh4cnWWeS1Y1vLbsHBCYQ1PzcdWhEFRmCtduUG8ZQYjSsg4Lrp3xtHKrGpR4e3WLaPRWVtW5a6XKSYofidm6sWaGt1aUggBbMEiUfuNzxUB3pgbZ5SN7Pmob4J3uhyR87HtHSJC9LwWAF3M29KgtVqoJhdHqL1qFuuMEhbHLrgxocXjREFt4NQ96hndJqoT5EZM8oeYsHBcgEc2ybZQq1qE7fthkKqNdPFss3cGbcN5pWXbghE7uQPJddUwwArxGTAa7dbqHMXuRZaAmqb7eGjwN7EYUAkUyxVC2xR551bkJNPc8YWkERsJLqC9mZRjTkKBDGBh8Ko63nv6ez5okKYZ9V21ez2vs6D3fkpj1gh6Jn95ZegMTbhGdmidFk7dWcDXWS9bCaimgUcTKJQnz7MVgMZmGLdqKSs419iGrp1zRaBXykqPue9quU28audCPfsF2FwWc96ih5r41WN8yXr256QKcLpsj4X3j75UFmdvo3imTJzAPdQswnANdYnX1UALd2S2"
         },
         {
           "name": "FANCODE [IND]",
