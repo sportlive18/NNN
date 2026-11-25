@@ -1,7 +1,7 @@
 {
-  "last_updated": "25/11/2026, 11:12:23 PM",
+  "last_updated": "25/11/2026, 11:17:22 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 122,
+  "total": 114,
   "matches": [
     {
       "category": "Football",
@@ -968,18 +968,19 @@
       "title": "Uzbekistan U17 vs Italy U17",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "D Sports ES - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Jamaica U17 vs Côte d'Ivoire U17",
-      "time": "🔴 TODAY · 07:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Uzbekistan U17 vs Italy U17",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
       "streams": []
@@ -1080,55 +1081,6 @@
       "category": "Football",
       "title": "Croatia U17 vs Cuba U17",
       "time": "🔴 TODAY · 09:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Al-Ittihad vs Al-Ahli",
-      "time": "🔴 TODAY · 10:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Diriyah vs Al-Fayha",
-      "time": "🔴 TODAY · 10:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Al-Nassr vs Al-Shabab",
-      "time": "🔴 TODAY · 10:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Al Faisaly vs Al-Khaleej",
-      "time": "🔴 TODAY · 10:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Al-Kholood vs Al-Hilal",
-      "time": "🔴 TODAY · 10:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Neom SC vs Al-Taawoun",
-      "time": "🔴 TODAY · 10:30 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Al-Ettifaq vs Al-Hazem",
-      "time": "🔴 TODAY · 10:30 PM",
       "is_today": true,
       "streams": []
     },
