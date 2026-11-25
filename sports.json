@@ -1,7 +1,7 @@
 {
-  "last_updated": "25/11/2026, 08:21:42 AM",
+  "last_updated": "25/11/2026, 08:26:55 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 65,
+  "total": 89,
   "matches": [
     {
       "category": "Football",
@@ -690,6 +690,13 @@
       "streams": []
     },
     {
+      "category": "Basketball",
+      "title": "Philadelphia 76ers vs Miami Heat",
+      "time": "26/11/2026 · 03:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "Atlético Mineiro vs Corinthians",
       "time": "26/11/2026 · 04:30 AM",
@@ -738,6 +745,167 @@
           "formatted_url": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?|Referer=https://gooz.aapmains.net"
         }
       ]
+    },
+    {
+      "category": "Basketball",
+      "title": "Charlotte Hornets vs Chicago Bulls",
+      "time": "26/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Tampa Bay Lightning vs Carolina Hurricanes",
+      "time": "26/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Boston Bruins vs Winnipeg Jets",
+      "time": "26/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Buffalo Sabres vs New York Rangers",
+      "time": "26/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Pittsburgh Penguins vs Calgary Flames",
+      "time": "26/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Columbus Blue Jackets vs New Jersey Devils",
+      "time": "26/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "New York Islanders vs St. Louis Blues",
+      "time": "26/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Florida Panthers vs Ottawa Senators",
+      "time": "26/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Washington Capitals vs Philadelphia Flyers",
+      "time": "26/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "New York Knicks vs Cleveland Cavaliers",
+      "time": "26/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Oklahoma City Thunder vs Minnesota Timberwolves",
+      "time": "26/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Detroit Red Wings vs Vancouver Canucks",
+      "time": "26/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Milwaukee Bucks vs Brooklyn Nets",
+      "time": "26/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Memphis Grizzlies vs Los Angeles Clippers",
+      "time": "26/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Dallas Stars vs Nashville Predators",
+      "time": "26/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Los Angeles Rams vs Green Bay Packers",
+      "time": "26/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Minnesota Wild vs Utah Mammoth",
+      "time": "26/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Houston Rockets vs Phoenix Suns",
+      "time": "26/11/2026 · 07:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Colorado Avalanche vs Montréal Canadiens",
+      "time": "26/11/2026 · 08:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Seattle Kraken vs Chicago Blackhawks",
+      "time": "26/11/2026 · 08:10 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Portland Trail Blazers vs San Antonio Spurs",
+      "time": "26/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Golden State Warriors vs Sacramento Kings",
+      "time": "26/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Anaheim Ducks vs San Jose Sharks",
+      "time": "26/11/2026 · 08:30 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Cricket",
