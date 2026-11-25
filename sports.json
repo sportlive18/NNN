@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 02:07:05 PM",
+  "last_updated": "25/11/2026, 02:12:01 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 90,
   "matches": [
@@ -996,6 +996,13 @@
           "type": "MPD",
           "key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
           "formatted_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd?|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
+        },
+        {
+          "name": "AEW TV AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/m8slb42wwl/out/v1/2670a89c18a64dba9a38e6985df2ce85/cenc.mpd",
+          "type": "MPD",
+          "key": "90ea3ce17c88e287c41edc55f5d08073:99542fa51629e7ece3f934388c0e954d",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/m8slb42wwl/out/v1/2670a89c18a64dba9a38e6985df2ce85/cenc.mpd?|drmScheme=clearkey&drmLicense=90ea3ce17c88e287c41edc55f5d08073:99542fa51629e7ece3f934388c0e954d"
         },
         {
           "name": "PLAYZTV LIVE ",
