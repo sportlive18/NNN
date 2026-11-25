@@ -1,7 +1,7 @@
 {
-  "last_updated": "25/11/2026, 09:36:44 PM",
+  "last_updated": "25/11/2026, 09:41:45 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 61,
+  "total": 62,
   "matches": [
     {
       "category": "Football",
@@ -962,6 +962,13 @@
           "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Uzbekistan U17 vs Italy U17",
+      "time": "🔴 TODAY · 07:30 PM",
+      "is_today": true,
+      "streams": []
     },
     {
       "category": "Cricket",
