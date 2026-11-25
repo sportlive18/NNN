@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 07:16:25 PM",
+  "last_updated": "25/11/2026, 07:21:37 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 58,
   "matches": [
@@ -30,6 +30,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel10.m3u8"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.55/hls/sjjjjAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.55/hls/sjjjjAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -38,7 +45,15 @@
       "title": "Bolton Wanderers vs West Bromwich Albion",
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.55/hls/sjjjjAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.55/hls/sjjjjAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
