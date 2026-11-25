@@ -1,714 +1,13 @@
 {
-  "last_updated": "25/11/2026, 06:27:14 PM",
+  "last_updated": "25/11/2026, 06:31:25 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 74,
+  "total": 58,
   "matches": [
     {
       "category": "Football",
-      "title": "Golazo Show vs Golazo Show",
-      "time": "🔴 TODAY · 01:25 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PARAMOUNT+",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wk97erm4yh/out/v1/e60d5427e5f34cae8c7e347db9fd5b05/cenc.mpd",
-          "type": "MPD",
-          "key": "acf65afa1e6e1c2fb808dc3e9e737659:ae35255a282fa1645f25e8e9e92d2ae2",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wk97erm4yh/out/v1/e60d5427e5f34cae8c7e347db9fd5b05/cenc.mpd?|drmScheme=clearkey&drmLicense=acf65afa1e6e1c2fb808dc3e9e737659:ae35255a282fa1645f25e8e9e92d2ae2"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "San Jose Earthquakes vs Houston Dynamo",
-      "time": "🔴 TODAY · 08:30 AM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Cricket",
-      "title": "Sri Lanka Women vs Ireland Women",
-      "time": "🔴 TODAY · 10:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PLAYZ TV LIVE ",
-          "url": "https://prb2.prbw.workers.dev/proxy/https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795610969~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixHQixJRSxNTA%3d%3d~hmac=477a7a43f563dd728866718e7c98b423ad723952af71b2fb46b3ed2295dcb766/manifest.mpd?vcfilter=f4fc6796-0bc7-4b43-b9a6-db875faeaa76|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "formatted_url": "https://prb2.prbw.workers.dev/proxy/https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795610969~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixHQixJRSxNTA%3d%3d~hmac=477a7a43f563dd728866718e7c98b423ad723952af71b2fb46b3ed2295dcb766/manifest.mpd?vcfilter=f4fc6796-0bc7-4b43-b9a6-db875faeaa76|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
-        },
-        {
-          "name": "MYCO - AQ [PK]",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/"
-        },
-        {
-          "name": "TAMASHA - AQ [PK]",
-          "url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8"
-        },
-        {
-          "name": "FANCODE AQ [ind] ",
-          "url": "https://in-mc-vod.fancode.com/mumbai/4250688_english_hls_6c02a53fb925699_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4250688_english_hls_6c02a53fb925699_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Melbourne Victory vs Thể Công - Viettel",
-      "time": "🔴 TODAY · 01:15 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-        },
-        {
-          "name": "PLAYZ TV LIVE ",
-          "url": "https://www.rtmpcdn.com/live/d5a0f31e-a95a-42ea-9b08-6ad508bc3d50.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://www.rtmpcdn.com/live/d5a0f31e-a95a-42ea-9b08-6ad508bc3d50.m3u8"
-        },
-        {
-          "name": "FANCODE [IND]",
-          "url": "https://in-mc-vod.fancode.com/mumbai/4249025_english_hls_1a5ecea1e44694_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4249025_english_hls_1a5ecea1e44694_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.41/hls/FRFRFR.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/FRFRFR.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "South Africa vs Bangladesh",
-      "time": "🔴 TODAY · 01:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd",
-          "type": "MPD",
-          "key": "1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df",
-          "formatted_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd?|drmScheme=clearkey&drmLicense=1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df"
-        },
-        {
-          "name": "FANCODE - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
-        },
-        {
-          "name": "TAMASHA PRO AQ ",
-          "url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/BANvsSAF-SVOD-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/BANvsSAF-SVOD-abr/playlist.m3u8"
-        },
-        {
-          "name": "EURO SPORTS - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "type": "MPD",
-          "key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-          "formatted_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd?|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
-        },
-        {
-          "name": "SKY CRICKET - AQ",
-          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla"
-        },
-        {
-          "name": "WILLOW S2 - AQ",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd",
-          "type": "MPD",
-          "key": "1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df",
-          "formatted_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd?|drmScheme=clearkey&drmLicense=1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df"
-        },
-        {
-          "name": "FANCODE - SD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e"
-        },
-        {
-          "name": "A SPORTS - AQ",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.msnetworks.net/a-sports/master.m3u8"
-        },
-        {
-          "name": "A SPORTS HD",
-          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8"
-        },
-        {
-          "name": "T SPORTS HD",
-          "url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.59/hls/RREGEGEAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.59/hls/RREGEGEAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "FANCODE [IND]",
-          "url": "https://in-mc-vod.fancode.com/mumbai/4250651_english_hls_d4285d152438599_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4250651_english_hls_d4285d152438599_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Melbourne Renegades Women vs Brisbane Heat Women",
-      "time": "🔴 TODAY · 01:40 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd",
-          "type": "MPD",
-          "key": "26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac",
-          "formatted_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd?|drmScheme=clearkey&drmLicense=26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac"
-        },
-        {
-          "name": "CRICKET AU AQ ",
-          "url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2ZSbXCxaSwFFBUKQ6zJP1r1zTb6LraaFvz4JpdbGM499UGTZPdBUaC4QRMnbx4Qgff2KqxypDuiQ/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc6EVhp1qQPKscddSPaexvFJxAWLJVo5ag7d2YUvPsEZBffyWCAhWzaA4z5HiuqESb8bWwFvQy54ymw6HkywYyTp6s5uff5iK1y1RSvJaMh8bFcN3DYuB6J6kZ6oGTG5gTG1aENGxqN8eQL8qpPC9LS2k9i7F26VGQXz8VUtBaRSdJcr56NEzc7EWRyDrv8HhoPmmKTciJBitAoZVMsD2GbUJdJ2GMYqtE6ZoLKPzxVUasxZ5wxED4Bo2LV2XkPUosrY7AoJ5Soj4LbmAzGsi6rQrPki99Zq6UDhuNKSLfAjkH8Sb6fb4ESC1GyAjjvEhcrM2LWtKgYe7RPVSS7vz61SSucYduKsUpRM12LoJCqyk28Zxk9xiyVDr1xrfQs59cQuKVsCqRr1yLVAHn4KPf33n1mpEBCYYcy6SXX6nK1B9CdpxQ2WibrYkpgqAD8RuA6wExpExV8Rk5Cydd5TXcMGFiE1ggWzGxU21LVCdWthwTwSavSpNLgVWvFKvaShPWBAQZ9N5DCjZdz2PKnJqykV6naF5EtphgPNgKRHNsck8v2QM6Z6vQQnf1DiV67C8Y2o3LZpmicjawqqVdLRpsh9VcWGt58FemP19iXdx&sid=07B5BF5786DC",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2ZSbXCxaSwFFBUKQ6zJP1r1zTb6LraaFvz4JpdbGM499UGTZPdBUaC4QRMnbx4Qgff2KqxypDuiQ/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc6EVhp1qQPKscddSPaexvFJxAWLJVo5ag7d2YUvPsEZBffyWCAhWzaA4z5HiuqESb8bWwFvQy54ymw6HkywYyTp6s5uff5iK1y1RSvJaMh8bFcN3DYuB6J6kZ6oGTG5gTG1aENGxqN8eQL8qpPC9LS2k9i7F26VGQXz8VUtBaRSdJcr56NEzc7EWRyDrv8HhoPmmKTciJBitAoZVMsD2GbUJdJ2GMYqtE6ZoLKPzxVUasxZ5wxED4Bo2LV2XkPUosrY7AoJ5Soj4LbmAzGsi6rQrPki99Zq6UDhuNKSLfAjkH8Sb6fb4ESC1GyAjjvEhcrM2LWtKgYe7RPVSS7vz61SSucYduKsUpRM12LoJCqyk28Zxk9xiyVDr1xrfQs59cQuKVsCqRr1yLVAHn4KPf33n1mpEBCYYcy6SXX6nK1B9CdpxQ2WibrYkpgqAD8RuA6wExpExV8Rk5Cydd5TXcMGFiE1ggWzGxU21LVCdWthwTwSavSpNLgVWvFKvaShPWBAQZ9N5DCjZdz2PKnJqykV6naF5EtphgPNgKRHNsck8v2QM6Z6vQQnf1DiV67C8Y2o3LZpmicjawqqVdLRpsh9VcWGt58FemP19iXdx&sid=07B5BF5786DC"
-        },
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/"
-        },
-        {
-          "name": "WILLOW HD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "name": "TAPMAD HD",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/"
-        },
-        {
-          "name": "FANCODE [IND]",
-          "url": "https://in-mc-vod.fancode.com/mumbai/4250419_english_hls_ed10a05d9311864_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4250419_english_hls_ed10a05d9311864_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Kashima Antlers vs Jeonbuk Hyundai Motors",
-      "time": "🔴 TODAY · 03:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "SPORTDIGITAL AQ ",
-          "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8"
-        },
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
-        },
-        {
-          "name": "FANCODE AQ (IND) ",
-          "url": "https://in-mc-vod.fancode.com/mumbai/4248758_english_hls_df11de56b866843_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4248758_english_hls_df11de56b866843_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.50/hls/ZTTTA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.50/hls/ZTTTA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Gamba Osaka vs Port FC",
-      "time": "🔴 TODAY · 03:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.50/hls/ZTTT.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.50/hls/ZTTT.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "FANCODE AQ (IND) ",
-          "url": "https://in-mc-vod.fancode.com/mumbai/4248759_english_hls_8e543051a454617_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4248759_english_hls_8e543051a454617_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Sporting U19 vs Manchester United U19",
-      "time": "🔴 TODAY · 06:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "TNT SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "type": "MPD",
-          "key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "name": "SONYLIV ENG - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795656830~acl=/*~id=54580525332449956328218595756401~hmac=d35e2db7dbd01e3da0c733f4fca78c1f7c414b4d273da1b6dcecce5dd3173393",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795656830~acl=/*~id=54580525332449956328218595756401~hmac=d35e2db7dbd01e3da0c733f4fca78c1f7c414b4d273da1b6dcecce5dd3173393"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "ILT T20 vs ILT T20",
-      "time": "🔴 TODAY · 08:00 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvpxnd9lm7/out/v1/ec8487d426a14be59423e84d2fb4c8ee/cenc.mpd",
-          "type": "MPD",
-          "key": "d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvpxnd9lm7/out/v1/ec8487d426a14be59423e84d2fb4c8ee/cenc.mpd?|drmScheme=clearkey&drmLicense=d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce"
-        },
-        {
-          "name": "FANCODE - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "type": "MPD",
-          "key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "name": "TNT SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "type": "MPD",
-          "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "name": "TAMASHA PRO AQ ",
-          "url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8"
-        },
-        {
-          "name": "UNITE8 HIN HD",
-          "url": "http://103.205.132.29:8081/Unite8-sports-1/index.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://103.205.132.29:8081/Unite8-sports-1/index.m3u8"
-        },
-        {
-          "name": "ZEE ZEST IN",
-          "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd",
-          "type": "MPD",
-          "key": "ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735",
-          "formatted_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd?|drmScheme=clearkey&drmLicense=ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735"
-        },
-        {
-          "name": "UNITE8 SPORTS IN",
-          "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd",
-          "type": "MPD",
-          "key": "d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f",
-          "formatted_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd?|drmScheme=clearkey&drmLicense=d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f"
-        },
-        {
-          "name": "FANCODE AQ (IND) ",
-          "url": "https://in-mc-vod.fancode.com/mumbai/4251054_english_hls_b961d4d41363338_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4251054_english_hls_b961d4d41363338_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Greece U17 vs Qatar U17",
-      "time": "🔴 TODAY · 08:00 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel13.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel13.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.55/hls/WAWAWAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.55/hls/WAWAWAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Panama U17 vs Egypt U17",
-      "time": "🔴 TODAY · 08:00 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.55/hls/WAWAWAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.55/hls/WAWAWAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Tennis",
-      "title": "Italy vs South Korea",
-      "time": "🔴 TODAY · 08:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "BEIN SPORTS ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "type": "MPD",
-          "key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
-        },
-        {
-          "name": "TSN SPORTS AQ ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "type": "MPD",
-          "key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "name": "TENNIS TV DE AQ ",
-          "url": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd",
-          "type": "MPD",
-          "key": "2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab",
-          "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd?|drmScheme=clearkey&drmLicense=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Sabah FK vs FC Barcelona",
-      "time": "🔴 TODAY · 11:15 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "DAZN SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vm6obaulus/out/v1/6653f58dc54d4b2ca30baade63aacc60/cenc.mpd",
-          "type": "MPD",
-          "key": "67e139dd505a71f2472b89a21061a068:a82a007cb3473ce7be8ad1557ba2910d",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vm6obaulus/out/v1/6653f58dc54d4b2ca30baade63aacc60/cenc.mpd?|drmScheme=clearkey&drmLicense=67e139dd505a71f2472b89a21061a068:a82a007cb3473ce7be8ad1557ba2910d"
-        },
-        {
-          "name": "PARAMOUNT+ - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zh63cyh9r0/out/v1/e89877e6282243e4aae63c0d6aafa8f4/cenc.mpd",
-          "type": "MPD",
-          "key": "f2c4e32c00492683db06bd35bf40f13c:46d854f0d6b8fcdfbfbc45e3951e5eed",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zh63cyh9r0/out/v1/e89877e6282243e4aae63c0d6aafa8f4/cenc.mpd?|drmScheme=clearkey&drmLicense=f2c4e32c00492683db06bd35bf40f13c:46d854f0d6b8fcdfbfbc45e3951e5eed"
-        },
-        {
-          "name": "TNT SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
-          "type": "MPD",
-          "key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd??|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "name": "VIX TUDN ES - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zgivvqqv5x/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
-          "type": "MPD",
-          "key": "9b331f76d1893b219f9dec596c2df5ff:c7938b9dba784355f138982cf956e8dd",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zgivvqqv5x/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd?|drmScheme=clearkey&drmLicense=9b331f76d1893b219f9dec596c2df5ff:c7938b9dba784355f138982cf956e8dd"
-        },
-        {
-          "name": "DAZN DE - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqlkwalcm7/out/v1/26502b89dc59430c91779ef5223c2a50/cenc.mpd",
-          "type": "MPD",
-          "key": "3f9ed4e17c6d6b98e10772c04193201b:3149fb721afa9ae7f76e84e0bdee6a92",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqlkwalcm7/out/v1/26502b89dc59430c91779ef5223c2a50/cenc.mpd?|drmScheme=clearkey&drmLicense=3f9ed4e17c6d6b98e10772c04193201b:3149fb721afa9ae7f76e84e0bdee6a92"
-        },
-        {
-          "name": "TNT BRASIL - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1"
-        },
-        {
-          "name": "PARAMOUNT+ HD",
-          "url": "https://chatgpt.hereisman.net/playlist/60998/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/60998/load-playlist-multi?|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "BeIN Arabic ",
-          "url": "https://ylp.akhbarnewscdn.store/cdn/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ylp.akhbarnewscdn.store/cdn/master.m3u8"
-        },
-        {
-          "name": "SONYLIV ENG - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a"
-        },
-        {
-          "name": "SONYLIV HIN - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a"
-        },
-        {
-          "name": "SONYLIV TAM - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/footlive2511/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/footlive2511/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a"
-        },
-        {
-          "name": "SONYLIV TEL - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive2511/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive2511/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a"
-        },
-        {
-          "name": "SONYLIV KAN - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive2511/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive2511/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a"
-        },
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
-        },
-        {
-          "name": "HD SERVER",
-          "url": "https://www.rtmpcdn.com/live/7ecadbda-bab9-44f6-b37e-58f5c51f77e7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://www.rtmpcdn.com/live/7ecadbda-bab9-44f6-b37e-58f5c51f77e7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
-        },
-        {
-          "name": "BeIN Arabic SD",
-          "url": "https://ec.koooracity.press/mose1.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://ec.koooracity.press/mose1.m3u8"
-        },
-        {
-          "name": "QAZSPORT HD",
-          "url": "http://195.201.243.254/stream10/index.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://195.201.243.254/stream10/index.m3u8"
-        },
-        {
-          "name": "LOW SERVER",
-          "url": "http://193.47.62.44/hls/KKKKA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.44/hls/KKKKA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "SK Slavia Praha vs Villarreal",
-      "time": "🔴 TODAY · 11:15 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "DAZN SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mjos3kgej5/out/v1/538db54d1c4146c7b39f3db9bb76c35f/cenc.mpd",
-          "type": "MPD",
-          "key": "606894735015d23d9d69bfd0037178e7:4748d804aec9906a991bff5225908f1c",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mjos3kgej5/out/v1/538db54d1c4146c7b39f3db9bb76c35f/cenc.mpd?|drmScheme=clearkey&drmLicense=606894735015d23d9d69bfd0037178e7:4748d804aec9906a991bff5225908f1c"
-        },
-        {
-          "name": "PARAMOUNT+ - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/woww8ppzgt/out/v1/bc97323e04cd4463b306bdc9d66ce603/cenc.mpd",
-          "type": "MPD",
-          "key": "cd6ad5529543f1e46206da1bdc0a9698:66c070216a1cd71c1d88fc4509f4ed71",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/woww8ppzgt/out/v1/bc97323e04cd4463b306bdc9d66ce603/cenc.mpd?|drmScheme=clearkey&drmLicense=cd6ad5529543f1e46206da1bdc0a9698:66c070216a1cd71c1d88fc4509f4ed71"
-        },
-        {
-          "name": "VIX SPANISH - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a6z36g01sa/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd",
-          "type": "MPD",
-          "key": "3c6c39d6c7b945651cd8a36029cea49d:60da32bfde8dac18d4d1344b3f68a2eb",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a6z36g01sa/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd?|drmScheme=clearkey&drmLicense=3c6c39d6c7b945651cd8a36029cea49d:60da32bfde8dac18d4d1344b3f68a2eb"
-        },
-        {
-          "name": "TNT BRASIL FHD",
-          "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m0dk7evbbv/out/v1/2280611214d549bab3108a7ec929c99a/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "09a695c21528e0853371b882814c3aac:805bb374cfeebf82408b6850ecda7d14",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m0dk7evbbv/out/v1/2280611214d549bab3108a7ec929c99a/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=09a695c21528e0853371b882814c3aac:805bb374cfeebf82408b6850ecda7d14"
-        },
-        {
-          "name": "DAZN DE - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/to3jxmtgqe/out/v1/29c3e2d4f9dd436d80d9a2017f7501dc/cenc.mpd",
-          "type": "MPD",
-          "key": "56cbd675ccdb2b4019cd370cb5972f27:fe9e827112a2f537b0f318b641cd9c1b",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/to3jxmtgqe/out/v1/29c3e2d4f9dd436d80d9a2017f7501dc/cenc.mpd?|drmScheme=clearkey&drmLicense=56cbd675ccdb2b4019cd370cb5972f27:fe9e827112a2f537b0f318b641cd9c1b"
-        },
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60995\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60995\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "SONYLIV ENG - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795671415~acl=/*~id=23438434031858107065006866488292~hmac=071b3c297cf7600ea304c0506deca16346c02a27dd769fd1511ec50530bd47bc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795671415~acl=/*~id=23438434031858107065006866488292~hmac=071b3c297cf7600ea304c0506deca16346c02a27dd769fd1511ec50530bd47bc"
-        },
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
-        },
-        {
-          "name": "BeIN ARABIC HD",
-          "url": "https://apwibbb.yallashootcup.com/hls/ch2/live/index.m3u8|referer=https://new.yallashootstream.com/&origin=https://new.yallashootstream.com",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://apwibbb.yallashootcup.com/hls/ch2/live/index.m3u8|referer=https://new.yallashootstream.com/&origin=https://new.yallashootstream.com"
-        },
-        {
-          "name": "SD STREAM ",
-          "url": "http://193.47.62.50/hls/KKKK.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.50/hls/KKKK.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Al-Taawoun vs Al Nahda SC",
-      "time": "🔴 TODAY · 11:45 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "FANCODE [IND]",
-          "url": "https://in-mc-vod.fancode.com/mumbai/4249022_english_hls_7969fe8d0114348_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4249022_english_hls_7969fe8d0114348_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.55/hls/rtrtrtAAAAAQAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.55/hls/rtrtrtAAAAAQAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Football",
       "title": "Watford vs Blackburn Rovers",
-      "time": "26/11/2026 · 01:15 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 01:15 AM",
+      "is_today": true,
       "streams": [
         {
           "name": "HD STREAM ",
@@ -722,8 +21,8 @@
     {
       "category": "Football",
       "title": "Burnley vs Birmingham City",
-      "time": "26/11/2026 · 01:15 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 01:15 AM",
+      "is_today": true,
       "streams": [
         {
           "name": "HD STREAM",
@@ -737,15 +36,15 @@
     {
       "category": "Football",
       "title": "Bolton Wanderers vs West Bromwich Albion",
-      "time": "26/11/2026 · 01:15 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 01:15 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Football",
       "title": "Paris Saint-Germain vs AS Roma",
-      "time": "26/11/2026 · 01:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 01:30 AM",
+      "is_today": true,
       "streams": [
         {
           "name": "TNT SPORTS FHD",
@@ -759,29 +58,29 @@
     {
       "category": "Football",
       "title": "Atlético Madrid vs Viking FK",
-      "time": "26/11/2026 · 01:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 01:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Football",
       "title": "LOSC Lille vs FC Bayern München",
-      "time": "26/11/2026 · 01:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 01:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Football",
       "title": "Inter vs VfB Stuttgart",
-      "time": "26/11/2026 · 01:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 01:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Football",
       "title": "Sporting CP vs Manchester United",
-      "time": "26/11/2026 · 01:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 01:30 AM",
+      "is_today": true,
       "streams": [
         {
           "name": "TNT SPORTS - AQ",
@@ -795,15 +94,15 @@
     {
       "category": "Football",
       "title": "Shakhtar Donetsk vs Fenerbahçe",
-      "time": "26/11/2026 · 01:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 01:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Football",
       "title": "Club Brugge KV vs Liverpool FC",
-      "time": "26/11/2026 · 01:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 01:30 AM",
+      "is_today": true,
       "streams": [
         {
           "name": "TNT SPORTS - AQ",
@@ -817,8 +116,8 @@
     {
       "category": "Football",
       "title": "Stoke City vs Millwall",
-      "time": "26/11/2026 · 01:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 01:30 AM",
+      "is_today": true,
       "streams": [
         {
           "name": "beIN SPORTS - AQ",
@@ -832,22 +131,22 @@
     {
       "category": "Basketball",
       "title": "Philadelphia 76ers vs Miami Heat",
-      "time": "26/11/2026 · 03:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 03:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Football",
       "title": "Atlético Mineiro vs Corinthians",
-      "time": "26/11/2026 · 04:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 04:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Wwe",
       "title": "DYNAMITE vs DYNAMITE",
-      "time": "26/11/2026 · 05:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
       "streams": [
         {
           "name": "TSN SPORTS",
@@ -896,8 +195,8 @@
     {
       "category": "Cricket",
       "title": "South Australia vs Victoria",
-      "time": "26/11/2026 · 05:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
       "streams": [
         {
           "name": "PlayZ TV Live",
@@ -911,134 +210,134 @@
     {
       "category": "Basketball",
       "title": "Charlotte Hornets vs Chicago Bulls",
-      "time": "26/11/2026 · 05:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "Tampa Bay Lightning vs Carolina Hurricanes",
-      "time": "26/11/2026 · 05:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "Boston Bruins vs Winnipeg Jets",
-      "time": "26/11/2026 · 05:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "Buffalo Sabres vs New York Rangers",
-      "time": "26/11/2026 · 05:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "Pittsburgh Penguins vs Calgary Flames",
-      "time": "26/11/2026 · 05:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "Columbus Blue Jackets vs New Jersey Devils",
-      "time": "26/11/2026 · 05:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "New York Islanders vs St. Louis Blues",
-      "time": "26/11/2026 · 05:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "Florida Panthers vs Ottawa Senators",
-      "time": "26/11/2026 · 05:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "Washington Capitals vs Philadelphia Flyers",
-      "time": "26/11/2026 · 05:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 05:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Basketball",
       "title": "New York Knicks vs Cleveland Cavaliers",
-      "time": "26/11/2026 · 06:00 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 06:00 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Basketball",
       "title": "Oklahoma City Thunder vs Minnesota Timberwolves",
-      "time": "26/11/2026 · 06:00 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 06:00 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "Detroit Red Wings vs Vancouver Canucks",
-      "time": "26/11/2026 · 06:00 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 06:00 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Basketball",
       "title": "Milwaukee Bucks vs Brooklyn Nets",
-      "time": "26/11/2026 · 06:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 06:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Basketball",
       "title": "Memphis Grizzlies vs Los Angeles Clippers",
-      "time": "26/11/2026 · 06:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 06:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "Dallas Stars vs Nashville Predators",
-      "time": "26/11/2026 · 06:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 06:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "American Football",
       "title": "Los Angeles Rams vs Green Bay Packers",
-      "time": "26/11/2026 · 06:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 06:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "Minnesota Wild vs Utah Mammoth",
-      "time": "26/11/2026 · 06:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 06:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Basketball",
       "title": "Houston Rockets vs Phoenix Suns",
-      "time": "26/11/2026 · 07:00 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 07:00 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Cricket",
       "title": "Western Australia vs Tasmania",
-      "time": "26/11/2026 · 08:00 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 08:00 AM",
+      "is_today": true,
       "streams": [
         {
           "name": "PlayZ TV Live",
@@ -1052,43 +351,43 @@
     {
       "category": "Hockey",
       "title": "Colorado Avalanche vs Montréal Canadiens",
-      "time": "26/11/2026 · 08:00 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 08:00 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "Seattle Kraken vs Chicago Blackhawks",
-      "time": "26/11/2026 · 08:10 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 08:10 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Basketball",
       "title": "Portland Trail Blazers vs San Antonio Spurs",
-      "time": "26/11/2026 · 08:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 08:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Basketball",
       "title": "Golden State Warriors vs Sacramento Kings",
-      "time": "26/11/2026 · 08:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 08:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Hockey",
       "title": "Anaheim Ducks vs San Jose Sharks",
-      "time": "26/11/2026 · 08:30 AM",
-      "is_today": false,
+      "time": "🔴 TODAY · 08:30 AM",
+      "is_today": true,
       "streams": []
     },
     {
       "category": "Cricket",
       "title": "India A vs Sri Lanka A",
-      "time": "26/11/2026 · 03:30 PM",
-      "is_today": false,
+      "time": "🔴 TODAY · 03:30 PM",
+      "is_today": true,
       "streams": [
         {
           "name": "WILLOW - AQ",
@@ -1130,8 +429,8 @@
     {
       "category": "Cricket",
       "title": "Italia T10 vs Italia T10",
-      "time": "26/11/2026 · 04:30 PM",
-      "is_today": false,
+      "time": "🔴 TODAY · 04:30 PM",
+      "is_today": true,
       "streams": [
         {
           "name": "UNBEATEN FHD",
