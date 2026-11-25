@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 09:01:52 AM",
+  "last_updated": "25/11/2026, 09:07:11 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 90,
   "matches": [
@@ -603,7 +603,22 @@
       "title": "Sabah FK vs FC Barcelona",
       "time": "🔴 TODAY · 11:15 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "TNT SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
+          "type": "MPD",
+          "key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd??|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "name": "QAZSPORT - AQ",
+          "url": "http://195.201.243.254/stream10/index.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://195.201.243.254/stream10/index.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
