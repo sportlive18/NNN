@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 06:01:31 AM",
+  "last_updated": "25/11/2026, 06:06:38 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 57,
   "matches": [
@@ -226,6 +226,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8"
+        },
+        {
+          "name": "FANCODE AQ [ind] ",
+          "url": "https://in-mc-vod.fancode.com/mumbai/4250688_english_hls_6c02a53fb925699_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4250688_english_hls_6c02a53fb925699_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
         }
       ]
     },
