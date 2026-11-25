@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 10:06:59 AM",
+  "last_updated": "25/11/2026, 10:12:00 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 90,
   "matches": [
@@ -370,11 +370,11 @@
           "formatted_url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8"
         },
         {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.50/hls/ZTTTA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "name": "TAPMAD - AQ",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "http://193.47.62.50/hls/ZTTTA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
         },
         {
           "name": "FANCODE AQ (IND) ",
@@ -382,6 +382,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4248758_english_hls_df11de56b866843_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.50/hls/ZTTTA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/ZTTTA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -391,6 +398,13 @@
       "time": "🔴 TODAY · 03:30 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
+        },
         {
           "name": "SD STREAM",
           "url": "http://193.47.62.50/hls/ZTTT.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
