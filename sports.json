@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 03:27:23 PM",
+  "last_updated": "25/11/2026, 03:32:08 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 86,
   "matches": [
@@ -696,6 +696,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "PlayZ TV Live",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel21.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel21.m3u8"
+        },
+        {
           "name": "SD STREAM",
           "url": "http://193.47.62.55/hls/WAWAWA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
           "type": "M3U8",
@@ -803,14 +810,30 @@
       "title": "Watford vs Blackburn Rovers",
       "time": "26/11/2026 · 01:15 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel23.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel23.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Burnley vs Birmingham City",
       "time": "26/11/2026 · 01:15 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel10.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel10.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -1507,7 +1530,29 @@
       "title": "Henry Cejudo  vs Song Yadong",
       "time": "29/11/2026 · 06:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "STARZPLAY SPORTS AQ",
+          "url": "https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd",
+          "type": "MPD",
+          "key": "ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0",
+          "formatted_url": "https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd?|drmScheme=clearkey&drmLicense=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0"
+        },
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60043\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60043\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.55/hls/EJJJAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.55/hls/EJJJAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Wwe",
