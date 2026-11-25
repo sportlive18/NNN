@@ -1,7 +1,7 @@
 {
-  "last_updated": "25/11/2026, 03:32:08 PM",
+  "last_updated": "25/11/2026, 03:37:09 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 86,
+  "total": 85,
   "matches": [
     {
       "category": "Football",
@@ -469,28 +469,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795656830~acl=/*~id=54580525332449956328218595756401~hmac=d35e2db7dbd01e3da0c733f4fca78c1f7c414b4d273da1b6dcecce5dd3173393"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Haiti U17 vs Saudi Arabia U17",
-      "time": "🔴 TODAY · 07:00 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV Live",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel10.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel10.m3u8"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.55/hls/WAWAWA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.55/hls/WAWAWA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
