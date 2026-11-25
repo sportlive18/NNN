@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 07:32:25 PM",
+  "last_updated": "25/11/2026, 07:36:28 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 59,
   "matches": [
@@ -9,6 +9,20 @@
       "time": "🔴 TODAY · 01:15 AM",
       "is_today": true,
       "streams": [
+        {
+          "name": "CBS NETWORK FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live.vivo155.com/live/sd-1-4563679.m3u8?txSecret=a442e5bb9eadd1c1bc0708b034a4ea3e&txTime=6AEF4E2C|Referer=https://player.on8on8.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.vivo155.com/live/sd-1-4563679.m3u8?txSecret=a442e5bb9eadd1c1bc0708b034a4ea3e&txTime=6AEF4E2C|Referer=https://player.on8on8.com/"
+        },
         {
           "name": "HD STREAM ",
           "url": "https://live3979.zundrixmediapipeline.com/live/channel23.m3u8",
