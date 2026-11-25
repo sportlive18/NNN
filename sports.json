@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 12:27:12 PM",
+  "last_updated": "25/11/2026, 12:32:12 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 90,
   "matches": [
@@ -484,14 +484,37 @@
       "title": "Ecuador U17 vs South Korea U17",
       "time": "🔴 TODAY · 06:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "D SPORTS - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "type": "MPD",
+          "key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd?|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
+        },
+        {
+          "name": "HD STREAM",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel11.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel11.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Uganda U17 vs New Caledonia U17",
       "time": "🔴 TODAY · 06:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel7.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel7.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
