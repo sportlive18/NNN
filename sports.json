@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 04:27:04 PM",
+  "last_updated": "25/11/2026, 04:32:04 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 80,
   "matches": [
@@ -608,15 +608,7 @@
       "title": "SK Slavia Praha vs Villarreal",
       "time": "🔴 TODAY · 11:15 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "SPORTV BR - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
-          "type": "MPD",
-          "key": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd?|drmScheme=clearkey&drmLicense=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
@@ -703,7 +695,15 @@
       "title": "Sporting CP vs Manchester United",
       "time": "26/11/2026 · 01:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "TNT SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "type": "MPD",
+          "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        }
+      ]
     },
     {
       "category": "Football",
