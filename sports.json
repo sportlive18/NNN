@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 06:16:58 PM",
+  "last_updated": "25/11/2026, 06:22:41 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 74,
   "matches": [
@@ -460,6 +460,13 @@
           "type": "MPD",
           "key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "name": "TENNIS TV DE AQ ",
+          "url": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd",
+          "type": "MPD",
+          "key": "2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab",
+          "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd?|drmScheme=clearkey&drmLicense=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab"
         }
       ]
     },
