@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 02:32:09 PM",
+  "last_updated": "25/11/2026, 02:37:33 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 89,
   "matches": [
@@ -674,6 +674,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "PlayZ TV Live",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel13.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel13.m3u8"
+        },
+        {
           "name": "SD STREAM",
           "url": "http://193.47.62.55/hls/WAWAWAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
           "type": "M3U8",
@@ -687,7 +694,22 @@
       "title": "Panama U17 vs Egypt U17",
       "time": "🔴 TODAY · 08:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.55/hls/WAWAWAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.55/hls/WAWAWAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Tennis",
