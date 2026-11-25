@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 02:46:49 PM",
+  "last_updated": "25/11/2026, 02:52:08 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 87,
   "matches": [
@@ -436,10 +436,10 @@
         },
         {
           "name": "PLAYZ TV LIVE ",
-          "url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8|referer=https://www.sandbrix.com/",
+          "url": "https://amssandbrix.sandbrix.live/sandbrix/streams/JoLpoIfXtZdMMVVJ791008995728.m3u8|referer=https://www.sandbrix.com/",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8|referer=https://www.sandbrix.com/"
+          "formatted_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/JoLpoIfXtZdMMVVJ791008995728.m3u8|referer=https://www.sandbrix.com/"
         },
         {
           "name": "TAMASHA PRO AQ ",
@@ -573,18 +573,18 @@
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvpxnd9lm7/out/v1/ec8487d426a14be59423e84d2fb4c8ee/cenc.mpd?|drmScheme=clearkey&drmLicense=d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce"
         },
         {
-          "name": "TNT SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "type": "MPD",
-          "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
           "name": "FANCODE - AQ",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "type": "MPD",
           "key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "name": "TNT SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "type": "MPD",
+          "key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
         },
         {
           "name": "TAMASHA PRO AQ ",
