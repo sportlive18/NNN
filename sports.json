@@ -1,7 +1,7 @@
 {
-  "last_updated": "25/11/2026, 11:06:36 PM",
+  "last_updated": "25/11/2026, 11:12:23 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 61,
+  "total": 122,
   "matches": [
     {
       "category": "Football",
@@ -879,6 +879,27 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "Tampines Rovers vs Shanghai Shenhua",
+      "time": "🔴 TODAY · 03:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Kuching City vs Phnom Penh Crown",
+      "time": "🔴 TODAY · 03:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Gangwon FC vs Kitchee SC",
+      "time": "🔴 TODAY · 03:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Cricket",
       "title": "Italia T10 vs Italia T10",
       "time": "🔴 TODAY · 04:30 PM",
@@ -906,6 +927,55 @@
           "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "BG Pathum United vs Lion City Sailors",
+      "time": "🔴 TODAY · 05:45 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Tai Po vs Adelaide United",
+      "time": "🔴 TODAY · 05:45 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Preah Khan Reach Svay Rieng FC vs Machida Zelvia",
+      "time": "🔴 TODAY · 05:45 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "New Zealand U17 vs Belgium U17",
+      "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Vietnam U17 vs Mali U17",
+      "time": "🔴 TODAY · 06:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Uzbekistan U17 vs Italy U17",
+      "time": "🔴 TODAY · 07:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Jamaica U17 vs Côte d'Ivoire U17",
+      "time": "🔴 TODAY · 07:30 PM",
+      "is_today": true,
+      "streams": []
     },
     {
       "category": "Football",
@@ -977,6 +1047,349 @@
           "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4251054_english_hls_b961d4d41363338_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Morocco U17 vs Spain U17",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "China U17 vs Fiji U17",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FC Kairat Almaty vs Mjällby AIF",
+      "time": "🔴 TODAY · 09:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Tajikistan U17 vs Senegal U17",
+      "time": "🔴 TODAY · 09:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Croatia U17 vs Cuba U17",
+      "time": "🔴 TODAY · 09:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al-Ittihad vs Al-Ahli",
+      "time": "🔴 TODAY · 10:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Diriyah vs Al-Fayha",
+      "time": "🔴 TODAY · 10:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al-Nassr vs Al-Shabab",
+      "time": "🔴 TODAY · 10:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al Faisaly vs Al-Khaleej",
+      "time": "🔴 TODAY · 10:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al-Kholood vs Al-Hilal",
+      "time": "🔴 TODAY · 10:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Neom SC vs Al-Taawoun",
+      "time": "🔴 TODAY · 10:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al-Ettifaq vs Al-Hazem",
+      "time": "🔴 TODAY · 10:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al Faisaly vs Diriyah",
+      "time": "🔴 TODAY · 11:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Beşiktaş JK vs Hapoel Be'er Sheva",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Pafos FC vs FC Midtjylland",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FK Kauno Žalgiris vs Riga FC",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "KF Egnatia vs Lincoln Red Imps",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Olympiacos FC vs AC Milan",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "GNK Dinamo Zagreb vs Bayer 04 Leverkusen",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "SK Brann vs AGF",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "AFC Ajax vs FC Thun",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Red Bull Salzburg vs FC Ararat-Armenia",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Brighton & Hove Albion vs Universitatea Craiova",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Royale Union Saint-Gilloise vs Lech Poznań",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FC Viktoria Plzeň vs Benfica",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FC Iberia 1999 vs Getafe",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FK Jablonec vs FC Lugano",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Olympique de Marseille vs Levski Sofia",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Heart of Midlothian vs AS Monaco",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Celta Vigo vs Bournemouth",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "OFI Crete vs RSC Anderlecht",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Juventus vs Omonia Nicosia",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FK Borac Banja Luka vs Atalanta",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Ferencváros TC vs NK Celje",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Torreense vs Celtic",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "HNK Hajduk Split vs Sint-Truidense VV",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FC Nordsjælland vs Panathinaikos FC",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "KAA Gent vs FK Crvena zvezda",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Crystal Palace vs Real Sociedad",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Sporting Braga vs Kuopion Palloseura",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "CSKA Sofia vs Trabzonspor",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Olympique Lyonnais vs Lillestrøm SK",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "AC Sparta Praha vs AZ Alkmaar",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "SC Freiburg vs FC Twente",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Inter Club d'Escaldes vs FC København",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Sunderland vs Jagiellonia Białystok",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Doncaster Rovers vs Huddersfield Town",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "TSG Hoffenheim vs SK Sturm Graz",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "NEC Nijmegen vs Stade Rennais",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Cricket",
@@ -1064,9 +1477,23 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "São Paulo vs Remo",
+      "time": "27/11/2026 · 04:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Cricket",
       "title": "Australia vs England",
       "time": "27/11/2026 · 01:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Macarthur FC vs Melbourne City",
+      "time": "27/11/2026 · 02:10 PM",
       "is_today": false,
       "streams": []
     },
