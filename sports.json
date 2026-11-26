@@ -1,5 +1,5 @@
 {
-  "last_updated": "26/11/2026, 07:56:18 PM",
+  "last_updated": "26/11/2026, 08:01:22 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 50,
   "matches": [
@@ -8,7 +8,15 @@
       "title": "OFI Crete vs RSC Anderlecht",
       "time": "🔴 TODAY · 01:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ldaubazqbc/out/v1/71a959b551d342a89613f362dfaca109/cenc.mpd",
+          "type": "MPD",
+          "key": "a1f2f5f9b9b7caf40763d6fe67dd3048:60ba52351ffc4c6b6ae3ee8966ddbe1c",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ldaubazqbc/out/v1/71a959b551d342a89613f362dfaca109/cenc.mpd?|drmScheme=clearkey&drmLicense=a1f2f5f9b9b7caf40763d6fe67dd3048:60ba52351ffc4c6b6ae3ee8966ddbe1c"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -60,6 +68,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5xc4hvmidl/out/v1/c4280d2204834ab89ea8061744b7557e/cenc.mpd",
+          "type": "MPD",
+          "key": "80a9d11d288ef6b19064ceca49f16705:2c54da5bd4447419b50d27d8a69ad72c",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5xc4hvmidl/out/v1/c4280d2204834ab89ea8061744b7557e/cenc.mpd?|drmScheme=clearkey&drmLicense=80a9d11d288ef6b19064ceca49f16705:2c54da5bd4447419b50d27d8a69ad72c"
+        },
+        {
           "name": "SD STREAM",
           "url": "http://193.47.62.50/hls/siiiA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
           "type": "M3U8",
@@ -73,7 +88,15 @@
       "title": "Ferencváros TC vs NK Celje",
       "time": "🔴 TODAY · 01:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s51xhb5ixx/out/v1/52f83b89e42640bba700c51db2cb65fe/cenc.mpd",
+          "type": "MPD",
+          "key": "2a13189e1cf415f4784d670ecf4c58e1:06e086f9e17f1150382a1ae106494807",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s51xhb5ixx/out/v1/52f83b89e42640bba700c51db2cb65fe/cenc.mpd?|drmScheme=clearkey&drmLicense=2a13189e1cf415f4784d670ecf4c58e1:06e086f9e17f1150382a1ae106494807"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -81,6 +104,13 @@
       "time": "🔴 TODAY · 01:30 AM",
       "is_today": true,
       "streams": [
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1r4rx5ln0v/out/v1/717557cc9ad24261ab77623a2158b0cf/cenc.mpd",
+          "type": "MPD",
+          "key": "6f55f0e920eb85f020a3c819f527145d:ca4c07a3962dca63b823733aaa7b7d69",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1r4rx5ln0v/out/v1/717557cc9ad24261ab77623a2158b0cf/cenc.mpd?|drmScheme=clearkey&drmLicense=6f55f0e920eb85f020a3c819f527145d:ca4c07a3962dca63b823733aaa7b7d69"
+        },
         {
           "name": "TNT SPORTS - AQ",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?",
@@ -117,6 +147,13 @@
       "time": "🔴 TODAY · 01:30 AM",
       "is_today": true,
       "streams": [
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nd1xuoz7ye/out/v1/b0eb56ea939c4889a2d173f513a396a6/cenc.mpd",
+          "type": "MPD",
+          "key": "462b272590fa75e396098595295d7156:e2c8e4aae17e74cfe3db31b5d7fef5ff",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nd1xuoz7ye/out/v1/b0eb56ea939c4889a2d173f513a396a6/cenc.mpd?|drmScheme=clearkey&drmLicense=462b272590fa75e396098595295d7156:e2c8e4aae17e74cfe3db31b5d7fef5ff"
+        },
         {
           "name": "TNT SPORTS - AQ",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
@@ -182,7 +219,15 @@
       "title": "Olympique Lyonnais vs Lillestrøm SK",
       "time": "🔴 TODAY · 01:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/umlbuet7s5/out/v1/578a78f7ce8148dc8f14e6f9c4c4257c/cenc.mpd",
+          "type": "MPD",
+          "key": "c2678fb72f3c7779d17492a9f7b0b138:04f68e9e61f1c8faa7fab0d9910dfea4",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/umlbuet7s5/out/v1/578a78f7ce8148dc8f14e6f9c4c4257c/cenc.mpd?|drmScheme=clearkey&drmLicense=c2678fb72f3c7779d17492a9f7b0b138:04f68e9e61f1c8faa7fab0d9910dfea4"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -190,6 +235,13 @@
       "time": "🔴 TODAY · 01:30 AM",
       "is_today": true,
       "streams": [
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l6sfgniifz/out/v1/df7f0a6ddae64fbdb93f255cbe9e8f82/cenc.mpd",
+          "type": "MPD",
+          "key": "6e3517446dc9fd6446d36331b91851ed:f8da9d831839e2cdf9a4fe1ce732fe33",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l6sfgniifz/out/v1/df7f0a6ddae64fbdb93f255cbe9e8f82/cenc.mpd?|drmScheme=clearkey&drmLicense=6e3517446dc9fd6446d36331b91851ed:f8da9d831839e2cdf9a4fe1ce732fe33"
+        },
         {
           "name": "Sport CZ - AQ",
           "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
@@ -205,6 +257,13 @@
       "time": "🔴 TODAY · 01:30 AM",
       "is_today": true,
       "streams": [
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rxeswgsoq3/out/v1/5819e6e83e5446f9b824c6a0d724c7ec/cenc.mpd",
+          "type": "MPD",
+          "key": "68624ac9b3773bf50172e715d7f82ff8:5c27cdaa83a530940953af8565215968",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rxeswgsoq3/out/v1/5819e6e83e5446f9b824c6a0d724c7ec/cenc.mpd?|drmScheme=clearkey&drmLicense=68624ac9b3773bf50172e715d7f82ff8:5c27cdaa83a530940953af8565215968"
+        },
         {
           "name": "Sky Top Event- AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -227,6 +286,13 @@
       "time": "🔴 TODAY · 01:30 AM",
       "is_today": true,
       "streams": [
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u6uztem2zs/out/v1/1f15c61912ac4ac7925c3252f819fc88/cenc.mpd",
+          "type": "MPD",
+          "key": "10107fd896801d15ce6fe2b8614db363:a3eb1603127ecc8dd95412eb970c9358",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u6uztem2zs/out/v1/1f15c61912ac4ac7925c3252f819fc88/cenc.mpd?|drmScheme=clearkey&drmLicense=10107fd896801d15ce6fe2b8614db363:a3eb1603127ecc8dd95412eb970c9358"
+        },
         {
           "name": "SD STREAM",
           "url": "http://193.47.62.59/hls/E999AAAAQA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
@@ -256,6 +322,13 @@
       "time": "🔴 TODAY · 01:30 AM",
       "is_today": true,
       "streams": [
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0pgdkyz9j9/out/v1/1a349982a13f4870aa88921e6255c2f7/cenc.mpd",
+          "type": "MPD",
+          "key": "62d56aa8af53be29c315c57069fd6794:266a09ad23af2779a03c93a47b067765",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0pgdkyz9j9/out/v1/1a349982a13f4870aa88921e6255c2f7/cenc.mpd?|drmScheme=clearkey&drmLicense=62d56aa8af53be29c315c57069fd6794:266a09ad23af2779a03c93a47b067765"
+        },
         {
           "name": "SD STREAM",
           "url": "http://193.47.62.41/hls/E999A.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
