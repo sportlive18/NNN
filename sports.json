@@ -1,7 +1,7 @@
 {
-  "last_updated": "26/11/2026, 08:45:08 AM",
+  "last_updated": "26/11/2026, 08:55:28 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 112,
+  "total": 116,
   "matches": [
     {
       "category": "Football",
@@ -1039,28 +1039,6 @@
       ]
     },
     {
-      "category": "American Football",
-      "title": "Los Angeles Rams vs Green Bay Packers",
-      "time": "🔴 TODAY · 06:30 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "TSN SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "type": "MPD",
-          "key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "name": "PlayZTV Live",
-          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61028\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61028\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
       "category": "Basketball",
       "title": "Houston Rockets vs Phoenix Suns",
       "time": "🔴 TODAY · 07:00 AM",
@@ -1639,6 +1617,13 @@
       "streams": []
     },
     {
+      "category": "American Football",
+      "title": "Detroit Lions vs Chicago Bears",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "OFI Crete vs RSC Anderlecht",
       "time": "27/11/2026 · 01:30 AM",
@@ -1772,6 +1757,20 @@
       "streams": []
     },
     {
+      "category": "American Football",
+      "title": "Alabama State Hornets vs Tuskegee Golden Tigers",
+      "time": "27/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Dallas Cowboys vs Philadelphia Eagles",
+      "time": "27/11/2026 · 03:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Cricket",
       "title": "New Zealand vs India",
       "time": "27/11/2026 · 03:30 AM",
@@ -1860,6 +1859,20 @@
       "category": "Football",
       "title": "São Paulo vs Remo",
       "time": "27/11/2026 · 04:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Texas Tech Red Raiders vs TCU Horned Frogs",
+      "time": "27/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "American Football",
+      "title": "Buffalo Bills vs Kansas City Chiefs",
+      "time": "27/11/2026 · 06:50 AM",
       "is_today": false,
       "streams": []
     },
