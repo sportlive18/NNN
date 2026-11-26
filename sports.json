@@ -1,5 +1,5 @@
 {
-  "last_updated": "26/11/2026, 08:27:47 AM",
+  "last_updated": "26/11/2026, 08:32:35 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 112,
   "matches": [
@@ -1381,7 +1381,15 @@
       "title": "Uzbekistan U17 vs Italy U17",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "D Sports ES - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "type": "MPD",
+          "key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd?|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
+        }
+      ]
     },
     {
       "category": "Football",
