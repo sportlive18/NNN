@@ -1,7 +1,7 @@
 {
-  "last_updated": "26/11/2026, 12:41:49 PM",
+  "last_updated": "26/11/2026, 12:47:30 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 83,
+  "total": 85,
   "matches": [
     {
       "category": "Wwe",
@@ -468,6 +468,13 @@
           "type": "MPD",
           "key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd?|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
+        },
+        {
+          "name": "HD STREAM ",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel12.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel12.m3u8"
         }
       ]
     },
@@ -475,6 +482,21 @@
       "category": "Football",
       "title": "Jamaica U17 vs Côte d'Ivoire U17",
       "time": "🔴 TODAY · 07:30 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "HD STREAM ",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel18.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel18.m3u8"
+        }
+      ]
+    },
+    {
+      "category": "Football",
+      "title": "Al-Fateh vs Al-Riyadh",
+      "time": "🔴 TODAY · 07:55 PM",
       "is_today": true,
       "streams": []
     },
@@ -568,6 +590,21 @@
       "category": "Football",
       "title": "China U17 vs Fiji U17",
       "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel17.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel17.m3u8"
+        }
+      ]
+    },
+    {
+      "category": "Football",
+      "title": "Abha vs Al-Shabab",
+      "time": "🔴 TODAY · 08:35 PM",
       "is_today": true,
       "streams": []
     },
