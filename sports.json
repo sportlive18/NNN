@@ -1,7 +1,7 @@
 {
-  "last_updated": "26/11/2026, 06:12:01 PM",
+  "last_updated": "26/11/2026, 06:17:21 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 83,
+  "total": 81,
   "matches": [
     {
       "category": "Wwe",
@@ -598,50 +598,6 @@
           "type": "MPD",
           "key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Tajikistan U17 vs Senegal U17",
-      "time": "🔴 TODAY · 09:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV LIVE",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.50/hls/GTGTGTAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.50/hls/GTGTGTAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Croatia U17 vs Cuba U17",
-      "time": "🔴 TODAY · 09:30 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "PlayZ TV LIVE",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.50/hls/GTGTGTA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.50/hls/GTGTGTA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
