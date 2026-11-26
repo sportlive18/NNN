@@ -1,5 +1,5 @@
 {
-  "last_updated": "26/11/2026, 02:17:32 AM",
+  "last_updated": "26/11/2026, 02:22:49 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 116,
   "matches": [
@@ -1007,7 +1007,29 @@
       "title": "Dallas Stars vs Nashville Predators",
       "time": "🔴 TODAY · 06:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61054\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61054\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://pl.playlist6.space/playlist/61054/simplefuturetower92/caxi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://pl.playlist6.space/playlist/61054/simplefuturetower92/caxi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3863407e-9f85-41e8-9ab7-b607c07fba97/master.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3863407e-9f85-41e8-9ab7-b607c07fba97/master.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "American Football",
@@ -1116,6 +1138,27 @@
           "type": "MPD",
           "key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61059\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61059\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://pl.playlist6.space/playlist/61059/simplefuturetower92/caxi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://pl.playlist6.space/playlist/61059/simplefuturetower92/caxi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7098182d-7c68-4332-b430-ab53c64a18d9/master.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7098182d-7c68-4332-b430-ab53c64a18d9/master.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -1124,21 +1167,73 @@
       "title": "Portland Trail Blazers vs San Antonio Spurs",
       "time": "🔴 TODAY · 08:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61064\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61064\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://pl.playlist6.space/playlist/61064/simplefuturetower92/caxi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://pl.playlist6.space/playlist/61064/simplefuturetower92/caxi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.59/hls/ECCCAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.59/hls/ECCCAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Basketball",
       "title": "Golden State Warriors vs Sacramento Kings",
       "time": "🔴 TODAY · 08:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.44/hls/HCCCAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.44/hls/HCCCAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Hockey",
       "title": "Anaheim Ducks vs San Jose Sharks",
       "time": "🔴 TODAY · 08:30 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PlayZTV Live",
+          "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61063\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61063\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://pl.playlist6.space/playlist/61063/simplefuturetower92/caxi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://pl.playlist6.space/playlist/61063/simplefuturetower92/caxi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34222ca4-1163-4c17-bb64-05df52466631/master.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34222ca4-1163-4c17-bb64-05df52466631/master.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Cricket",
