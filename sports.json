@@ -1,5 +1,5 @@
 {
-  "last_updated": "26/11/2026, 05:37:19 PM",
+  "last_updated": "26/11/2026, 05:42:01 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 82,
   "matches": [
@@ -687,21 +687,45 @@
       "title": "Pafos FC vs FC Midtjylland",
       "time": "🔴 TODAY · 11:15 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pyfcv7ruof/out/v1/a6ea7f29aa204b159e9c517ae78762e7/cenc.mpd",
+          "type": "MPD",
+          "key": "2a68df24ec78920e6aece0d131aeaf75:b91bf889803ea4ed78ae40286e9c34e8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pyfcv7ruof/out/v1/a6ea7f29aa204b159e9c517ae78762e7/cenc.mpd?|drmScheme=clearkey&drmLicense=2a68df24ec78920e6aece0d131aeaf75:b91bf889803ea4ed78ae40286e9c34e8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "FK Kauno Žalgiris vs Riga FC",
       "time": "🔴 TODAY · 11:15 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k1bwdg5kfu/out/v1/b7ac206b2fd246639d3217c94d0eed3e/cenc.mpd",
+          "type": "MPD",
+          "key": "ebae2f293e2e9fb2eb9ff014776597c2:148156a6fbb6fa0aa0b8c722938e27e5",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k1bwdg5kfu/out/v1/b7ac206b2fd246639d3217c94d0eed3e/cenc.mpd?|drmScheme=clearkey&drmLicense=ebae2f293e2e9fb2eb9ff014776597c2:148156a6fbb6fa0aa0b8c722938e27e5"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "KF Egnatia vs Lincoln Red Imps",
       "time": "🔴 TODAY · 11:15 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0keycyqndv/out/v1/d02098fcd05a4cb493d1ddfb43a7f740/cenc.mpd",
+          "type": "MPD",
+          "key": "814438d5703e3091ccaff67e2bdf9728:a6c682d526cbbf31cbbc337486502fb5",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0keycyqndv/out/v1/d02098fcd05a4cb493d1ddfb43a7f740/cenc.mpd?|drmScheme=clearkey&drmLicense=814438d5703e3091ccaff67e2bdf9728:a6c682d526cbbf31cbbc337486502fb5"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -709,6 +733,13 @@
       "time": "🔴 TODAY · 11:15 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7trjjhz4cw/out/v1/5ed589ba1a254e7ca2afbbd3c2918276/cenc.mpd",
+          "type": "MPD",
+          "key": "f6dc5990f9707bccc5b7d7fc44387ee1:0b0724f8d461d0198a93d95291f75b4d",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7trjjhz4cw/out/v1/5ed589ba1a254e7ca2afbbd3c2918276/cenc.mpd?|drmScheme=clearkey&drmLicense=f6dc5990f9707bccc5b7d7fc44387ee1:0b0724f8d461d0198a93d95291f75b4d"
+        },
         {
           "name": "TNT SPORTS - AQ",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
@@ -739,6 +770,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n0fwkjiiel/out/v1/d865d50ba8a744d0b399ebaf97ca4ec3/cenc.mpd",
+          "type": "MPD",
+          "key": "758c3eba3711c6a0600fc24f4aa039f7:f3c12947110b4b3c33e8e272a88a901b",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n0fwkjiiel/out/v1/d865d50ba8a744d0b399ebaf97ca4ec3/cenc.mpd?|drmScheme=clearkey&drmLicense=758c3eba3711c6a0600fc24f4aa039f7:f3c12947110b4b3c33e8e272a88a901b"
+        },
+        {
           "name": "Sky Top Event- AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "type": "MPD",
@@ -759,7 +797,15 @@
       "title": "SK Brann vs AGF",
       "time": "🔴 TODAY · 11:15 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6urbdoci3k/out/v1/a3c0af7f01ee43adb93a41b5b628270f/cenc.mpd",
+          "type": "MPD",
+          "key": "4b28f616e925e9978a13e3feb08e57c8:4f9c5372dcef094324f67e0fab2c2817",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6urbdoci3k/out/v1/a3c0af7f01ee43adb93a41b5b628270f/cenc.mpd?|drmScheme=clearkey&drmLicense=4b28f616e925e9978a13e3feb08e57c8:4f9c5372dcef094324f67e0fab2c2817"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -798,6 +844,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/df2fcpxsh6/out/v1/89d38bf488cb449483ffdeb27fc7cb9c/cenc.mpd",
+          "type": "MPD",
+          "key": "9aa0ec2310e086cbb8d9366778754d9b:7671f4366e1830f5cf813b3743487235",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/df2fcpxsh6/out/v1/89d38bf488cb449483ffdeb27fc7cb9c/cenc.mpd?|drmScheme=clearkey&drmLicense=9aa0ec2310e086cbb8d9366778754d9b:7671f4366e1830f5cf813b3743487235"
+        },
+        {
           "name": "TNT SPORTS - AQ",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
           "type": "MPD",
@@ -810,6 +863,13 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61078\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://chatgpt.hereisman.net/playlist/61078/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/61078/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -857,6 +917,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gcb5rbslm8/out/v1/70ac129125a04d14af8b1aec0e50f6af/cenc.mpd",
+          "type": "MPD",
+          "key": "7269ae64ddfc36229be992d244b4b3bc:9d61ba9d2b7042608c09e744632ef62d",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gcb5rbslm8/out/v1/70ac129125a04d14af8b1aec0e50f6af/cenc.mpd?|drmScheme=clearkey&drmLicense=7269ae64ddfc36229be992d244b4b3bc:9d61ba9d2b7042608c09e744632ef62d"
+        },
+        {
           "name": "PlayZTV Live",
           "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61081\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
           "type": "DIRECT",
@@ -871,6 +938,13 @@
       "time": "🔴 TODAY · 11:15 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tyokwdrj7a/out/v1/9488b7a0b29f403bafff86c870565607/cenc.mpd",
+          "type": "MPD",
+          "key": "d806c65296e8623f6fe26be9894b9a0a:fa30d6cd539ae5de6f3b2060e6bc6d84",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tyokwdrj7a/out/v1/9488b7a0b29f403bafff86c870565607/cenc.mpd?|drmScheme=clearkey&drmLicense=d806c65296e8623f6fe26be9894b9a0a:fa30d6cd539ae5de6f3b2060e6bc6d84"
+        },
         {
           "name": "Sport CZ - AQ",
           "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
@@ -901,6 +975,13 @@
       "time": "🔴 TODAY · 11:15 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sufpagg0uu/out/v1/5cfa9f5aed4f471f9e9b8589a8b93196/cenc.mpd",
+          "type": "MPD",
+          "key": "461105240d6a2df4477712a1dcbf28e4:f709771c09623dfe8cf09cfed3331037",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sufpagg0uu/out/v1/5cfa9f5aed4f471f9e9b8589a8b93196/cenc.mpd?|drmScheme=clearkey&drmLicense=461105240d6a2df4477712a1dcbf28e4:f709771c09623dfe8cf09cfed3331037"
+        },
         {
           "name": "TNT SPORTS - AQ",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?",
