@@ -1,5 +1,5 @@
 {
-  "last_updated": "26/11/2026, 12:21:59 PM",
+  "last_updated": "26/11/2026, 12:26:58 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 83,
   "matches": [
@@ -359,7 +359,29 @@
       "title": "BG Pathum United vs Lion City Sailors",
       "time": "🔴 TODAY · 05:45 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
+        },
+        {
+          "name": "FANCODE [IND]",
+          "url": "https://in-mc-vod.fancode.com/mumbai/4249027_english_hls_18036fa1e376406_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4249027_english_hls_18036fa1e376406_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/WAWAWAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/WAWAWAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -368,6 +390,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "TAPMAD - AQ",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
+        },
+        {
           "name": "SD STREAM",
           "url": "http://193.47.62.41/hls/WAWAWAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
           "type": "M3U8",
@@ -375,11 +404,11 @@
           "formatted_url": "http://193.47.62.41/hls/WAWAWAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         },
         {
-          "name": "SPORTDIGITAL FUSSBALL - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "type": "MPD",
-          "key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+          "name": "FANCODE [IND]",
+          "url": "https://in-mc-vod.fancode.com/mumbai/4249028_english_hls_0cb4703b5963817_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4249028_english_hls_0cb4703b5963817_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
         }
       ]
     },
@@ -388,7 +417,22 @@
       "title": "Preah Khan Reach Svay Rieng FC vs Machida Zelvia",
       "time": "🔴 TODAY · 05:45 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "FANCODE [IND]",
+          "url": "https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
+        },
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
