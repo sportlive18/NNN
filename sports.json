@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2026, 02:02:15 PM",
+  "last_updated": "27/11/2026, 02:07:18 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 106,
   "matches": [
@@ -722,6 +722,13 @@
       "time": "🔴 TODAY · 09:30 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "FOX SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "type": "MPD",
+          "key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
         {
           "name": "D Sports ES - AQ",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
