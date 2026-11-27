@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2026, 09:07:29 AM",
+  "last_updated": "27/11/2026, 09:11:35 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 64,
   "matches": [
@@ -254,10 +254,17 @@
         },
         {
           "name": "SD STREAM",
-          "url": "http://193.47.62.44/hls/ziii.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "url": "http://193.47.62.41/hls/FRFRFRV.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "http://193.47.62.44/hls/ziii.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+          "formatted_url": "http://193.47.62.41/hls/FRFRFRV.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "FANCODE [IND]",
+          "url": "https://in-mc-vod.fancode.com/mumbai/139987_english_hls_d24b6feeea4926_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/139987_english_hls_d24b6feeea4926_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
         }
       ]
     },
