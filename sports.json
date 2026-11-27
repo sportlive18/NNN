@@ -1,7 +1,7 @@
 {
-  "last_updated": "27/11/2026, 02:17:25 PM",
+  "last_updated": "27/11/2026, 02:22:50 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 106,
+  "total": 105,
   "matches": [
     {
       "category": "American Football",
@@ -236,28 +236,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Al-Kholood vs Al-Khaleej",
-      "time": "🔴 TODAY · 05:45 PM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "HD STREAM ",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel6.m3u8u",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel6.m3u8u"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.55/hls/DEDEDEAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.55/hls/DEDEDEAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
