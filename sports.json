@@ -1,7 +1,7 @@
 {
-  "last_updated": "27/11/2026, 11:56:40 AM",
+  "last_updated": "27/11/2026, 12:01:39 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 70,
+  "total": 65,
   "matches": [
     {
       "category": "American Football",
@@ -332,13 +332,6 @@
           "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
         }
       ]
-    },
-    {
-      "category": "Rugby",
-      "title": "Ireland 7s vs Belgium 7's",
-      "time": "🔴 TODAY · 04:30 PM",
-      "is_today": true,
-      "streams": []
     },
     {
       "category": "Football",
@@ -702,13 +695,6 @@
       "streams": []
     },
     {
-      "category": "Rugby",
-      "title": "Ireland vs Australia",
-      "time": "28/11/2026 · 01:40 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
       "category": "Cricket",
       "title": "New Zealand vs India",
       "time": "28/11/2026 · 03:30 AM",
@@ -850,20 +836,6 @@
       "streams": []
     },
     {
-      "category": "Rugby",
-      "title": "Ireland 7s vs Germany 7's",
-      "time": "28/11/2026 · 03:50 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Rugby",
-      "title": "Chameleons vs Scotty's Rugby Team",
-      "time": "28/11/2026 · 04:10 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
       "category": "Football",
       "title": "Hertha BSC vs Karlsruher SC",
       "time": "28/11/2026 · 05:30 PM",
@@ -895,13 +867,6 @@
       "category": "Football",
       "title": "Real Betis vs Rayo Vallecano",
       "time": "28/11/2026 · 06:30 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Rugby",
-      "title": "Wales vs Japan",
-      "time": "28/11/2026 · 06:40 PM",
       "is_today": false,
       "streams": []
     },
