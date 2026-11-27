@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2026, 05:37:42 PM",
+  "last_updated": "27/11/2026, 05:42:30 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 107,
   "matches": [
@@ -773,11 +773,18 @@
       "is_today": true,
       "streams": [
         {
-          "name": "PRIME VIDEO - AQ",
+          "name": "RUGBYPASS TV AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
           "type": "MPD",
           "key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd?|drmScheme=clearkey&drmLicense=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+        },
+        {
+          "name": "STARZPLAY RUGBY AQ ",
+          "url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
+          "type": "MPD",
+          "key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21",
+          "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd?|drmScheme=clearkey&drmLicense=8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
         },
         {
           "name": "SD STREAM",
@@ -953,6 +960,13 @@
           "type": "MPD",
           "key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "name": "Sport CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "type": "MPD",
+          "key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "formatted_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ]
     },
@@ -961,7 +975,22 @@
       "title": "Stade Brestois vs Paris FC",
       "time": "28/11/2026 · 01:15 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "beIN SPORTS - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "name": "beIN SPANISH - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -983,7 +1012,15 @@
       "title": "Levante UD vs Real Racing Club",
       "time": "28/11/2026 · 01:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "PREMIER SPORTS - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "type": "MPD",
+          "key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ]
     },
     {
       "category": "American Football",
@@ -1012,7 +1049,22 @@
       "title": "Ireland vs Australia",
       "time": "28/11/2026 · 01:40 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "RUGBYPASS TV AQ ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+          "type": "MPD",
+          "key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd?|drmScheme=clearkey&drmLicense=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+        },
+        {
+          "name": "STARZPLAY RUGBY AQ ",
+          "url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
+          "type": "MPD",
+          "key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21",
+          "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd?|drmScheme=clearkey&drmLicense=8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
+        }
+      ]
     },
     {
       "category": "Hockey",
@@ -1286,7 +1338,22 @@
       "title": "Wales vs Japan",
       "time": "28/11/2026 · 06:40 PM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "RUGBYPASS TV AQ ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+          "type": "MPD",
+          "key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd?|drmScheme=clearkey&drmLicense=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+        },
+        {
+          "name": "STARZPLAY RUGBY AQ ",
+          "url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
+          "type": "MPD",
+          "key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21",
+          "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd?|drmScheme=clearkey&drmLicense=8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -1349,7 +1416,22 @@
       "title": "England vs New Zealand",
       "time": "28/11/2026 · 10:10 PM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "RUGBYPASS TV AQ ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+          "type": "MPD",
+          "key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd?|drmScheme=clearkey&drmLicense=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+        },
+        {
+          "name": "STARZPLAY RUGBY AQ ",
+          "url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
+          "type": "MPD",
+          "key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21",
+          "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd?|drmScheme=clearkey&drmLicense=8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -1640,14 +1722,44 @@
       "title": "Scotland vs Argentina",
       "time": "29/11/2026 · 06:40 PM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "RUGBYPASS TV AQ ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+          "type": "MPD",
+          "key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd?|drmScheme=clearkey&drmLicense=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+        },
+        {
+          "name": "STARZPLAY RUGBY AQ ",
+          "url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
+          "type": "MPD",
+          "key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21",
+          "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd?|drmScheme=clearkey&drmLicense=8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
+        }
+      ]
     },
     {
       "category": "Rugby",
       "title": "South Africa vs France",
       "time": "29/11/2026 · 10:10 PM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "RUGBYPASS TV AQ ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+          "type": "MPD",
+          "key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd?|drmScheme=clearkey&drmLicense=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+        },
+        {
+          "name": "STARZPLAY RUGBY AQ ",
+          "url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
+          "type": "MPD",
+          "key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21",
+          "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd?|drmScheme=clearkey&drmLicense=8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
+        }
+      ]
     },
     {
       "category": "Wwe",
