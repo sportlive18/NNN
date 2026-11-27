@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2026, 12:11:47 PM",
+  "last_updated": "27/11/2026, 12:16:24 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 65,
   "matches": [
@@ -488,14 +488,30 @@
       "title": "Costa Rica U17 vs Brazil U17",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel18.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel18.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Ireland U17 vs Tanzania U17",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel4.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel4.m3u8"
+        }
+      ]
     },
     {
       "category": "Cricket",
@@ -595,28 +611,60 @@
       "title": "Montenegro U17 vs Chile U17",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Algeria U17 vs Dominican Republic U17",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel8.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel8.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Romania U17 vs Cameroon U17",
       "time": "🔴 TODAY · 09:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD stream",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Venezuela U17 vs Mexico U17",
       "time": "🔴 TODAY · 09:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "HD STREAM",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live3979.zundrixmediapipeline.com/live/channel24.m3u8"
+        }
+      ]
     },
     {
       "category": "Rugby",
