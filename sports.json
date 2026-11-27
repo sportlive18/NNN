@@ -1,7 +1,7 @@
 {
-  "last_updated": "27/11/2026, 01:36:26 PM",
+  "last_updated": "27/11/2026, 01:42:31 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 63,
+  "total": 103,
   "matches": [
     {
       "category": "American Football",
@@ -535,6 +535,28 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "Al-Qadsiah vs Al-Fayha",
+      "time": "🔴 TODAY · 07:50 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "FOX DEPORTES AQ ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "type": "MPD",
+          "key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.44/hls/TDDDAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.44/hls/TDDDAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
       "category": "Cricket",
       "title": "ILT T20 vs ILT T20",
       "time": "🔴 TODAY · 08:00 PM",
@@ -730,6 +752,20 @@
       "streams": []
     },
     {
+      "category": "Hockey",
+      "title": "Boston Bruins vs Toronto Maple Leafs",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "St. Louis Blues vs Dallas Stars",
+      "time": "28/11/2026 · 12:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "Leganés vs CE Sabadell",
       "time": "28/11/2026 · 01:00 AM",
@@ -772,9 +808,23 @@
       "streams": []
     },
     {
+      "category": "American Football",
+      "title": "Pittsburgh Steelers vs Denver Broncos",
+      "time": "28/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Rugby",
       "title": "Ireland vs Australia",
       "time": "28/11/2026 · 01:40 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Minnesota Wild vs Colorado Avalanche",
+      "time": "28/11/2026 · 02:30 AM",
       "is_today": false,
       "streams": []
     },
@@ -892,9 +942,86 @@
       ]
     },
     {
+      "category": "Basketball",
+      "title": "New York Knicks vs Miami Heat",
+      "time": "28/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Indiana Pacers vs Philadelphia 76ers",
+      "time": "28/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Toronto Raptors vs Brooklyn Nets",
+      "time": "28/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Detroit Pistons vs Milwaukee Bucks",
+      "time": "28/11/2026 · 06:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "Columbus Crew vs Inter Miami CF",
       "time": "28/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Boston Celtics vs Atlanta Hawks",
+      "time": "28/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Minnesota Timberwolves vs Memphis Grizzlies",
+      "time": "28/11/2026 · 07:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Phoenix Suns vs Dallas Mavericks",
+      "time": "28/11/2026 · 07:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "San Antonio Spurs vs Los Angeles Lakers",
+      "time": "28/11/2026 · 08:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Portland Trail Blazers vs Golden State Warriors",
+      "time": "28/11/2026 · 08:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Los Angeles Clippers vs New Orleans Pelicans",
+      "time": "28/11/2026 · 08:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Utah Jazz vs Denver Nuggets",
+      "time": "28/11/2026 · 08:00 AM",
       "is_today": false,
       "streams": []
     },
@@ -955,6 +1082,13 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "UD Las Palmas vs FC Andorra",
+      "time": "28/11/2026 · 06:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Rugby",
       "title": "Wales vs Japan",
       "time": "28/11/2026 · 06:40 PM",
@@ -962,9 +1096,79 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "Frosinone vs Parma",
+      "time": "28/11/2026 · 07:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Leeds United vs Coventry City",
+      "time": "28/11/2026 · 08:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Manchester United vs Brentford",
+      "time": "28/11/2026 · 08:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Albacete Balompié vs CD Tenerife",
+      "time": "28/11/2026 · 08:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Málaga CF vs Athletic Club",
+      "time": "28/11/2026 · 08:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Angers vs RC Lens",
+      "time": "28/11/2026 · 09:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Angers vs RC Lens",
+      "time": "28/11/2026 · 09:45 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Rugby",
       "title": "England vs New Zealand",
       "time": "28/11/2026 · 10:10 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Torino vs Lazio",
+      "time": "28/11/2026 · 10:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Ipswich Town vs Aston Villa",
+      "time": "28/11/2026 · 11:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Eibar vs Burgos Club de Fútbol",
+      "time": "28/11/2026 · 11:00 PM",
       "is_today": false,
       "streams": []
     },
@@ -989,6 +1193,69 @@
           "formatted_url": "https://messi.damitv.st/live-hls/channel/glory-109-kwasi-vs-hristov/playlist.m3u8?tk=Pkfz3CcWMDj2toNp_PYIGg&e=1788672638|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Inter vs Genoa",
+      "time": "29/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Paris Saint-Germain vs Lorient",
+      "time": "29/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Le Mans vs LOSC Lille",
+      "time": "29/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "OGC Nice vs Troyes",
+      "time": "29/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Paris Saint-Germain vs Lorient",
+      "time": "29/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Le Mans vs LOSC Lille",
+      "time": "29/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "OGC Nice vs Troyes",
+      "time": "29/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Le Havre vs RC Strasbourg",
+      "time": "29/11/2026 · 01:15 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Real Madrid vs Deportivo Alavés",
+      "time": "29/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Boxing",
@@ -1125,6 +1392,34 @@
           "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4250645_english_hls_388d64605956269_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Udinese vs Fiorentina",
+      "time": "29/11/2026 · 05:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Everton vs Liverpool FC",
+      "time": "29/11/2026 · 05:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Valencia vs Osasuna",
+      "time": "29/11/2026 · 06:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Granada vs AD Ceuta",
+      "time": "29/11/2026 · 06:30 PM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Rugby",
