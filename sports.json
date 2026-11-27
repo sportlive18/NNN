@@ -1,7 +1,7 @@
 {
-  "last_updated": "27/11/2026, 05:07:26 PM",
+  "last_updated": "27/11/2026, 05:12:41 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 106,
+  "total": 107,
   "matches": [
     {
       "category": "American Football",
@@ -1148,6 +1148,13 @@
       "category": "Cricket",
       "title": "Sydney Thunder Women vs Sydney Sixers Women",
       "time": "28/11/2026 · 01:40 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Central Coast Mariners vs Auckland FC",
+      "time": "28/11/2026 · 02:10 PM",
       "is_today": false,
       "streams": []
     },
