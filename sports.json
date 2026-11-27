@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2026, 08:07:00 AM",
+  "last_updated": "27/11/2026, 08:12:13 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 67,
   "matches": [
@@ -119,6 +119,13 @@
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t6yncydpeh/out/v1/769e083013ea4147b7d5a0ca8e1669c1/cenc.mpd?|drmScheme=clearkey&drmLicense=5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73"
         },
         {
+          "name": "AUSTRALIA TV - AQ",
+          "url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2VWJmyhJkUhTKsnZxVfS461SzFk36ooDMQvb6WPDD3hAckbcAbQrCVKDf8fw6p9JRNSQ4AhMDk5q/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=333FC2FEA484",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2VWJmyhJkUhTKsnZxVfS461SzFk36ooDMQvb6WPDD3hAckbcAbQrCVKDf8fw6p9JRNSQ4AhMDk5q/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=333FC2FEA484"
+        },
+        {
           "name": "TNT SPORTS - AQ",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "type": "MPD",
@@ -147,6 +154,13 @@
           "formatted_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/t6yncydpeh/out/v1/769e083013ea4147b7d5a0ca8e1669c1/cenc.mpd?|drmScheme=clearkey&drmLicense=5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73"
         },
         {
+          "name": "TAPMAD - AQ",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+        },
+        {
           "name": "TEN SPORTS HD",
           "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
           "type": "M3U8",
@@ -161,11 +175,11 @@
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
         },
         {
-          "name": "TAPMAD HD",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "name": "FANCODE [IND]",
+          "url": "https://in-mc-vod.fancode.com/mumbai/4250645_english_hls_388d64605956269_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4250645_english_hls_388d64605956269_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
         }
       ]
     },
@@ -181,6 +195,20 @@
           "type": "MPD",
           "key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd??|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "name": "SPORTDIGITAL FUSSBALL AQ ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "type": "MPD",
+          "key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "name": "SPOTV AQ ",
+          "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
+          "type": "MPD",
+          "key": "ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e",
+          "formatted_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd?|drmScheme=clearkey&drmLicense=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e"
         }
       ]
     },
@@ -220,10 +248,10 @@
         },
         {
           "name": "AUVIO SPORTS - AQ ",
-          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/7bce0a89.isml/.mpd?t=2026-11-22T12:25:00.000",
+          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/8dc11abc.isml/.mpd?t=2026-11-27T07:52:00.000",
           "type": "MPD",
-          "key": "39839f877ebd43a3bb632dc59ef43c2c:adcd92723bd828ec3ecee9476e5e3849",
-          "formatted_url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/7bce0a89.isml/.mpd?t=2026-11-22T12:25:00.000?|drmScheme=clearkey&drmLicense=39839f877ebd43a3bb632dc59ef43c2c:adcd92723bd828ec3ecee9476e5e3849"
+          "key": "e5cd31b4fefc41339a0cc7ce38efe365:3fa354cde4b3a320250387caacebc13e",
+          "formatted_url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/8dc11abc.isml/.mpd?t=2026-11-27T07:52:00.000?|drmScheme=clearkey&drmLicense=e5cd31b4fefc41339a0cc7ce38efe365:3fa354cde4b3a320250387caacebc13e"
         },
         {
           "name": "SD STREAM",
