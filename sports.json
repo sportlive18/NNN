@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2026, 09:21:59 PM",
+  "last_updated": "27/11/2026, 09:27:39 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 97,
   "matches": [
@@ -44,21 +44,6 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https://chatgpt.hereisman.net/playlist/61151/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Leganés vs CE Sabadell",
-      "time": "🔴 TODAY · 01:00 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "LALIGA HYPEMOTION ES - AQ ",
-          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "type": "MPD",
-          "key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-          "formatted_url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
         }
       ]
     },
@@ -577,6 +562,20 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61177\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "HD STREAM",
+          "url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/454c6aac-0dcf-44b4-8af0-ee8cdf4a1a09/master.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/454c6aac-0dcf-44b4-8af0-ee8cdf4a1a09/master.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://chatgpt.hereisman.net/playlist/61177/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/61177/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -592,6 +591,13 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61180\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/339ac52a-dcc8-4987-b79f-331cc1a73de4/master.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/339ac52a-dcc8-4987-b79f-331cc1a73de4/master.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -607,6 +613,20 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61178\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a83c1e9d-6558-434f-bed1-f4b2b0589499/master.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a83c1e9d-6558-434f-bed1-f4b2b0589499/master.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://chatgpt.hereisman.net/playlist/61178/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/61178/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -658,6 +678,28 @@
           "type": "MPD",
           "key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        }
+      ]
+    },
+    {
+      "category": "Football",
+      "title": "Fluminense vs Cruzeiro",
+      "time": "🔴 TODAY · 04:30 AM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "PREMIERE BR - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "type": "MPD",
+          "key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+        },
+        {
+          "name": "SportDigital Fussball",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "type": "MPD",
+          "key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
         }
       ]
     },
