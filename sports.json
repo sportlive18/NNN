@@ -1,7 +1,7 @@
 {
-  "last_updated": "27/11/2026, 09:11:35 AM",
+  "last_updated": "27/11/2026, 09:17:21 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 64,
+  "total": 66,
   "matches": [
     {
       "category": "American Football",
@@ -80,6 +80,21 @@
           "type": "MPD",
           "key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        }
+      ]
+    },
+    {
+      "category": "Rugby",
+      "title": "Italy vs Chili",
+      "time": "🔴 TODAY · 01:30 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "RUGBYPASS TV AQ ",
+          "url": "https://dice-live-eu.akamaized.net/hdntl=exp=1795851329~acl=*dash%2flive%2f2001533%2f321898-340023%2f*!*dash%2flive%2f2001533-b%2f321898-340023-b%2f*~id=9b6d1c81-1430-4a46-8681-897e1e2e6484~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMTkuNzMuNy4xOTImZXhwPTE3OTU4NTEzNTkmZWlkPTMyMTg5OCZjaWQ9ZGNlLndvcmxkcnVnYnkmb2lkPTM3OCZ0eXBlPUxJVkUmZGFwPTA~hmac=7e3925fb45c6313b427a46091ec73832c4e4bdbb9e8601153c0f3dcbfa774bd9/dash/live/2001533/321898-340023/manifest-d.mpd",
+          "type": "MPD",
+          "key": "f2cce52de61b45169ea9221315ff49a3:5c24503f0e2a4559bcd54b41be962071",
+          "formatted_url": "https://dice-live-eu.akamaized.net/hdntl=exp=1795851329~acl=*dash%2flive%2f2001533%2f321898-340023%2f*!*dash%2flive%2f2001533-b%2f321898-340023-b%2f*~id=9b6d1c81-1430-4a46-8681-897e1e2e6484~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMTkuNzMuNy4xOTImZXhwPTE3OTU4NTEzNTkmZWlkPTMyMTg5OCZjaWQ9ZGNlLndvcmxkcnVnYnkmb2lkPTM3OCZ0eXBlPUxJVkUmZGFwPTA~hmac=7e3925fb45c6313b427a46091ec73832c4e4bdbb9e8601153c0f3dcbfa774bd9/dash/live/2001533/321898-340023/manifest-d.mpd?|drmScheme=clearkey&drmLicense=f2cce52de61b45169ea9221315ff49a3:5c24503f0e2a4559bcd54b41be962071"
         }
       ]
     },
@@ -346,6 +361,13 @@
           "formatted_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
         }
       ]
+    },
+    {
+      "category": "Rugby",
+      "title": "Ireland 7s vs Belgium 7's",
+      "time": "🔴 TODAY · 04:30 PM",
+      "is_today": true,
+      "streams": []
     },
     {
       "category": "Football",
