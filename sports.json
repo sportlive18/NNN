@@ -1,7 +1,7 @@
 {
-  "last_updated": "27/11/2026, 08:27:21 PM",
+  "last_updated": "27/11/2026, 08:32:03 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 109,
+  "total": 96,
   "matches": [
     {
       "category": "Darts",
@@ -648,7 +648,15 @@
       "title": "Toronto Raptors vs Brooklyn Nets",
       "time": "🔴 TODAY · 06:00 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "TSN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "type": "MPD",
+          "key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        }
+      ]
     },
     {
       "category": "Basketball",
@@ -662,7 +670,15 @@
       "title": "New York Islanders vs Winnipeg Jets",
       "time": "🔴 TODAY · 06:00 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "TSN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "type": "MPD",
+          "key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd?|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -1182,13 +1198,6 @@
       "streams": []
     },
     {
-      "category": "Hockey",
-      "title": "Vegas Golden Knights vs Montréal Canadiens",
-      "time": "29/11/2026 · 02:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
       "category": "Boxing",
       "title": "KABAYEL vs HYSA",
       "time": "29/11/2026 · 03:30 AM",
@@ -1218,62 +1227,6 @@
       ]
     },
     {
-      "category": "Hockey",
-      "title": "Florida Panthers vs Tampa Bay Lightning",
-      "time": "29/11/2026 · 04:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "New York Rangers vs Calgary Flames",
-      "time": "29/11/2026 · 05:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "New Jersey Devils vs Winnipeg Jets",
-      "time": "29/11/2026 · 05:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Carolina Hurricanes vs Ottawa Senators",
-      "time": "29/11/2026 · 05:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "St. Louis Blues vs Washington Capitals",
-      "time": "29/11/2026 · 05:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Detroit Red Wings vs Nashville Predators",
-      "time": "29/11/2026 · 05:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Pittsburgh Penguins vs Toronto Maple Leafs",
-      "time": "29/11/2026 · 05:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Philadelphia Flyers vs New York Islanders",
-      "time": "29/11/2026 · 06:00 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
       "category": "Mixed Martial Arts",
       "title": "Henry Cejudo  vs Song Yadong",
       "time": "29/11/2026 · 06:30 AM",
@@ -1301,34 +1254,6 @@
           "formatted_url": "http://193.47.62.55/hls/EJJJAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
-    },
-    {
-      "category": "Hockey",
-      "title": "Dallas Stars vs Utah Mammoth",
-      "time": "29/11/2026 · 06:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Colorado Avalanche vs San Jose Sharks",
-      "time": "29/11/2026 · 07:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Los Angeles Kings vs Anaheim Ducks",
-      "time": "29/11/2026 · 07:30 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Hockey",
-      "title": "Seattle Kraken vs Edmonton Oilers",
-      "time": "29/11/2026 · 08:30 AM",
-      "is_today": false,
-      "streams": []
     },
     {
       "category": "Cricket",
