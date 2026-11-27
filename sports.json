@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2026, 06:22:16 PM",
+  "last_updated": "27/11/2026, 06:27:20 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 108,
   "matches": [
@@ -1345,7 +1345,22 @@
       "title": "Wales vs Japan",
       "time": "28/11/2026 · 06:40 PM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "RUGBYPASS TV AQ ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+          "type": "MPD",
+          "key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd?|drmScheme=clearkey&drmLicense=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+        },
+        {
+          "name": "STARZPLAY RUGBY AQ ",
+          "url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
+          "type": "MPD",
+          "key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21",
+          "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd?|drmScheme=clearkey&drmLicense=8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
+        }
+      ]
     },
     {
       "category": "Football",
