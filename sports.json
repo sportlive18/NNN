@@ -1,7 +1,7 @@
 {
-  "last_updated": "27/11/2026, 01:31:35 PM",
+  "last_updated": "27/11/2026, 01:36:26 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 62,
+  "total": 63,
   "matches": [
     {
       "category": "American Football",
@@ -452,6 +452,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://fastly.live.brightcove.com/1870589077269940904/ap-northeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoidTBzYTJxLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NzA1ODkwNzcyNjk5NDA5MDQifQ.lXj1GmSg6qP5Vr089nM3lEvwAspkJUicfhIX0htOsRk/playlist-hls.m3u8"
+        },
+        {
+          "name": "BEIN SPORTS AQ ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
         }
       ]
     },
@@ -519,6 +526,13 @@
           "formatted_url": "http://193.47.62.44/hls/TDDDAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Inter Kashi FC vs Churchill Brothers SC",
+      "time": "🔴 TODAY · 07:30 PM",
+      "is_today": true,
+      "streams": []
     },
     {
       "category": "Cricket",
