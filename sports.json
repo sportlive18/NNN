@@ -1,7 +1,7 @@
 {
-  "last_updated": "27/11/2026, 08:32:03 PM",
+  "last_updated": "27/11/2026, 08:37:10 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 96,
+  "total": 97,
   "matches": [
     {
       "category": "Darts",
@@ -627,7 +627,15 @@
       "title": "Chicago Blackhawks vs New York Rangers",
       "time": "🔴 TODAY · 04:00 AM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "Sky Top Event- AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        }
+      ]
     },
     {
       "category": "Basketball",
@@ -1223,6 +1231,28 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.41/hls/HLLLAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "category": "Basketball",
+      "title": "Washington Wizards vs Orlando Magic",
+      "time": "29/11/2026 · 03:30 AM",
+      "is_today": false,
+      "streams": [
+        {
+          "name": "Sky Top Event- AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "name": "Sky Top Event- AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
         }
       ]
     },
