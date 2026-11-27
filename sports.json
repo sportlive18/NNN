@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2026, 02:27:43 PM",
+  "last_updated": "27/11/2026, 02:32:59 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 105,
   "matches": [
@@ -546,6 +546,27 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.44/hls/TDDDAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+        },
+        {
+          "name": "TAPMAD - AQ",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+        },
+        {
+          "name": "FANCODE [IND]",
+          "url": "https://in-mc-vod.fancode.com/mumbai/4250969_english_hls_b5ac3c348099958_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4250969_english_hls_b5ac3c348099958_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
         }
       ]
     },
@@ -557,10 +578,10 @@
       "streams": [
         {
           "name": "WILLOW - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkhxmu8uyd/out/v1/55d2a00aa7234f7aa9910b17ff528780/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/syx49vqdrr/out/v1/909eab72dfa945a08debe81846c5b78f/cenc.mpd",
           "type": "MPD",
-          "key": "d36396587a3e395dd49822bfb8876a30:85bfdc16276e3c741b94203dc14cf744",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkhxmu8uyd/out/v1/55d2a00aa7234f7aa9910b17ff528780/cenc.mpd?|drmScheme=clearkey&drmLicense=d36396587a3e395dd49822bfb8876a30:85bfdc16276e3c741b94203dc14cf744"
+          "key": "76c58ac4712177bfd921342e3ff02a5e:343e96a54fc9a8649ab4448993ebad54",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/syx49vqdrr/out/v1/909eab72dfa945a08debe81846c5b78f/cenc.mpd?|drmScheme=clearkey&drmLicense=76c58ac4712177bfd921342e3ff02a5e:343e96a54fc9a8649ab4448993ebad54"
         },
         {
           "name": "FANCODE - AQ",
@@ -823,7 +844,15 @@
       "title": "Venezia vs Bologna",
       "time": "28/11/2026 · 01:15 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "beIN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "type": "MPD",
+          "key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+      ]
     },
     {
       "category": "Football",
