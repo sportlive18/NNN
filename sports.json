@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2026, 04:57:42 PM",
+  "last_updated": "27/11/2026, 05:02:19 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 106,
   "matches": [
@@ -909,15 +909,7 @@
       "title": "Southampton vs Middlesbrough",
       "time": "28/11/2026 · 01:30 AM",
       "is_today": false,
-      "streams": [
-        {
-          "name": "beIN SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "type": "MPD",
-          "key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Rugby",
@@ -938,113 +930,7 @@
       "title": "New Zealand vs India",
       "time": "28/11/2026 · 03:30 AM",
       "is_today": false,
-      "streams": [
-        {
-          "name": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd",
-          "type": "MPD",
-          "key": "bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd?|drmScheme=clearkey&drmLicense=bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171"
-        },
-        {
-          "name": "PRIME ENGLISH ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sywaeenri3/out/v1/eefaa601dab34fefa7a8aedbb621d03d/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
-          "type": "MPD",
-          "key": "eda434d8c9bb747f728aa0c08f93421b:b8566e37aee2e9e527ce9b0e903212a6",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sywaeenri3/out/v1/eefaa601dab34fefa7a8aedbb621d03d/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com?|drmScheme=clearkey&drmLicense=eda434d8c9bb747f728aa0c08f93421b:b8566e37aee2e9e527ce9b0e903212a6"
-        },
-        {
-          "name": "TNT SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "name": "PRIME HINDI",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrqpeoa7vf/out/v1/16c2a2e928e84263861245a9c5eece30/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
-          "type": "MPD",
-          "key": "ad6498aabb85ee0ca2e9b2f0f7a1a255:008408e2bc9f263a167db636929cef73",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrqpeoa7vf/out/v1/16c2a2e928e84263861245a9c5eece30/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com?|drmScheme=clearkey&drmLicense=ad6498aabb85ee0ca2e9b2f0f7a1a255:008408e2bc9f263a167db636929cef73"
-        },
-        {
-          "name": "PRIME TAMIL",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wzglv1xtre/out/v1/ce2b69c89f5547729c95f142ff4d4549/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
-          "type": "MPD",
-          "key": "71b1d275abf3a4b49807553810668ec6:c9a1357ede9b3d056719701d4edde85d",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wzglv1xtre/out/v1/ce2b69c89f5547729c95f142ff4d4549/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com?|drmScheme=clearkey&drmLicense=71b1d275abf3a4b49807553810668ec6:c9a1357ede9b3d056719701d4edde85d"
-        },
-        {
-          "name": "PRIME TELUGU ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hs1zdb5qph/out/v1/7d427476a3c3407ca1e2289167c25878/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
-          "type": "MPD",
-          "key": "b8484b0389ec5e0b3e420c4a88e269d7:6f513ab5b3f9c94d58e4efffb62a336c",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hs1zdb5qph/out/v1/7d427476a3c3407ca1e2289167c25878/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com?|drmScheme=clearkey&drmLicense=b8484b0389ec5e0b3e420c4a88e269d7:6f513ab5b3f9c94d58e4efffb62a336c"
-        },
-        {
-          "name": "PRIME KANNADA ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdtioq1iow/out/v1/65d8542872a945e786485e67534bcc81/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
-          "type": "MPD",
-          "key": "0d41bd6337d00cefb841c36f8c66292e:3d3a364cd7d670f07dc1a046705dac0e",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdtioq1iow/out/v1/65d8542872a945e786485e67534bcc81/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com?|drmScheme=clearkey&drmLicense=0d41bd6337d00cefb841c36f8c66292e:3d3a364cd7d670f07dc1a046705dac0e"
-        },
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8|referer=https://tapmad.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8|referer=https://tapmad.com/"
-        },
-        {
-          "name": "WILLOW S2 - AQ",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd",
-          "type": "MPD",
-          "key": "bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171",
-          "formatted_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd?|drmScheme=clearkey&drmLicense=bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171"
-        },
-        {
-          "name": "TEN SPORTS HD",
-          "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live.msnetworks.net/ten-sports/master.m3u8"
-        },
-        {
-          "name": "SONYLIV ENG - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05"
-        },
-        {
-          "name": "SONYLIV HIN - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05"
-        },
-        {
-          "name": "SONYLIV TAM - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05"
-        },
-        {
-          "name": "SONYLIV TEL - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05"
-        },
-        {
-          "name": "SONYLIV KAN - AQ",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Basketball",
