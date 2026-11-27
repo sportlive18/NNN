@@ -1,7 +1,7 @@
 {
-  "last_updated": "27/11/2026, 01:47:26 PM",
+  "last_updated": "27/11/2026, 01:52:22 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 103,
+  "total": 106,
   "matches": [
     {
       "category": "American Football",
@@ -1119,6 +1119,13 @@
     },
     {
       "category": "Football",
+      "title": "1. FSV Mainz 05 vs 1. FC Union Berlin",
+      "time": "28/11/2026 · 08:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Leeds United vs Coventry City",
       "time": "28/11/2026 · 08:30 PM",
       "is_today": false,
@@ -1419,6 +1426,20 @@
       "category": "Football",
       "title": "Everton vs Liverpool FC",
       "time": "29/11/2026 · 05:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Eintracht Braunschweig vs VfL Wolfsburg",
+      "time": "29/11/2026 · 06:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "1. FC Magdeburg vs Energie Cottbus",
+      "time": "29/11/2026 · 06:00 PM",
       "is_today": false,
       "streams": []
     },
