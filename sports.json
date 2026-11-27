@@ -1,7 +1,7 @@
 {
-  "last_updated": "27/11/2026, 09:46:45 AM",
+  "last_updated": "27/11/2026, 09:51:50 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 69,
+  "total": 70,
   "matches": [
     {
       "category": "American Football",
@@ -291,10 +291,10 @@
       "streams": [
         {
           "name": "WILLOW AQ ",
-          "url": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd",
           "type": "MPD",
-          "key": "7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c",
-          "formatted_url": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd?|drmScheme=clearkey&drmLicense=7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c"
+          "key": "24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd?|drmScheme=clearkey&drmLicense=24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3"
         },
         {
           "name": "STARZPLAY FHD",
@@ -305,10 +305,10 @@
         },
         {
           "name": "SONYLIV ENG - AQ",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2018457/criclive2211/ENG/master.m3u8?hdnea=exp=1795369829~acl=/*~id=36174367699410305724247024336931~hmac=48585ca95e46e6fb786953efff169aa47ab584b94a7fa8858442153a01e9d040",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814834~acl=/*~id=51782647347076923355059385508694~hmac=94940f6df206c8440c3f88f64b3df390c718b49c7862016462ed0b3b957e9a9e",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/criclive2211/ENG/master.m3u8?hdnea=exp=1795369829~acl=/*~id=36174367699410305724247024336931~hmac=48585ca95e46e6fb786953efff169aa47ab584b94a7fa8858442153a01e9d040"
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814834~acl=/*~id=51782647347076923355059385508694~hmac=94940f6df206c8440c3f88f64b3df390c718b49c7862016462ed0b3b957e9a9e"
         },
         {
           "name": "TAMASHA AQ ",
@@ -636,6 +636,35 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4251055_english_hls_b4b255f9cb46377_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
+        }
+      ]
+    },
+    {
+      "category": "Tennis",
+      "title": "Italy vs Czechia",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "BEIN SPORTS ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "type": "MPD",
+          "key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "name": "TENNIS TV DE AQ ",
+          "url": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd",
+          "type": "MPD",
+          "key": "2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab",
+          "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd?|drmScheme=clearkey&drmLicense=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab"
+        },
+        {
+          "name": "TSN SPORTS AQ ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "type": "MPD",
+          "key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         }
       ]
     },
