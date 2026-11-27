@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2026, 06:17:03 AM",
+  "last_updated": "27/11/2026, 06:21:40 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 56,
   "matches": [
@@ -133,18 +133,18 @@
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
         },
         {
+          "name": "TAPMAD - AQ",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+        },
+        {
           "name": "WILLOW S2 - AQ",
           "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/t6yncydpeh/out/v1/769e083013ea4147b7d5a0ca8e1669c1/cenc.mpd",
           "type": "MPD",
           "key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73",
           "formatted_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/t6yncydpeh/out/v1/769e083013ea4147b7d5a0ca8e1669c1/cenc.mpd?|drmScheme=clearkey&drmLicense=5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73"
-        },
-        {
-          "name": "TAPMAD - AQ",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
         },
         {
           "name": "TEN SPORTS HD",
@@ -162,10 +162,10 @@
         },
         {
           "name": "TAPMAD HD",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
         }
       ]
     },
