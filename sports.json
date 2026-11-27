@@ -1,7 +1,7 @@
 {
-  "last_updated": "27/11/2026, 10:17:48 PM",
+  "last_updated": "27/11/2026, 10:22:49 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 96,
+  "total": 142,
   "matches": [
     {
       "category": "Darts",
@@ -868,7 +868,28 @@
     },
     {
       "category": "Football",
+      "title": "SG Dynamo Dresden vs FC St. Pauli",
+      "time": "🔴 TODAY · 05:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Holstein Kiel vs 1. FC Kaiserslautern",
+      "time": "🔴 TODAY · 05:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Hertha BSC vs Karlsruher SC",
+      "time": "🔴 TODAY · 05:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Holstein Kiel vs 1. FC Kaiserslautern",
       "time": "🔴 TODAY · 05:30 PM",
       "is_today": true,
       "streams": []
@@ -882,8 +903,29 @@
     },
     {
       "category": "Football",
-      "title": "Holstein Kiel vs 1. FC Kaiserslautern",
-      "time": "🔴 TODAY · 05:30 PM",
+      "title": "Al-Hazem vs Al-Nassr",
+      "time": "🔴 TODAY · 05:45 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Blackburn Rovers vs Charlton Athletic",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Lincoln City vs Wolverhampton",
+      "time": "🔴 TODAY · 06:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Preston North End vs Norwich City",
+      "time": "🔴 TODAY · 06:00 PM",
       "is_today": true,
       "streams": []
     },
@@ -927,6 +969,20 @@
       "category": "Football",
       "title": "Frosinone vs Parma",
       "time": "🔴 TODAY · 07:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Chennaiyin FC vs Mumbai City FC",
+      "time": "🔴 TODAY · 07:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Al-Ettifaq vs Al-Hilal",
+      "time": "🔴 TODAY · 07:50 PM",
       "is_today": true,
       "streams": []
     },
@@ -1109,6 +1165,90 @@
     },
     {
       "category": "Football",
+      "title": "Millwall vs Burnley",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "West Bromwich Albion vs Bristol City",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Birmingham City vs Bolton Wanderers",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Wrexham vs Portsmouth",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Aberdeen vs Dundee FC",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Queens Park Rangers vs Sheffield United",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Derby County vs Watford",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Rangers vs Falkirk FC",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Dundee United vs St. Johnstone",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Bodø/Glimt vs KFUM Oslo",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "West Ham United vs Stoke City",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "St. Mirren vs Kilmarnock",
+      "time": "🔴 TODAY · 08:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Albacete Balompié vs CD Tenerife",
       "time": "🔴 TODAY · 08:45 PM",
       "is_today": true,
@@ -1118,6 +1258,27 @@
       "category": "Football",
       "title": "Málaga CF vs Athletic Club",
       "time": "🔴 TODAY · 08:45 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Excelsior vs SC Telstar",
+      "time": "🔴 TODAY · 09:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Moreirense vs Santa Clara",
+      "time": "🔴 TODAY · 09:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FC Arouca vs Rio Ave",
+      "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
       "streams": []
     },
@@ -1179,6 +1340,41 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "Al-Ahli vs Al-Taawoun",
+      "time": "🔴 TODAY · 11:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Charlotte FC vs Chicago Fire",
+      "time": "🔴 TODAY · 11:00 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Motherwell vs Hibernian",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "PSV Eindhoven vs Go Ahead Eagles",
+      "time": "🔴 TODAY · 11:15 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Académico Viseu FC vs FC Alverca",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Boxing",
       "title": "Ozcan vs Afakir",
       "time": "29/11/2026 · 12:30 AM",
@@ -1199,6 +1395,13 @@
           "formatted_url": "https://messi.damitv.st/live-hls/channel/glory-109-kwasi-vs-hristov/playlist.m3u8?tk=Pkfz3CcWMDj2toNp_PYIGg&e=1788672638|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Houston Dynamo vs San Jose Earthquakes",
+      "time": "29/11/2026 · 01:00 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Football",
@@ -1264,6 +1467,27 @@
       "streams": []
     },
     {
+      "category": "Football",
+      "title": "Palmeiras vs Estudiantes de La Plata",
+      "time": "29/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Vitória SC vs CF Estrela Amadora",
+      "time": "29/11/2026 · 02:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Philadelphia Union vs New England Revolution",
+      "time": "29/11/2026 · 03:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Boxing",
       "title": "KABAYEL vs HYSA",
       "time": "29/11/2026 · 03:30 AM",
@@ -1315,6 +1539,20 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "FC Cincinnati vs Nashville SC",
+      "time": "29/11/2026 · 05:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Botafogo vs Bahia",
+      "time": "29/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Mixed Martial Arts",
       "title": "Henry Cejudo  vs Song Yadong",
       "time": "29/11/2026 · 06:30 AM",
@@ -1342,6 +1580,27 @@
           "formatted_url": "http://193.47.62.55/hls/EJJJAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Los Angeles FC vs St.Louis City",
+      "time": "29/11/2026 · 07:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Wellington Phoenix vs Adelaide United",
+      "time": "29/11/2026 · 07:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Portland Timbers vs FC Dallas",
+      "time": "29/11/2026 · 09:00 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Cricket",
@@ -1480,7 +1739,35 @@
     },
     {
       "category": "Football",
+      "title": "Udinese vs Fiorentina",
+      "time": "29/11/2026 · 05:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "FC Goa vs Kerala Blasters",
+      "time": "29/11/2026 · 05:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Everton vs Liverpool FC",
+      "time": "29/11/2026 · 05:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Everton vs Liverpool FC",
+      "time": "29/11/2026 · 05:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Swansea City vs Cardiff City",
       "time": "29/11/2026 · 05:30 PM",
       "is_today": false,
       "streams": []
@@ -1501,6 +1788,27 @@
     },
     {
       "category": "Football",
+      "title": "1. FC Magdeburg vs Energie Cottbus",
+      "time": "29/11/2026 · 06:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Eintracht Braunschweig vs VfL Wolfsburg",
+      "time": "29/11/2026 · 06:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "SpVgg Greuther Fürth vs Arminia Bielefeld",
+      "time": "29/11/2026 · 06:00 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
       "title": "Valencia vs Osasuna",
       "time": "29/11/2026 · 06:30 PM",
       "is_today": false,
@@ -1509,6 +1817,13 @@
     {
       "category": "Football",
       "title": "Granada vs AD Ceuta",
+      "time": "29/11/2026 · 06:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Football",
+      "title": "Valencia vs Osasuna",
       "time": "29/11/2026 · 06:30 PM",
       "is_today": false,
       "streams": []
@@ -1534,6 +1849,13 @@
           "formatted_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd?|drmScheme=clearkey&drmLicense=8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Feyenoord vs AFC Ajax",
+      "time": "29/11/2026 · 07:00 PM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Rugby",
