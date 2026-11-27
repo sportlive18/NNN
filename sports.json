@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2026, 01:42:31 PM",
+  "last_updated": "27/11/2026, 01:47:26 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 103,
   "matches": [
@@ -532,7 +532,22 @@
       "title": "Inter Kashi FC vs Churchill Brothers SC",
       "time": "🔴 TODAY · 07:30 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "SONYLIV ENG - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795829360~acl=/*~id=95429286744713212509089428602683~hmac=4702b5e5ae1b913d9c297563b82cc724ff8d2ee29092374d6f0092e99b324281",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795829360~acl=/*~id=95429286744713212509089428602683~hmac=4702b5e5ae1b913d9c297563b82cc724ff8d2ee29092374d6f0092e99b324281"
+        },
+        {
+          "name": "SONYLIV HIN - AQ",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795829360~acl=/*~id=95429286744713212509089428602683~hmac=4702b5e5ae1b913d9c297563b82cc724ff8d2ee29092374d6f0092e99b324281",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795829360~acl=/*~id=95429286744713212509089428602683~hmac=4702b5e5ae1b913d9c297563b82cc724ff8d2ee29092374d6f0092e99b324281"
+        }
+      ]
     },
     {
       "category": "Football",
