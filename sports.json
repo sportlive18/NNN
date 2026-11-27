@@ -1,7 +1,7 @@
 {
-  "last_updated": "27/11/2026, 07:41:47 AM",
+  "last_updated": "27/11/2026, 07:46:38 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 61,
+  "total": 67,
   "matches": [
     {
       "category": "American Football",
@@ -314,6 +314,13 @@
       ]
     },
     {
+      "category": "Rugby",
+      "title": "Brazil 7s vs Germany 7's",
+      "time": "🔴 TODAY · 04:30 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "Apolonia Fier U17 vs Elite Youth Academy U17",
       "time": "🔴 TODAY · 05:30 PM",
@@ -569,6 +576,13 @@
       "streams": []
     },
     {
+      "category": "Rugby",
+      "title": "Fiji vs Italy",
+      "time": "🔴 TODAY · 10:10 PM",
+      "is_today": true,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "1. FC Heidenheim vs 1. FC Nürnberg",
       "time": "🔴 TODAY · 11:00 PM",
@@ -628,6 +642,13 @@
       "category": "Football",
       "title": "Levante UD vs Real Racing Club",
       "time": "28/11/2026 · 01:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Rugby",
+      "title": "Ireland vs Australia",
+      "time": "28/11/2026 · 01:40 AM",
       "is_today": false,
       "streams": []
     },
@@ -766,6 +787,20 @@
       "streams": []
     },
     {
+      "category": "Rugby",
+      "title": "Ireland 7s vs Germany 7's",
+      "time": "28/11/2026 · 03:50 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Rugby",
+      "title": "Chameleons vs Scotty's Rugby Team",
+      "time": "28/11/2026 · 04:10 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "Hertha BSC vs Karlsruher SC",
       "time": "28/11/2026 · 05:30 PM",
@@ -797,6 +832,13 @@
       "category": "Football",
       "title": "Real Betis vs Rayo Vallecano",
       "time": "28/11/2026 · 06:30 PM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Rugby",
+      "title": "Wales vs Japan",
+      "time": "28/11/2026 · 06:40 PM",
       "is_today": false,
       "streams": []
     },
