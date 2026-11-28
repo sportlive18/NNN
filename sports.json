@@ -1,7 +1,7 @@
 {
-  "last_updated": "28/11/2026, 06:12:24 PM",
+  "last_updated": "28/11/2026, 06:17:04 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 92,
+  "total": 91,
   "matches": [
     {
       "category": "Darts",
@@ -1126,13 +1126,6 @@
           "formatted_url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd?|drmScheme=clearkey&drmLicense=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59"
         }
       ]
-    },
-    {
-      "category": "Football",
-      "title": "Académico Viseu FC vs FC Alverca",
-      "time": "🔴 TODAY · 11:30 PM",
-      "is_today": true,
-      "streams": []
     },
     {
       "category": "Boxing",
