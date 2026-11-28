@@ -1,7 +1,7 @@
 {
-  "last_updated": "28/11/2026, 02:02:48 PM",
+  "last_updated": "28/11/2026, 02:07:37 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 117,
+  "total": 111,
   "matches": [
     {
       "category": "Darts",
@@ -79,49 +79,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.41/hls/V444AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Stade Brestois vs Paris FC",
-      "time": "🔴 TODAY · 01:15 AM",
-      "is_today": true,
-      "streams": [
-        {
-          "name": "DAZN SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rmn19s8wdd/out/v1/c6fff80daa1945ff8fdac0c199dea401/cenc.mpd",
-          "type": "MPD",
-          "key": "d668737f16a0f76a7e3f57d1566697bf:68d3ed7004cbe4f6a6c569bc03f9db88",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rmn19s8wdd/out/v1/c6fff80daa1945ff8fdac0c199dea401/cenc.mpd?|drmScheme=clearkey&drmLicense=d668737f16a0f76a7e3f57d1566697bf:68d3ed7004cbe4f6a6c569bc03f9db88"
-        },
-        {
-          "name": "beIN SPORTS - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
-        },
-        {
-          "name": "beIN SPANISH - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
-        },
-        {
-          "name": "HD SERVER",
-          "url": "https://www.rtmpcdn.com/live/7b56e7fa-1a8c-49f6-9884-239228beb295.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://www.rtmpcdn.com/live/7b56e7fa-1a8c-49f6-9884-239228beb295.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
-        },
-        {
-          "name": "LOW SERVER",
-          "url": "http://193.47.62.41/hls/V444AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/V444AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -901,6 +858,34 @@
       "is_today": true,
       "streams": [
         {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/deut0uoays/out/v1/dc0b396f73ed4c8db8bfc70c985798d5/cenc.mpd",
+          "type": "MPD",
+          "key": "c74afb61c9ed0eb91595e1afbe43d7f1:aa1acd988dee6106039eac115c49f79d",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/deut0uoays/out/v1/dc0b396f73ed4c8db8bfc70c985798d5/cenc.mpd?|drmScheme=clearkey&drmLicense=c74afb61c9ed0eb91595e1afbe43d7f1:aa1acd988dee6106039eac115c49f79d"
+        },
+        {
+          "name": "FUBO SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd",
+          "type": "MPD",
+          "key": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd?|drmScheme=clearkey&drmLicense=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298"
+        },
+        {
+          "name": "DAZN ITALIA - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fxdzg12g3i/out/v1/4165e1e7162c4c81b3a64b1f45094210/cenc.mpd",
+          "type": "MPD",
+          "key": "d03a51b92c10882ddc7fc23f1c1c182e:1729453ea2188cc9fea59a572dc440ba",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fxdzg12g3i/out/v1/4165e1e7162c4c81b3a64b1f45094210/cenc.mpd?|drmScheme=clearkey&drmLicense=d03a51b92c10882ddc7fc23f1c1c182e:1729453ea2188cc9fea59a572dc440ba"
+        },
+        {
+          "name": "SPORT 2 CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "type": "MPD",
+          "key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "formatted_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
           "name": "PlayZTV Live",
           "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61251\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
           "type": "DIRECT",
@@ -913,6 +898,13 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https://chatgpt.hereisman.net/playlist/61251/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.41/hls/TTTTAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/TTTTAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -1265,20 +1257,6 @@
       "streams": []
     },
     {
-      "category": "Football",
-      "title": "Angers vs RC Lens",
-      "time": "🔴 TODAY · 09:45 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Angers vs RC Lens",
-      "time": "🔴 TODAY · 09:45 PM",
-      "is_today": true,
-      "streams": []
-    },
-    {
       "category": "Rugby",
       "title": "England vs New Zealand",
       "time": "🔴 TODAY · 10:10 PM",
@@ -1408,20 +1386,6 @@
     },
     {
       "category": "Football",
-      "title": "Paris Saint-Germain vs Lorient",
-      "time": "29/11/2026 · 01:15 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "Le Mans vs LOSC Lille",
-      "time": "29/11/2026 · 01:15 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
       "title": "OGC Nice vs Troyes",
       "time": "29/11/2026 · 01:15 AM",
       "is_today": false,
@@ -1437,13 +1401,6 @@
     {
       "category": "Football",
       "title": "Le Mans vs LOSC Lille",
-      "time": "29/11/2026 · 01:15 AM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "OGC Nice vs Troyes",
       "time": "29/11/2026 · 01:15 AM",
       "is_today": false,
       "streams": []
