@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/11/2026, 03:07:39 PM",
+  "last_updated": "28/11/2026, 03:12:30 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 120,
   "matches": [
@@ -1397,7 +1397,15 @@
       "title": "Málaga CF vs Athletic Club",
       "time": "🔴 TODAY · 08:45 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/um0kkq6pea/out/v1/49c2ad5a13d14c4a895fb77f23f93fcb/cenc.mpd",
+          "type": "MPD",
+          "key": "c977d5dc5dd558690680f51ed66d948d:b8f0d19112c33479b9cfc6382beba457",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/um0kkq6pea/out/v1/49c2ad5a13d14c4a895fb77f23f93fcb/cenc.mpd?|drmScheme=clearkey&drmLicense=c977d5dc5dd558690680f51ed66d948d:b8f0d19112c33479b9cfc6382beba457"
+        }
+      ]
     },
     {
       "category": "Football",
