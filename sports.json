@@ -1,7 +1,7 @@
 {
-  "last_updated": "28/11/2026, 02:07:37 PM",
+  "last_updated": "28/11/2026, 02:12:42 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 111,
+  "total": 128,
   "matches": [
     {
       "category": "Darts",
@@ -1434,6 +1434,13 @@
       "streams": []
     },
     {
+      "category": "Hockey",
+      "title": "Vegas Golden Knights vs Montréal Canadiens",
+      "time": "29/11/2026 · 02:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "Philadelphia Union vs New England Revolution",
       "time": "29/11/2026 · 03:00 AM",
@@ -1570,6 +1577,20 @@
       ]
     },
     {
+      "category": "Basketball",
+      "title": "Charlotte Hornets vs Brooklyn Nets",
+      "time": "29/11/2026 · 04:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Florida Panthers vs Tampa Bay Lightning",
+      "time": "29/11/2026 · 04:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "FC Cincinnati vs Nashville SC",
       "time": "29/11/2026 · 05:00 AM",
@@ -1580,6 +1601,55 @@
       "category": "Football",
       "title": "Botafogo vs Bahia",
       "time": "29/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "New York Rangers vs Calgary Flames",
+      "time": "29/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "St. Louis Blues vs Washington Capitals",
+      "time": "29/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "New Jersey Devils vs Winnipeg Jets",
+      "time": "29/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Carolina Hurricanes vs Ottawa Senators",
+      "time": "29/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Detroit Red Wings vs Nashville Predators",
+      "time": "29/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Pittsburgh Penguins vs Toronto Maple Leafs",
+      "time": "29/11/2026 · 05:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Philadelphia Flyers vs New York Islanders",
+      "time": "29/11/2026 · 06:00 AM",
       "is_today": false,
       "streams": []
     },
@@ -1620,8 +1690,36 @@
       "streams": []
     },
     {
+      "category": "Basketball",
+      "title": "Chicago Bulls vs Indiana Pacers",
+      "time": "29/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Milwaukee Bucks vs Oklahoma City Thunder",
+      "time": "29/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Dallas Stars vs Utah Mammoth",
+      "time": "29/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
       "category": "Football",
       "title": "Los Angeles FC vs St.Louis City",
+      "time": "29/11/2026 · 07:00 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Basketball",
+      "title": "Houston Rockets vs Philadelphia 76ers",
       "time": "29/11/2026 · 07:00 AM",
       "is_today": false,
       "streams": []
@@ -1630,6 +1728,27 @@
       "category": "Football",
       "title": "Wellington Phoenix vs Adelaide United",
       "time": "29/11/2026 · 07:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Colorado Avalanche vs San Jose Sharks",
+      "time": "29/11/2026 · 07:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Los Angeles Kings vs Anaheim Ducks",
+      "time": "29/11/2026 · 07:30 AM",
+      "is_today": false,
+      "streams": []
+    },
+    {
+      "category": "Hockey",
+      "title": "Seattle Kraken vs Edmonton Oilers",
+      "time": "29/11/2026 · 08:30 AM",
       "is_today": false,
       "streams": []
     },
