@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/11/2026, 02:48:13 PM",
+  "last_updated": "28/11/2026, 02:53:03 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 120,
   "matches": [
@@ -1027,6 +1027,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "FUBO SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j8amxihvvf/out/v1/ee234bf8b2854366834b938725860805/cenc.mpd",
+          "type": "MPD",
+          "key": "78f7863d9908f8e036a0e19515e8e848:30e4471a447f134df0caf05559cb6fe3",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j8amxihvvf/out/v1/ee234bf8b2854366834b938725860805/cenc.mpd?|drmScheme=clearkey&drmLicense=78f7863d9908f8e036a0e19515e8e848:30e4471a447f134df0caf05559cb6fe3"
+        },
+        {
           "name": "PlayZTV Live",
           "url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61253\\/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
           "type": "DIRECT",
@@ -1048,6 +1055,13 @@
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "FUBO SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd",
+          "type": "MPD",
+          "key": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?|drmScheme=clearkey&drmLicense=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7"
+        },
         {
           "name": "HD SERVER",
           "url": "https://chatgpt.hereisman.net/playlist/61242/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
@@ -1085,6 +1099,13 @@
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "beIN ENGLISH - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
         {
           "name": "HD STREAM ",
           "url": "https://live1.quickscoreboardz.com/live/channel67/playlist.m3u8?wsSecret=35f8e49410c8c7bbf6514e368d84278d&wsABSTime=1795919111|referer=https://soco.domainkqt.cc/",
