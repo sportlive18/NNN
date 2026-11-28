@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/11/2026, 10:28:18 AM",
+  "last_updated": "28/11/2026, 10:32:44 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 118,
   "matches": [
@@ -566,13 +566,6 @@
           "type": "MPD",
           "key": "d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f",
           "formatted_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd?|drmScheme=clearkey&drmLicense=d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f"
-        },
-        {
-          "name": "FANCODE [IND]",
-          "url": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
         }
       ]
     },
