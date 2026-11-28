@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/11/2026, 05:47:09 PM",
+  "last_updated": "28/11/2026, 05:52:08 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 92,
   "matches": [
@@ -860,6 +860,13 @@
           "formatted_url": "https://chatgpt.hereisman.net/playlist/61269/load-playlist-multi?|Referer=https://gooz.aapmains.net"
         },
         {
+          "name": "HD SERVER",
+          "url": "https://www.rtmpcdn.com/live/5a9cda05-3611-4759-b0d1-70ccde703dc3.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/5a9cda05-3611-4759-b0d1-70ccde703dc3.m3u8"
+        },
+        {
           "name": "LOW SERVER",
           "url": "http://193.47.62.59/hls/D3333.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
           "type": "M3U8",
@@ -880,6 +887,20 @@
           "type": "MPD",
           "key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
           "formatted_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
+        },
+        {
+          "name": "FANCODE [IND]",
+          "url": "https://in-mc-vod.fancode.com/mumbai/4251118_english_hls_b52a318e9f33808_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4251118_english_hls_b52a318e9f33808_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.50/hls/FVFVFVAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/FVFVFVAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -897,11 +918,32 @@
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nu9lmcfehr/out/v1/a64019ce0dec406a8cb5887d9cf4c656/cenc.mpd?|drmScheme=clearkey&drmLicense=fa97cd41f480c64d263549038b855fd2:bd9ab8735a2ac117c4f77d9862510d8c"
         },
         {
+          "name": "TAPMAD - AQ",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
+        },
+        {
+          "name": "FANCODE [IND]",
+          "url": "https://in-mc-vod.fancode.com/mumbai/4250973_english_hls_357cacc57522237_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://in-mc-vod.fancode.com/mumbai/4250973_english_hls_357cacc57522237_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
+        },
+        {
           "name": "LOW SERVER",
           "url": "http://193.47.62.50/hls/FVFVFVAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.50/hls/FVFVFVAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.50/hls/FVFVFVAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.50/hls/FVFVFVAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -917,6 +959,13 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.50/hls/FVFVFVA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "https://www.rtmpcdn.com/live/6bb289ec-5111-4049-8994-590f323f1825.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/6bb289ec-5111-4049-8994-590f323f1825.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -932,6 +981,13 @@
           "type": "MPD",
           "key": "28c270de72ed2ffab8b477c2f3d35c61:dfe35a85f9ba6326a2f9f8514bac99b8",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/voytp3p31f/out/v1/0865f52bcc8243f48d25d5f1e7b5fd37/cenc.mpd?|drmScheme=clearkey&drmLicense=28c270de72ed2ffab8b477c2f3d35c61:dfe35a85f9ba6326a2f9f8514bac99b8"
+        },
+        {
+          "name": "PEACOCK ES - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8lrksiilbb/out/v1/8461cf574b4647dcb7944109f1064495/cenc.mpd",
+          "type": "MPD",
+          "key": "086e9f0657cc57a1730f96ce68e49c88:a8bf90b6743586bf8f6c3d0fb39de42a",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8lrksiilbb/out/v1/8461cf574b4647dcb7944109f1064495/cenc.mpd?|drmScheme=clearkey&drmLicense=086e9f0657cc57a1730f96ce68e49c88:a8bf90b6743586bf8f6c3d0fb39de42a"
         },
         {
           "name": "Sky Top Event- AQ",
@@ -982,6 +1038,13 @@
           "type": "DIRECT",
           "key": null,
           "formatted_url": "https://chatgpt.hereisman.net/playlist/61271/load-playlist-multi?|Referer=https://gooz.aapmains.net"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://www.rtmpcdn.com/live/86b34f09-f23d-44fd-8bcd-de8778ca1703.m3u8",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/86b34f09-f23d-44fd-8bcd-de8778ca1703.m3u8"
         },
         {
           "name": "LOW SERVER",
