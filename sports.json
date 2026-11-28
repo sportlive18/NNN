@@ -1,7 +1,7 @@
 {
-  "last_updated": "28/11/2026, 06:13:13 AM",
+  "last_updated": "28/11/2026, 06:18:26 AM",
   "telegram": "https://t.me/sportlink10",
-  "total": 128,
+  "total": 129,
   "matches": [
     {
       "category": "Darts",
@@ -1347,6 +1347,13 @@
           "formatted_url": "http://193.47.62.55/hls/EJJJAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
+    },
+    {
+      "category": "Football",
+      "title": "Atlas FC vs CD Toluca",
+      "time": "29/11/2026 · 06:30 AM",
+      "is_today": false,
+      "streams": []
     },
     {
       "category": "Football",
