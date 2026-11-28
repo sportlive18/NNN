@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/11/2026, 04:57:08 PM",
+  "last_updated": "28/11/2026, 05:02:47 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 121,
   "matches": [
@@ -1271,96 +1271,35 @@
       "title": "Derby County vs Watford",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "HD STREAM ",
-          "url": "https://live1.quickscoreboardz.com/live/channel66/playlist.m3u8?wsSecret=f2221122317774f1f32a7c57b4d30247&wsABSTime=1795919484|referer=https://soco.domainkqt.cc/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live1.quickscoreboardz.com/live/channel66/playlist.m3u8?wsSecret=f2221122317774f1f32a7c57b4d30247&wsABSTime=1795919484|referer=https://soco.domainkqt.cc/"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.59/hls/DOOOAAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.59/hls/DOOOAAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
       "title": "Rangers vs Falkirk FC",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.59/hls/DOOOAAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.59/hls/DOOOAAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
       "title": "Dundee United vs St. Johnstone",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.44/hls/XQXQXQAAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.44/hls/XQXQXQAAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
       "title": "Bodø/Glimt vs KFUM Oslo",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "HD STREAM ",
-          "url": "https://live1.quickscoreboardz.com/live/channel18/playlist.m3u8?wsSecret=bb6fb17e307bad9b72ab4ea942992409&wsABSTime=1795919112|referer=https://soco.domainkqt.cc/",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "https://live1.quickscoreboardz.com/live/channel18/playlist.m3u8?wsSecret=bb6fb17e307bad9b72ab4ea942992409&wsABSTime=1795919112|referer=https://soco.domainkqt.cc/"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.41/hls/GYYYA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/GYYYA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
       "title": "West Ham United vs Stoke City",
       "time": "🔴 TODAY · 08:30 PM",
       "is_today": true,
-      "streams": [
-        {
-          "name": "PARAMOUNT+ - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvfql4t30e/out/v1/0e7cd57db7a346bdb57f1b84809f5ef7/cenc.mpd",
-          "type": "MPD",
-          "key": "dd564ce6ea42136e413d8d18ba4eda5e:f49a28f4ac60bf390c4a89f96554f9ff",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvfql4t30e/out/v1/0e7cd57db7a346bdb57f1b84809f5ef7/cenc.mpd?|drmScheme=clearkey&drmLicense=dd564ce6ea42136e413d8d18ba4eda5e:f49a28f4ac60bf390c4a89f96554f9ff"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.59/hls/DOOOAAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.59/hls/DOOOAAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        }
-      ]
+      "streams": []
     },
     {
       "category": "Football",
