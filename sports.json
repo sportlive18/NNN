@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/11/2026, 03:32:23 PM",
+  "last_updated": "28/11/2026, 03:37:54 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 120,
   "matches": [
@@ -1404,6 +1404,13 @@
           "type": "MPD",
           "key": "c977d5dc5dd558690680f51ed66d948d:b8f0d19112c33479b9cfc6382beba457",
           "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/um0kkq6pea/out/v1/49c2ad5a13d14c4a895fb77f23f93fcb/cenc.mpd?|drmScheme=clearkey&drmLicense=c977d5dc5dd558690680f51ed66d948d:b8f0d19112c33479b9cfc6382beba457"
+        },
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.41/hls/KKKKAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/KKKKAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
         }
       ]
     },
@@ -1412,21 +1419,45 @@
       "title": "Excelsior vs SC Telstar",
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.41/hls/KKKKAAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/KKKKAAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Moreirense vs Santa Clara",
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.41/hls/KKKKAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/KKKKAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "FC Arouca vs Rio Ave",
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
-      "streams": []
+      "streams": [
+        {
+          "name": "LOW SERVER",
+          "url": "http://193.47.62.41/hls/KKKKAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/KKKKAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
     },
     {
       "category": "Rugby",
