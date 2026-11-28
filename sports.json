@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/11/2026, 06:21:59 PM",
+  "last_updated": "28/11/2026, 06:27:05 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 91,
   "matches": [
@@ -1129,6 +1129,21 @@
     },
     {
       "category": "Boxing",
+      "title": "KABAYEL vs HYSA",
+      "time": "🔴 TODAY · 11:30 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "DAZN SPORTS HD",
+          "url": "https://chatgpt.hereisman.net/playlist/59448/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/59448/load-playlist-multi?|Referer=https://gooz.aapmains.net"
+        }
+      ]
+    },
+    {
+      "category": "Boxing",
       "title": "Ozcan vs Afakir",
       "time": "29/11/2026 · 12:30 AM",
       "is_today": false,
@@ -1354,35 +1369,6 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795859073~acl=/*~id=84541746357047622259354396811637~hmac=5fc3f6f7912b214bf6e2f2512263bd5102f9db826ca2478451c781ebc55c17e3"
-        }
-      ]
-    },
-    {
-      "category": "Boxing",
-      "title": "KABAYEL vs HYSA",
-      "time": "29/11/2026 · 03:30 AM",
-      "is_today": false,
-      "streams": [
-        {
-          "name": "DAZN AQ ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w8w8dsk18o/out/v1/5b80a7c32b38459d9042d06347c07706/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "type": "MPD",
-          "key": "d2acec7255df9907e1578e94183ed352:4391cf6824b5a556a7571cee7f238649",
-          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w8w8dsk18o/out/v1/5b80a7c32b38459d9042d06347c07706/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=d2acec7255df9907e1578e94183ed352:4391cf6824b5a556a7571cee7f238649"
-        },
-        {
-          "name": "DAZN SPORTS HD",
-          "url": "https://chatgpt.hereisman.net/playlist/59448/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-          "type": "DIRECT",
-          "key": null,
-          "formatted_url": "https://chatgpt.hereisman.net/playlist/59448/load-playlist-multi?|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "name": "SD STREAM",
-          "url": "http://193.47.62.41/hls/HLLLAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-          "type": "M3U8",
-          "key": null,
-          "formatted_url": "http://193.47.62.41/hls/HLLLAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
