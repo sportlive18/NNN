@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/11/2026, 12:32:24 PM",
+  "last_updated": "28/11/2026, 12:37:45 PM",
   "telegram": "https://t.me/sportlink10",
   "total": 117,
   "matches": [
@@ -684,11 +684,32 @@
           "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
         },
         {
-          "name": "LOW SERVER",
-          "url": "http://193.47.62.41/hls/DEEEAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+          "name": "TAPMAD - AQ",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
           "type": "M3U8",
           "key": null,
-          "formatted_url": "http://193.47.62.41/hls/DEEEAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+          "formatted_url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
+        },
+        {
+          "name": "HD SERVER",
+          "url": "https://chatgpt.hereisman.net/playlist/61239/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "type": "DIRECT",
+          "key": null,
+          "formatted_url": "https://chatgpt.hereisman.net/playlist/61239/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "HD STREAM",
+          "url": "https://www.rtmpcdn.com/live/bf421854-219b-402a-bdfb-9614f9601feb.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://www.rtmpcdn.com/live/bf421854-219b-402a-bdfb-9614f9601feb.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "SD STREAM",
+          "url": "http://193.47.62.41/hls/DEEEAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "http://193.47.62.41/hls/DEEEAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -714,6 +735,13 @@
       "is_today": true,
       "streams": [
         {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x6ginyunf7/out/v1/ed32e46a405247b7a8f07c9f8d4391fb/cenc.mpd",
+          "type": "MPD",
+          "key": "64fcc9ada4b24f5f671f04b0599ac141:2207c97243479b71f98ff8a2eb778de8",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x6ginyunf7/out/v1/ed32e46a405247b7a8f07c9f8d4391fb/cenc.mpd?|drmScheme=clearkey&drmLicense=64fcc9ada4b24f5f671f04b0599ac141:2207c97243479b71f98ff8a2eb778de8"
+        },
+        {
           "name": "LOW SERVER",
           "url": "http://193.47.62.44/hls/D777AAAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
           "type": "M3U8",
@@ -728,6 +756,13 @@
       "time": "🔴 TODAY · 06:00 PM",
       "is_today": true,
       "streams": [
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fudvyeqmc6/out/v1/ab94f757749245cda20281f9cd25f53b/cenc.mpd",
+          "type": "MPD",
+          "key": "1d4a37687e5b0547c937b4d1318cc9c4:7a99702738b3651a5984c7ea704fa487",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fudvyeqmc6/out/v1/ab94f757749245cda20281f9cd25f53b/cenc.mpd?|drmScheme=clearkey&drmLicense=1d4a37687e5b0547c937b4d1318cc9c4:7a99702738b3651a5984c7ea704fa487"
+        },
         {
           "name": "beIN ENGLISH - AQ",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
