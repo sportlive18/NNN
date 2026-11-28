@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/11/2026, 09:12:45 AM",
+  "last_updated": "28/11/2026, 09:17:42 AM",
   "telegram": "https://t.me/sportlink10",
   "total": 118,
   "matches": [
@@ -459,13 +459,6 @@
           "type": "MPD",
           "key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
           "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "name": "TNT SPORTS AQ ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "type": "MPD",
-          "key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
-          "formatted_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
         }
       ]
     },
@@ -1795,7 +1788,15 @@
       "title": "GROMDA vs GROMDA",
       "time": "04/12/2026 · 12:30 AM",
       "is_today": false,
-      "streams": []
+      "streams": [
+        {
+          "name": "PLAYZTV FHD ",
+          "url": "https://messi.damitv.st/live-hls/channel/gromda-26/playlist.m3u8?tk=Qs7Wg_MbnM2lVs-dzOAlvQ&e=1788586257|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+          "type": "M3U8",
+          "key": null,
+          "formatted_url": "https://messi.damitv.st/live-hls/channel/gromda-26/playlist.m3u8?tk=Qs7Wg_MbnM2lVs-dzOAlvQ&e=1788586257|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+        }
+      ]
     },
     {
       "category": "Mixed Martial Arts",
