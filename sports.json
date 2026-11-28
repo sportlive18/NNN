@@ -1,7 +1,7 @@
 {
-  "last_updated": "28/11/2026, 04:27:38 PM",
+  "last_updated": "28/11/2026, 04:32:29 PM",
   "telegram": "https://t.me/sportlink10",
-  "total": 120,
+  "total": 121,
   "matches": [
     {
       "category": "Darts",
@@ -1416,6 +1416,21 @@
     },
     {
       "category": "Football",
+      "title": "CD Eldense vs Girona FC",
+      "time": "🔴 TODAY · 08:45 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "PlayZ TV Live",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+          "type": "MPD",
+          "key": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
+          "formatted_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd?|drmScheme=clearkey&drmLicense=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f"
+        }
+      ]
+    },
+    {
+      "category": "Football",
       "title": "Excelsior vs SC Telstar",
       "time": "🔴 TODAY · 09:00 PM",
       "is_today": true,
@@ -1456,6 +1471,35 @@
           "type": "M3U8",
           "key": null,
           "formatted_url": "http://193.47.62.41/hls/KKKKAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc"
+        }
+      ]
+    },
+    {
+      "category": "Football",
+      "title": "Angers vs RC Lens",
+      "time": "🔴 TODAY · 09:45 PM",
+      "is_today": true,
+      "streams": [
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ovc9ckljg8/out/v1/76a556891e9447309205972ad4ae6d48/cenc.mpd",
+          "type": "MPD",
+          "key": "f6ee12913c97cb9fe2941ba8b81c5bab:995b153c1d7c8c486c0116e5b45e4a0d",
+          "formatted_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ovc9ckljg8/out/v1/76a556891e9447309205972ad4ae6d48/cenc.mpd?|drmScheme=clearkey&drmLicense=f6ee12913c97cb9fe2941ba8b81c5bab:995b153c1d7c8c486c0116e5b45e4a0d"
+        },
+        {
+          "name": "beIN SPORTS - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "name": "beIN SPANISH - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "type": "MPD",
+          "key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+          "formatted_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
         }
       ]
     },
@@ -2167,13 +2211,6 @@
     {
       "category": "Football",
       "title": "Eintracht Braunschweig vs VfL Wolfsburg",
-      "time": "29/11/2026 · 06:00 PM",
-      "is_today": false,
-      "streams": []
-    },
-    {
-      "category": "Football",
-      "title": "1. FC Magdeburg vs Energie Cottbus",
       "time": "29/11/2026 · 06:00 PM",
       "is_today": false,
       "streams": []
